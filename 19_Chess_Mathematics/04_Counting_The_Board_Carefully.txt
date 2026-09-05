@@ -1,0 +1,41 @@
+Counting the board without inventing a number
+=============================================
+
+The chessboard has sixty-four squares because it contains eight rows and eight columns. It
+begins with thirty-two pieces, so exactly half the squares are occupied. Each side begins
+with sixteen pieces: one king, one queen, two rooks, two bishops, two knights, and eight
+pawns.
+
+These small exact counts do not make position counting simple. If you merely choose
+thirty-two occupied squares from sixty-four, the binomial coefficient is
+1,832,624,140,942,590,534. That counts only choices of occupied locations. It does not
+assign piece types or colors, track whose turn it is, enforce one king per side, or
+eliminate illegal arrangements. It is neither the number of chess positions nor a useful
+estimate by itself.
+
+Multiplying arbitrary choices can easily produce nonsense. You cannot place every piece
+independently on any square because two pieces cannot occupy one square. Pawns face
+direction and cannot legally remain on their promotion row. Kings cannot occupy mutually
+illegal locations. Some arrangements cannot arise from the initial material because
+promotions and captures impose historical constraints.
+
+A legal-position count must define 'legal.' Does it mean reachable from the initial setup by
+some legal sequence? Does it include positions that could exist only after many promotions?
+Does it distinguish draw counters and castling rights? Does it count visually identical
+boards separately when the player to move differs? Different definitions answer different
+questions.
+
+Combinatorics remains useful when the sample space is defined. There are sixty-four choices
+for the location of one hypothetical marker. There are sixty-four times sixty-three ordered
+choices for two distinguishable markers without overlap, or 4,032. If the markers are
+indistinguishable, divide by two and obtain 2,016 unordered pairs. The difference between
+distinguishable and indistinguishable objects appears throughout chess counting.
+
+Do not trust a huge number merely because it contains factorials and powers. Check whether
+choices are independent, whether order matters, whether illegal cases were removed, and
+whether histories create distinct states. A transparent lower or upper bound can be more
+informative than an unexplained 'exact' number.
+
+Exercise: invent a simplified board with only two kings and one rook. List the constraints a
+position counter would need before attempting arithmetic. Defining the object correctly is
+the first mathematical move.

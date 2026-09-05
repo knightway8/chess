@@ -1,0 +1,52 @@
+Queen's Gambit, Slav, Semi-Slav, and Tarrasch families
+======================================================
+
+QUEEN'S GAMBIT
+
+White offers a wing pawn to distract Black's central pawn and build a stronger center. This
+is usually a positional gambit: Black cannot safely keep the extra pawn without concessions
+in many lines. The central structure matters more than the temporary material offer.
+
+QUEEN'S GAMBIT DECLINED
+
+Black supports the center and maintains tension. White develops and seeks pressure on the
+center, while Black aims for freeing breaks and queen-bishop activity. Orthodox structures
+can lead to a minority attack on the queenside. The Exchange Variation fixes the pawn
+structure early and makes plans clearer without removing tactical details.
+
+QUEEN'S GAMBIT ACCEPTED
+
+Black releases central tension and takes the offered pawn, usually intending development
+rather than permanent pawn defense. White builds a center and recovers the pawn or gains
+activity. Black challenges the center and seeks a free game. Clinging to the pawn can cost
+too many tempi.
+
+SLAV DEFENSE
+
+The Slav supports the center with the queen-bishop pawn and often preserves a route for the
+queen bishop. Black obtains a sound structure. White chooses between central pressure, quiet
+development, and sharp attempts to exploit the bishop's movement away from the queenside.
+
+SEMI-SLAV DEFENSE
+
+The Semi-Slav combines the central support of the Queen's Gambit Declined and Slav but
+temporarily blocks the queen bishop. It prepares central expansion and can lead to some of
+the sharpest queen-pawn positions. Meran structures emphasize central breaks and active
+bishops; Botvinnik-type systems can become deeply tactical with material imbalance.
+
+TARRASCH DEFENSE
+
+The Tarrasch strikes the center actively and often accepts an isolated central pawn for free
+piece play. Black values activity and open lines; White seeks blockade and favorable
+exchanges. The Semi-Tarrasch changes the exchange order and may avoid or transform the
+isolated-pawn structure.
+
+ALBIN COUNTERGAMBIT AND CHIGORIN DEFENSE
+
+The Albin offers a pawn to establish an advanced central pawn and gain activity. White
+should blockade and complete development without falling for promotion traps. The Chigorin
+develops the queen knight in a way that blocks a pawn but increases piece pressure on the
+center. Both challenge quiet Queen's Gambit expectations with concrete play.
+
+Across the family, learn the central breaks, queen-bishop problem, isolated-pawn plans, and
+minority attack. Those ideas connect many named variations.

@@ -1,0 +1,52 @@
+Petroff, Philidor, Four Knights, and related development
+========================================================
+
+PETROFF DEFENSE
+
+The Petroff answers the early knight attack symmetrically and challenges the first player's
+center. Symmetry can produce equality, but copying moves blindly fails when the first player
+uses the extra tempo. Central tactics occur early, so both sides must complete each exchange
+before assuming a pawn is free.
+
+Quiet branches lead to balanced structures where small development gains, open files, and
+endgame technique matter. Aggressive branches test the center and king before castling.
+Black's strategic aim is active equality, not passive imitation. White often seeks a lasting
+initiative from space or piece activity rather than a direct material gain.
+
+PHILIDOR DEFENSE
+
+The Philidor supports the central pawn with another pawn and builds a compact position. The
+cost is restricting a bishop and temporarily conceding space. Black must arrange a freeing
+break or active piece placement; defending the center forever produces a cramped game.
+
+White should develop and keep pressure without assuming that space wins by itself. Premature
+sacrifices against the king can release Black's position. Lion and Hanham structures
+describe compact arrangements with different move-order concerns. Understand which central
+break Black seeks and which exchange would free the restricted bishop.
+
+FOUR KNIGHTS GAME
+
+Both sides develop both knights early, producing sound positions with many transpositions.
+The apparent simplicity hides different centers. A bishop pin can lead toward Spanish
+structures, an early central break toward the Scotch, and a quieter bishop development
+toward symmetrical maneuvering.
+
+Do not continue symmetry without purpose. The side moving first may break symmetry with a
+central advance or active pin. The defender seeks exchanges or a timely break. Because
+pieces are developed, central contact can occur without the same king danger as in
+undeveloped gambits.
+
+THREE KNIGHTS AND KING'S KNIGHT OPENINGS
+
+These labels often describe early positions before a more specific family is reached. One
+side may delay the second knight to preserve pawn options or choose another setup. Treat the
+name as a junction. Ask which main family the structure can become and what the unusual
+omission permits.
+
+ELEPHANT AND LATVIAN GAMBITS
+
+These countergambits strike aggressively before development is secure. They can create
+traps, but accurate play often leaves the defender of the gambit accepting long-term risk. A
+learner should study the central refutation ideas and calm development, not chase every
+offered pawn. If using them, understand the objective cost and the positions after the
+opponent avoids the trap.

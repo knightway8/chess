@@ -1,0 +1,54 @@
+Nimzo-Indian, Queen's Indian, and Bogo-Indian
+=============================================
+
+NIMZO-INDIAN DEFENSE
+
+Black develops a bishop to pin the queen knight and increases control of the center without
+immediately placing a pawn there. White must decide whether to accept doubled pawns, avoid
+the structural change, or use the bishop pair. Black often gives up a bishop to damage
+structure and control key squares.
+
+The doubled pawns can be targets, but they may support central control and open a file.
+White's bishop pair can become powerful if the position opens. Black seeks blockades and
+pressure before that dynamic potential matures. Major branches such as the Classical,
+Rubinstein, Sämisch, and Leningrad reflect different choices of queen development, modest
+support, pawn expansion, and bishop activity.
+
+QUEEN'S INDIAN DEFENSE
+
+When White avoids the knight placement that permits the Nimzo pin, Black often develops the
+queen bishop on a long diagonal and contests the center through piece pressure. White
+chooses between building a pawn center, fianchettoing, or controlling key squares with
+pieces. The struggle is strategic but contains tactics around the long diagonal.
+
+Black wants active bishops and a timely central break. White can gain space but must prevent
+the center from becoming fixed targets. Exchanges of the queen bishops change control of
+light squares and often shape the middlegame.
+
+BOGO-INDIAN DEFENSE
+
+The Bogo uses an early bishop check when the Nimzo setup is unavailable. White can block
+with a bishop, knight, or queen, each creating a different structure and development
+pattern. Black often exchanges to achieve a sound position or retreats while maintaining
+pressure.
+
+The check is a development tool, not a promise to attack the king. Evaluate what blocks,
+what recaptures, and whether Black has improved or surrendered the bishop without enough
+gain.
+
+CATALAN OPENING
+
+The Catalan combines a queen-pawn center with a fianchettoed king bishop. White applies
+long-term pressure along the diagonal and may offer the wing pawn temporarily. Black chooses
+between holding the center, accepting the pawn and solving development, or creating a solid
+closed setup.
+
+White's compensation for a pawn can be lasting pressure, but recovery is not automatic.
+Black should complete development and challenge the long bishop; White should avoid turning
+positional pressure into an unjustified attack.
+
+INDIAN DEFENSE AS A LABEL
+
+The broad Indian Defense name includes early king-knight development against a queen-pawn
+start before a specific structure is chosen. It is a junction, not a single strategy.
+Determine which bishop development and central pawn break follow.

@@ -1,0 +1,53 @@
+Vienna, Bishop's Opening, Ponziani, and open-game gambits
+=========================================================
+
+VIENNA GAME
+
+The Vienna develops the queen knight before the king knight and preserves options for a
+kingside pawn advance. It can lead to quiet development, central play, or the Vienna Gambit.
+The early knight placement supports the center but may reduce immediate pressure on Black's
+central pawn. Black should develop and challenge the center rather than react fearfully to
+every wing advance.
+
+BISHOP'S OPENING
+
+The Bishop's Opening develops the king bishop before the king knight. White can transpose to
+the Italian, adopt a quieter supporting setup, or prepare a kingside pawn advance. The move
+order can avoid or invite particular defenses. Black's safest response is usually sound
+development with attention to central control.
+
+PONZIANI OPENING
+
+The Ponziani prepares a broad central expansion with a pawn that also restricts the queen
+knight's natural development. Black should challenge the center promptly. White hopes that
+space and open lines compensate for the modest loss of development time. Both sides must
+treat the central contact concretely because queen attacks and pawn forks can arise.
+
+KING'S GAMBIT
+
+The King's Gambit offers the king-bishop pawn to divert Black's central pawn and build a
+center. White gains lines and rapid attacking possibilities while weakening the king. Black
+can accept and defend carefully, return the pawn for development, or decline with central
+play. Famous attacks do not remove the defender's resources; study the calm consolidating
+plans.
+
+EVANS GAMBIT
+
+The Evans offers a wing pawn to gain time against the Italian bishop and construct a strong
+center. White must use the lead in development before Black consolidates. Black can return
+material to complete development and challenge the center. It is a model for the difference
+between time and material.
+
+DANISH AND CENTER GAMBITS
+
+The Danish may offer one or more pawns to open bishop lines and accelerate development. The
+Center Game brings the queen out after an early pawn exchange and can lose time to attacks.
+In both, open lines increase the importance of king safety. The defender should not cling to
+material at the cost of several undeveloped pieces.
+
+GENERAL LESSON
+
+Open-game gambits are excellent laboratories for counting tempi, attackers, and defenders.
+Use legal positions to learn their exact tactics. In practical play, prefer a gambit because
+you understand its compensation and resulting middlegames, not because one trap has a
+memorable name.

@@ -1,0 +1,24 @@
+A piece against pawns
+=====================
+
+A bishop or knight may have to stop several pawns. The result depends on pawn connection,
+advancement, king support, and the piece's geometry. A simple material count cannot settle
+it.
+
+A bishop can stop pawns from a distance when they advance on squares it controls. Pawns on
+the opposite color can evade its line, though the king may supply the missing control. A
+knight can blockade and fork pawns but may be overloaded by passers on distant wings.
+
+Connected passers become dangerous when they protect each other. Blockade before they
+advance far enough to create promotion threats with tempo. Separate passers can stretch a
+knight, while a bishop may switch wings quickly if diagonals remain open.
+
+The side with the piece should activate the king. A piece alone may hold the pawns without
+winning them, and a careless sacrifice can leave a lost pawn ending. The side with pawns
+should use the king to attack the blockader and avoid advancing into an easy fork.
+
+Promotion with check changes races. Underpromotion can create a necessary fork or avoid
+stalemate. Calculate legal promotion choices rather than assuming a queen ends the analysis.
+
+Exercise: identify which pawn must be stopped first and which can be allowed to advance.
+Defensive priority is often more important than attacking the nearest pawn.

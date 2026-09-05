@@ -1,0 +1,25 @@
+Queen endings, checks, and shelter
+==================================
+
+Queen endings combine passed pawns with repeated checks. An extra pawn can be difficult to
+use if the king lacks shelter. A single checking tempo may decide whether a pawn promotes.
+
+Centralize the queen when it can give checks from several angles without being traded or
+attacked. Keep the king near shelter. Advancing shelter pawns casually can create new
+checking lines.
+
+Perpetual check is a main defensive resource. The stronger side may need to trade queens,
+interpose the queen, or give up a pawn to reach safety. Hiding the king often comes before
+pushing the passer.
+
+The defender should seek checking distance and attack loose pawns with tempo. Random checks
+can drive the enemy king toward safety. Choose checks that preserve access and prevent the
+opposing queen from interposing favorably.
+
+Queen trades require calculation of the resulting pawn ending. A trade that ends all checks
+may still lose if the defender's king reaches the pawns first. Declining a trade may
+preserve drawing checks.
+
+Exercise: before every queen check, predict the king's best destination and your next useful
+check. If the sequence leads the king to shelter, choose a different checking pattern or
+attack a pawn.

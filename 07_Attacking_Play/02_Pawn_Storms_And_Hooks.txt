@@ -1,0 +1,40 @@
+Pawn storms, hooks, and opening lines
+=====================================
+
+A pawn storm advances pawns toward the opposing king to gain space and create contact with
+its shelter. It is most common when the kings are on opposite wings, because advancing your
+pawns does not directly expose your own king. With both kings on the same wing, a storm
+demands more caution.
+
+A hook is an enemy pawn that your pawn can attack to provoke an exchange and open a line. If
+no hook exists, an advance may force the defender to create one or may gain space for
+pieces. The attacking value comes from the lines created, not from how close the pawns
+appear to the king.
+
+Prepare the pieces that will use those lines. Opening a file is pointless if the opponent
+controls it first. A rook should be ready, the queen should have a safe route, and minor
+pieces should cover escape squares. If you push first and organize later, the defender may
+close the line or strike in the center.
+
+Speed matters in opposite-wing attacks. Count useful turns, not pawn distances alone. A move
+that opens a file immediately may outrank an aesthetically pleasing advance. A defensive
+move that forces the attacker to recapture can gain a critical tempo for the opposite
+attack.
+
+Do not capture automatically when the pawn fronts meet. Advancing past can keep lines
+closed, while exchanging can open them. The correct choice depends on whose pieces are
+prepared and which king is exposed. Sometimes the defender captures to trade attackers;
+sometimes the attacker keeps tension to restrict defenders.
+
+The defender can counter by closing the wing, exchanging attacking pieces, returning
+material to eliminate a pawn, or opening the center. Attacking the storm's base may collapse
+it. Advancing a shelter pawn can gain space but may also provide the hook the attacker
+wanted.
+
+A successful storm may transition into an ending rather than mate. If the attack wins a pawn
+or damages structure, be ready to trade queens and convert. Refusing a favorable transition
+because you expected checkmate can let the advantage disappear.
+
+Exercise: in an opposite-wing game, count how many turns each side needed to make first
+useful contact with the shelter. Include piece preparation. Then identify the move that
+changed the race's tempo. This is more instructive than counting pawn pushes alone.

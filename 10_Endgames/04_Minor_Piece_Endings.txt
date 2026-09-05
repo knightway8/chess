@@ -1,0 +1,26 @@
+Bishop and knight endings
+=========================
+
+Bishops favor open play, targets on both wings, and pawns fixed on squares they can attack.
+Knights favor stable posts, closed structures, and compact play. These tendencies become
+stronger when few other pieces remain.
+
+In same-colored bishop endings, a weak pawn on the bishop's color can be a lasting target.
+In opposite-colored bishop endings, the defender may build a blockade on the color the
+attacking bishop cannot control. Extra pawns do not guarantee a win.
+
+Knight endings often resemble pawn endings because knights cannot give distant checks
+easily. King activity and passed-pawn races are critical. A knight may be slow to change
+wings, so an outside passer can be powerful.
+
+A bishop can sometimes sacrifice itself for the last pawns on its color. A knight may stop
+connected pawns through a fork or blockade. Count exact routes and remember that a knight
+requires several moves to cross the board.
+
+Exchange decisions should reflect the remaining pawn sides. A bishop can handle both wings
+quickly; a knight may dominate one wing but arrive late at the other. A fixed central
+outpost can reverse that range advantage.
+
+Exercise: identify the best pawn target and the best king entry route before moving the
+minor piece. The piece should support those goals instead of wandering toward a visually
+central square.

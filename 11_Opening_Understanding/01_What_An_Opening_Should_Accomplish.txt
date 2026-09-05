@@ -1,0 +1,36 @@
+What an opening should accomplish
+=================================
+
+The opening should produce a playable middlegame while avoiding immediate tactical damage.
+Control useful central space, develop pieces toward real jobs, safeguard the king, and
+coordinate the rooks. These aims interact; a central pawn move may gain space and free a
+bishop, while a developing move may also defend the center.
+
+Do not count development by pieces moved. A knight developed to a square where a pawn
+immediately drives it away has not saved time. A queen sortie that wins a pawn but gives the
+opponent several useful developing attacks may fall behind. Judge whether each move improves
+access and coordination.
+
+Central control can use occupation, pressure, or a planned challenge. Classical openings
+often place pawns in the center. Hypermodern openings may invite a central pawn mass, then
+attack it with pieces and pawn breaks. Neither method excuses passivity. The occupied center
+must be supported; the invited center must be challenged.
+
+King safety usually favors early castling, but determine where the king will be safer. An
+already damaged wing may be a poor destination. A closed center can occasionally permit
+delayed castling. If the center can open through a forcing break, leaving the king there
+becomes dangerous.
+
+A move can violate a general principle for a concrete reason. Moving a piece twice may win
+material, prevent a threat, or reach an essential outpost. Taking a wing pawn with the queen
+may be safe in a specific line. State the reason and calculate the response. 'Grandmasters
+do it' is not the reason.
+
+The opening ends at different times in different games. One player may still be solving
+development while the other begins a direct attack. Use the position's readiness rather than
+a fixed move number. Before planning an attack, check whether your least active piece and
+king are ready.
+
+Exercise: after ten individual turns by each side in one game, assign every piece a job.
+Identify the move that did the least for development, center, king safety, or coordination.
+Replace it with a move that serves at least two purposes.

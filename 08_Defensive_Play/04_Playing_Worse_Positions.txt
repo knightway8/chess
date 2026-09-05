@@ -1,0 +1,37 @@
+Playing worse positions without collapsing
+==========================================
+
+A worse position is not the same as a lost position. The opponent may have an easier plan,
+safer king, better structure, or extra pawn while still needing accurate play. Your job is
+to identify what keeps the game alive and avoid creating a second weakness unnecessarily.
+
+Find your best source of activity. It may be a pawn break, a rook file, a passed pawn,
+pressure on the king, or a favorable exchange. If pure activity is impossible, improve the
+defensive setup and force the opponent to demonstrate a way through.
+
+Do not seek complications at any price. Opening lines can accelerate defeat when your pieces
+are less active. Choose complications that activate your army or create a concrete threat.
+Randomness favors neither side by itself; positions with difficult choices can increase
+practical chances.
+
+Trade according to function. Exchanging the opponent's best piece can ease the defense.
+Trading every piece may enter a lost pawn ending. Keeping queens may offer perpetual check,
+but it may also expose your king. Calculate the resulting position rather than applying a
+blanket rule to trade or avoid trades.
+
+When the opponent has a stable advantage, make them spend time improving. Prevent the
+easiest entry, keep the structure flexible, and preserve reserve moves. A passive but solid
+setup may be better than a pawn grab that creates a decisive line.
+
+Emotion causes secondary errors. After realizing that an earlier move was bad, players often
+rush to 'make up for it' with a sacrifice. The board does not require emotional balance.
+Reassess from the current position and choose the move that gives the best remaining
+chances.
+
+Set practical objectives: reach the time control, trade the dominant knight, create one safe
+checking route, or fix the opponent's pawns on a vulnerable color. These objectives should
+serve the position, not distract from immediate tactics.
+
+Exercise: review a loss and mark the point where the position became worse, then the later
+point where it became lost. Study the decisions between them. This interval often contains
+the most valuable defensive lessons.

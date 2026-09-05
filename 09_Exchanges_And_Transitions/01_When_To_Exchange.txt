@@ -1,0 +1,28 @@
+When to exchange and what survives
+==================================
+
+An exchange changes material, lines, pawn structure, king safety, and piece roles. Judge the
+resulting position rather than the act of trading. An equal exchange can be positionally
+decisive if it removes the only defender of a weak color or enters a winning pawn ending.
+
+When ahead, trade the opponent's sources of counterplay. That often means exchanging queens
+or an active piece, but a pawn trade that creates a dangerous enemy passer can be wrong.
+When behind, preserve active possibilities rather than material for its own sake. These are
+priorities, not automatic commands.
+
+Ask five questions: what recaptures, which line opens, which pawn changes, whose king
+improves, and what plan remains? Recapture choice can matter as much as the initial trade. A
+queen recapture may centralize the queen but expose it to tempo; a pawn recapture may
+strengthen the center but damage structure.
+
+Trade good enemy pieces for less useful pieces when the structural cost is acceptable.
+Preserve your active piece if the opponent's bad piece has no future. A currently bad bishop
+can become good after a planned break, so include likely transformations.
+
+Simplification means reducing complexity, not merely reducing material. A queen exchange can
+lead to a sharp pawn race. Keeping queens can sometimes freeze both sides through
+perpetual-check danger. Describe the new decisions before calling a line simple.
+
+Exercise: before three exchanges in one game, predict the surviving best piece, weakest
+pawn, and safest king. Compare your prediction with what happened. This creates a practical
+sense for transitions.

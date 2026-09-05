@@ -1,0 +1,29 @@
+Basic checkmating material
+==========================
+
+A king and queen can force mate against a bare king; so can a king and rook. The attacking
+king must help. The long-range piece restricts the enemy king while its king approaches,
+then delivers mate with protection.
+
+Avoid unnecessary checks. Use the queen or rook to reduce the defender's space, bring the
+king closer, and preserve at least one legal move until the mating net is ready. Careless
+restriction can produce stalemate.
+
+Two bishops with a king can force mate. A bishop and knight with a king can also force mate,
+but the technique is difficult and depends on driving the king toward a suitable corner. Two
+knights alone cannot force checkmate against a bare king under normal defense, although mate
+positions can exist if the defender cooperates or has extra material that changes available
+moves.
+
+A single bishop or knight with a king cannot mate a bare king. This does not mean every
+position containing only one minor piece besides kings is automatically drawn under every
+rules platform; the exact remaining material and possible legal sequences matter. Consult
+event rules for adjudication details.
+
+Practice the queen and rook methods until they are reliable without rushing. Learn stalemate
+awareness at the same time. Exact board practice is essential because verbal descriptions
+cannot specify the final net.
+
+Exercise: start with the defending king in several different areas and complete the mate
+using a legal board. Count wasted checks and stalemates, then repeat with fewer unnecessary
+moves.

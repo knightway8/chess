@@ -1,0 +1,32 @@
+Move order and transposition
+============================
+
+Move order determines which options each side permits. Two routes may reach the same final
+arrangement, but one route may allow an intermediate attack, force a concession, or remove
+castling rights. A move order is therefore a negotiation over possibilities.
+
+A flexible move keeps several structures available. Flexibility has value only when the
+alternatives are good and you know when to choose them. Delaying a central commitment can
+invite the opponent to seize space. Committing early can prevent a specific setup but reveal
+your plan.
+
+Transposition occurs when different sequences reach the same complete position. This is
+common among queen-pawn and flank openings. It allows knowledge to transfer: the pawn breaks
+and piece roles of the final structure matter more than the label used on the first turn.
+
+Watch for tactical differences. If one route develops a defender before opening the center,
+a sacrifice may fail; if another delays it, the sacrifice may work. If a king or rook moved
+and returned, castling rights differ despite visual similarity. The player to move also
+changes the evaluation.
+
+When an opponent uses an unfamiliar order, ask what they omitted. Did they delay
+development, leave a pawn unsupported, or simply preserve a useful option? Punish only a
+real defect. Trying to refute every unusual order can lead to overextension.
+
+Build repertoire notes by position and decision, not only by opening name. Group
+transpositions that share structure. Add a warning where similar-looking positions require
+different tactics.
+
+Exercise: compare two games with the same pawn structure reached from different openings.
+Identify which pieces differ and whether the difference changes a main break. This is
+practical transposition study.

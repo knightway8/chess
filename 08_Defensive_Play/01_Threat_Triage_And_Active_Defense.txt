@@ -1,0 +1,39 @@
+Threat triage and active defense
+================================
+
+Defense begins by identifying what is actually threatened. Separate mate, material loss,
+structural damage, and mere inconvenience. A threat may have several parts. Saving a rook
+while allowing mate is not defense; preventing a harmless pawn capture while missing a queen
+entry wastes time.
+
+List forcing resources for the attacker, especially checks, captures, and threats that
+remove defenders. Then examine defensive categories: eliminate the attacker, add a defender,
+move the target, block the line, trade queens, create an escape, or produce a stronger
+counter-threat. Considering categories prevents fixation on the first passive move.
+
+Active defense makes the attacker solve problems. A central pawn break may open lines
+against their king. A queen trade may force them to abandon the attack. Returning material
+may eliminate the key piece. Activity is not random aggression; it directly changes the
+conditions supporting the threat.
+
+Do not defend every pawn. The attacker may be using a small target to pull your pieces away
+from the king. Decide what can be given up. Material is a resource, and a pawn can be a
+cheap price for coordination or simplification.
+
+Exchange attackers carefully. Removing the queen often reduces mating danger, but the
+recapture may open a rook file or create a decisive passer. Trading one attacker may improve
+another. Reconstruct the resulting position instead of assuming fewer pieces always means
+safety.
+
+When no complete defense exists, choose the line that creates the hardest practical problem.
+Seek perpetual-check chances, a fortress, a promotion race, or tactical complications. This
+does not change an objectively lost position, but it gives the opponent opportunities to
+err.
+
+Avoid despair based on appearance. An advanced enemy queen and rook can look terrifying
+while lacking a final entry square. Count legal checks and exits. Conversely, do not relax
+because material is equal if your king has no safe answer to the next check.
+
+Exercise: after losing a game to an attack, return to the first defensive decision, not the
+final mate. Write three defensive categories you considered and one you missed. The final
+blunder is often only the last result of an earlier passive choice.

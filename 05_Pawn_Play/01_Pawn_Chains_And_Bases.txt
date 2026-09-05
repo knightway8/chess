@@ -1,0 +1,40 @@
+Pawn chains, bases, and levers
+==============================
+
+Connected pawns can form chains in which each pawn supports the one ahead on a diagonal. The
+front pawn gains space, while the rear pawn at the base often has no pawn defender.
+Attacking the base can undermine the whole chain, but only if you can reach it without
+allowing stronger counterplay.
+
+The direction of a chain can suggest where a side has more room, yet it does not dictate an
+automatic attack. Examine the kings, piece routes, and available breaks. A chain pointing
+toward one wing may coexist with a decisive central opportunity. Treat the chain as part of
+the map, not an arrow ordering every piece to one side.
+
+A pawn lever is an advance that places a pawn in contact with an opposing pawn and threatens
+an exchange. Levers can open files, dissolve chains, create passers, or clear diagonals. The
+value of the lever depends on timing. If your pieces are ready to use the open lines and the
+opponent's are not, the exchange can be favorable.
+
+Before playing a lever, calculate each capture choice, including the possibility that the
+opponent advances instead of exchanging. The resulting pawn structure may be more important
+than the immediate material count. A lever that opens a file for your rook can also open a
+diagonal toward your king.
+
+To attack a chain, combine pressure on the base with a lever against the front. If the
+defender must support both, one part may fall. To defend a chain, advance the base when
+safe, replace its support with pieces, counterattack the opponent's chain, or use the space
+gained by the front pawn to create threats elsewhere.
+
+Locked chains make knights and maneuvering more important because long-range lines are
+obstructed. Exchanges at the chain can suddenly awaken bishops and rooks. This potential
+energy explains why a quiet preparatory move near a closed center may carry tactical
+consequences later.
+
+A chain can be overextended. If the pawns advance beyond their supporting pieces, the
+opponent can attack the bases and blockade the breaks. More territory then becomes more to
+defend. Space and structure must be supported by development.
+
+Exercise: in a game with a closed center, identify each chain's base, each side's main
+lever, and the piece that would benefit most if the lever opened lines. Compare the two
+clocks: which lever arrives first, and whose king is safer when it does?

@@ -1,0 +1,44 @@
+French and Caro-Kann defenses
+=============================
+
+FRENCH DEFENSE
+
+The French challenges the king-pawn center with a supported central pawn advance. White
+often gains space and closes the center; Black attacks the pawn chain with a queenside break
+and a later central break. Black's queen bishop can become restricted, making its
+development a strategic problem. White must use space without allowing the center to
+collapse.
+
+The Advance Variation fixes the chain early. The Tarrasch uses the queen knight to support
+the center without allowing a pin, accepting less natural placement. The Classical develops
+the king knight and permits sharp central tension. The Winawer pins the queen knight and
+accepts structural imbalance, often creating opposite-wing plans. Exchange lines open the
+center and reduce space, but symmetrical pawns do not guarantee a draw.
+
+Black's main question is how to free the queen bishop and attack the base or head of White's
+chain. White's main question is whether to defend the center, advance it, or use the space
+for an attack. Both sides should calculate when central exchanges open the king.
+
+CARO-KANN DEFENSE
+
+The Caro-Kann supports its central challenge with the queen-bishop pawn, usually allowing
+the queen bishop to develop before the structure closes. Black aims for solidity with fewer
+immediate piece restrictions than in the French. The support move costs a tempo, so White
+can gain space or seek active development.
+
+The Advance gains territory and leads to attacks on the pawn chain. The Classical and
+related main lines resolve central tension and produce solid development. The Exchange
+creates a characteristic structure with wing majorities and minority-attack ideas. The Panov
+produces an isolated central pawn and active piece play. Fantasy systems support a large
+center while taking on development and king-safety responsibilities.
+
+Black should not confuse solidity with passivity. A central or queenside break is needed to
+challenge White's space. White should not assume a small development lead proves an attack;
+if Black completes development without concessions, the structure is durable.
+
+COMPARISON
+
+Both defenses challenge the first player's center from a supported base. The French accepts
+a temporarily blocked queen bishop for immediate pressure. The Caro-Kann spends time
+preparing the challenge so the bishop can often emerge. Learn the pawn-chain plans and
+freeing breaks, then study exact tactics separately.

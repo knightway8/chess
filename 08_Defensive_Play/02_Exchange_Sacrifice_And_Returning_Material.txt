@@ -1,0 +1,40 @@
+Returning material and defensive sacrifices
+===========================================
+
+Material has value because it helps produce a result. If keeping extra material permits mate
+or endless checks, returning some can be the most economical defense. A rook for a dangerous
+minor piece, a queen trade that costs a pawn, or a piece given for connected passers may
+remove the opponent's only winning mechanism.
+
+An exchange sacrifice gives a rook for a bishop or knight, usually with some compensation.
+Defensively, it can eliminate a key attacker, ruin the opponent's coordination, create a
+fortress, or stop a passed pawn. The material deficit afterward must be evaluated. Removing
+one threat is insufficient if another winning plan remains.
+
+When ahead, ask which opposing resource generates counterplay. If one knight creates all the
+mating threats, giving a rook for it may leave an easy extra-piece ending despite the
+arithmetic change. If the opponent has two connected passers, sacrificing a piece for both
+may lead to a draw or leave your remaining pawns decisive.
+
+Choose the moment carefully. Returning material too early can give away a win when a simpler
+defense existed. Waiting too long can let the attacker improve until the return no longer
+solves the danger. Calculate the transformed position, including which piece recaptures and
+whose king becomes active.
+
+Defensive sacrifices can also alter pawn structure. Giving a piece for several pawns may
+create a blockade that the remaining rook can hold. A rook sacrifice for the last pawn may
+produce a drawn bare-material ending. Know the actual checkmating possibilities of the
+remaining material rather than relying on an 'insufficient material' slogan.
+
+The side receiving material should consider declining. If accepting opens a file against the
+king or destroys coordination, another move may preserve the advantage. Sacrifices create
+choices; they do not force greed.
+
+Evaluate the aftermath in words: material, king safety, passers, activity, and realistic
+plans. If the opponent can improve indefinitely while you wait, the defense may only
+postpone loss. If they cannot make progress without allowing counterplay, a fortress may be
+real.
+
+Exercise: take a game where one side was materially ahead but under attack. Find the
+cheapest return that ends the attack. Compare it with the move played. This trains the idea
+that material can be spent, not merely counted.

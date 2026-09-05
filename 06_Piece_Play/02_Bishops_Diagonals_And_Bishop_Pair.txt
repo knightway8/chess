@@ -1,0 +1,40 @@
+Bishops, diagonals, and the bishop pair
+=======================================
+
+A bishop travels along one color for the entire game. Its strength depends on open
+diagonals, targets on its color, and whether play occurs on one wing or both. A bishop
+behind a central pawn chain may be restricted now yet powerful after the correct pawn break.
+
+A good bishop operates outside its own pawn chain or has active targets. A bad bishop is
+obstructed by friendly pawns, especially when those pawns are fixed. The label is relative.
+A supposedly bad bishop can defend the pawns that restrict it, support a freeing advance, or
+later emerge after exchanges.
+
+The bishop pair controls both colors and often becomes stronger as lines open. Its long
+range is valuable when there are targets on both wings. The opponent may seek a blockade, a
+stable knight outpost, or an exchange of one bishop before opening the position. Keeping two
+bishops is useful when the future position gives them work.
+
+An opposite-colored bishop middlegame can favor the attacker because the defending bishop
+cannot contest the attacker's color. With queens and rooks removed, opposite-colored bishops
+often increase drawing chances because each bishop protects squares the other cannot
+challenge. The change in supporting pieces changes the meaning of the same bishop relation.
+
+A fianchetto places a bishop on a long diagonal behind a one-step knight-pawn advance. The
+bishop can pressure the center and provide king shelter, but exchanging it may weaken
+squares around the king. Do not preserve it blindly; trading it can win material, remove an
+attacker, or obtain a favorable ending.
+
+To improve a bishop, open its diagonal with a pawn move, relocate it to another diagonal,
+exchange the obstructing pawn, or trade the bishop for a more influential enemy piece. Check
+whether opening the diagonal also exposes your king. A line benefits every piece that can
+use it, including the opponent's queen.
+
+Bishops can dominate knights by controlling their routes from a distance. Knights can
+dominate bishops when pawns lock the bishop behind its own structure and provide stable
+posts. Ask which structure is likely after the next break. Piece comparisons become most
+useful when tied to a predicted transformation.
+
+Exercise: for each bishop in one game, identify its best diagonal, its current blocker, and
+the pawn break that changes its life. Then decide whether the break helps your opponent
+more. This turns abstract bishop appreciation into a concrete structural plan.

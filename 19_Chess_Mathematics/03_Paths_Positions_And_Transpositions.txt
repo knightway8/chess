@@ -1,0 +1,39 @@
+Paths, positions, and transpositions
+====================================
+
+A path is a sequence of moves. A position is the complete game state after a path. Different
+paths can lead to the same position; this is a transposition. Counting paths therefore
+overcounts unique positions whenever move order can change without changing the final state.
+
+The visible arrangement is not always the complete state. Whose turn it is matters. Castling
+rights matter even when king and rook appear on their original squares, because they may
+have moved away and returned. Eligibility for the special passing pawn capture can matter
+for one turn. The progress counter used by draw rules also matters for game administration.
+Two boards that look identical can represent different legal states.
+
+This distinction explains opening transpositions. A player may begin with a flank move, then
+later create a pawn structure normally associated with a queen-pawn opening. The same
+strategic position can arrive through several named routes. Opening names are classification
+tools, not separate universes.
+
+Engines use transposition tables to store information about positions already searched. If a
+different move order reaches the same encoded state, the program can reuse prior work. The
+table must preserve the state information relevant to legal moves and evaluation. Treating
+visual piece placement alone as identity could introduce errors.
+
+Repetition rules use a precise idea of the same position. The same player must have the
+move, pieces must occupy the same squares, and possible moves must be the same; changes in
+castling rights or passing-capture availability can make positions different. Competition
+claim procedures add another layer, so players should consult the current official rules.
+
+For learners, the practical lesson is to recognize structures across openings. If two move
+orders reach the same pawn structure and piece placement, the plans may transfer. If one
+route has forced a concession or removed a right, the positions may only look similar.
+
+A database statistic can also count games, positions, or occurrences. One million games are
+not one million unique positions. A popular position may occur in thousands of games. Always
+ask what the unit of a large chess number is.
+
+Exercise: describe two opening routes that could develop different pieces first and later
+converge. Then list the hidden state conditions that must also match before calling the
+final positions identical.

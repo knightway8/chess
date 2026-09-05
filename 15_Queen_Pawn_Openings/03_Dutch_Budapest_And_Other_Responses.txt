@@ -1,0 +1,51 @@
+Dutch, Budapest, English Defense, and uncommon queen-pawn responses
+===================================================================
+
+DUTCH DEFENSE
+
+The Dutch advances the king-bishop pawn to control the center and prepare kingside activity.
+It creates imbalance immediately while weakening the king and a diagonal. Black must
+coordinate the center and king shelter; White often pressures the weakened squares or
+challenges the center.
+
+The Stonewall builds a fixed pawn chain, gains kingside space, and seeks an outpost for a
+knight. Its queen bishop can be restricted, and the fixed dark squares can become targets.
+The Leningrad fianchettoes the king bishop for dynamic central and kingside play. The
+Classical develops more directly and keeps a flexible central formation. Each system has a
+different bad piece and freeing break.
+
+BUDAPEST GAMBIT
+
+The Budapest challenges White's center with a pawn sacrifice and piece pressure. Black seeks
+rapid development, recovery of the pawn, and tactics on open lines. White should return
+material if needed, finish development, and preserve the central or bishop-pair advantage. A
+famous rook maneuver and traps are themes, not a substitute for the position.
+
+BLUMENFELD COUNTERGAMBIT
+
+The Blumenfeld offers a wing pawn to build a large center and open lines for Black's pieces.
+White chooses between accepting material and facing the pawn mass or declining into a
+Benoni-related structure. Black must use development and central momentum before the extra
+pawn matters.
+
+ENGLISH DEFENSE
+
+The English Defense develops the queen bishop on a long diagonal against a queen-pawn
+center, often combining that pressure with a central challenge. Black invites occupation and
+seeks to undermine it. White should support the center and watch tactical pressure on the
+long diagonal.
+
+HORWITZ, POLISH, AND OTHER FLEXIBLE DEFENSES
+
+Some opening names describe an early supporting pawn or flank move before a specific defense
+appears. They often transpose to the French, Queen's Gambit, English Defense, or Indian
+families. Identify the final pawn structure instead of treating the initial label as a
+complete plan.
+
+ENGLUND GAMBIT
+
+The Englund offers a pawn immediately against the queen-pawn opening and aims for traps,
+checks, and rapid development. Accurate play generally gives White a favorable position, but
+careless attempts to hold every pawn can activate Black. White should neutralize threats and
+develop. Black users should learn the best defensive response rather than depending on one
+tactical trick.

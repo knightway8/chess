@@ -1,0 +1,26 @@
+Rook ending principles
+======================
+
+Rook endings are common and rich in checking resources. Activity often matters more than a
+single pawn. A passive rook that merely guards pawns may be unable to check the king or
+attack from behind.
+
+Place the rook behind a passed pawn when that keeps it active as the pawn advances. This
+applies to friendly and enemy passers, but side checks or an active-rank invasion can
+override the guideline. The defending king's shelter and the checking distance decide.
+
+Cutting off the enemy king can be worth a pawn. A rook that prevents the king crossing a
+file or rank gives your king time to approach. Count whether the restriction persists after
+pawn advances and checks.
+
+The stronger side should shelter the king, coordinate king and rook, and avoid releasing the
+defender through careless pawn moves. The defender seeks checking distance, attacks pawns
+from the side or rear, and avoids purely passive placement when activity is available.
+
+Known bridge-building and defensive checking positions deserve exact board study. Their
+value is not the names but the recurring mechanisms: blocking checks, creating shelter, and
+keeping sufficient distance.
+
+Exercise: in every rook ending, compare rook activity before counting pawns. Identify
+whether each rook can check, attack a pawn, and return to stop the passer. This prevents
+material counting from hiding the real position.

@@ -1,0 +1,41 @@
+Rooks, open files, and active ranks
+===================================
+
+Rooks are long-range pieces that usually need files and ranks cleared of friendly pawns.
+They often begin the game waiting for the structure to open. Development therefore means
+more than moving each rook once; it means connecting them, choosing useful lines, and
+preventing them from being trapped in passive defense.
+
+An open file contains no pawns. A half-open file contains no pawn of one side but may
+contain an opposing pawn. Occupying such a file is useful when it offers an entry point,
+attacks a weakness, or restricts enemy pieces. A rook on a file with no destination may be
+less active than a rook behind a passed pawn.
+
+Entry squares decide file control. Before doubling rooks, ask where the front rook can enter
+and whether that square is safe. If every entrance is guarded, use a pawn break, exchange
+the guarding piece, or switch files. Doubling for appearance alone can spend two turns
+without creating a threat.
+
+Rooks become powerful on active ranks inside enemy territory because they can attack pawns
+from the side and restrict the king. Getting there safely often matters more than winning a
+pawn immediately. Once the rook penetrates, preserve its escape routes and watch for traps
+by the enemy king and minor pieces.
+
+In endings, activity frequently outweighs a pawn. A rook tied to passive defense may be
+unable to check the enemy king or attack pawns. Sacrificing a pawn to activate the rook can
+improve drawing or winning chances. This decision requires calculation, since some pawn
+deficits are simply decisive.
+
+Connected rooks defend each other and can double on a line. Keep them coordinated, but do
+not reject a useful split if each rook has a clear job. One may support a passer while the
+other gives checks. Rigid rules about keeping rooks together can miss the position's
+demands.
+
+Rooks generally work well behind passed pawns because the line remains useful as the pawn
+moves. Side checks, frontal blockades, and attacks on the pawn's base can be better in
+specific endings. The king's shelter and checking distance often determine the correct
+placement.
+
+Exercise: for each rook in a middlegame, name its route, entry point, and target. If the
+file has no entry point, name the structural change required to create one. This prevents
+the common mistake of confusing an open file with an accomplished invasion.

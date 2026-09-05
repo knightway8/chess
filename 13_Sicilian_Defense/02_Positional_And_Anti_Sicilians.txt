@@ -1,0 +1,69 @@
+Taimanov, Kan, Closed Sicilian, and Anti-Sicilians
+==================================================
+
+TAIMANOV
+
+The Taimanov develops the queen knight and supports a flexible central setup, often with an
+early queen move that keeps bishop options open. Black aims for central and queenside
+breaks. White can build a broad center or choose direct development. Move-order tactics
+matter because Black delays the king knight.
+
+KAN
+
+The Kan uses a modest queenside pawn move and central support to stay flexible. Black may
+develop the queen bishop actively and choose between several central structures. The price
+is slower kingside development, so White can gain space. White should not overextend merely
+because Black's setup looks passive.
+
+FOUR KNIGHTS AND PIN VARIATIONS
+
+The Sicilian Four Knights emphasizes rapid minor-piece development and central pressure. Pin
+variations create immediate tactical tension around the king knight. Both require exact
+board study because an early bishop or queen move changes recapture options and central
+breaks.
+
+O'KELLY
+
+The O'Kelly inserts a queenside pawn move before the usual central exchange. It can
+discourage some standard White setups while making others more effective because Black has
+spent a tempo away from development. White should choose a structure that exploits the exact
+order rather than forcing a favorite line.
+
+ALAPIN
+
+The Alapin supports a broad pawn center before developing the queen knight. Black challenges
+that center immediately with a pawn break or pressure. White may accept an isolated central
+pawn for activity. The resulting positions connect opening study with isolated-pawn
+strategy.
+
+CLOSED SICILIAN
+
+White keeps the center closed and develops the queen knight behind a pawn, often preparing a
+kingside pawn advance. Black expands on the queenside and challenges the center. Timing
+decides whether White's attack arrives before Black opens lines.
+
+GRAND PRIX ATTACK
+
+White advances the king-bishop pawn and develops for a direct kingside attack. The advance
+gains space but weakens squares and can restrict a knight. Black seeks central counterplay
+and may place pieces to blunt the attacking bishop. A quick attack without enough pieces can
+leave lasting weaknesses.
+
+ROSSOLIMO AND MOSCOW
+
+White develops a bishop to check or pin a knight, often damaging structure or avoiding Open
+Sicilian theory. The exchange can surrender the bishop pair while creating doubled pawns.
+White aims to use structure and development; Black seeks bishop activity and central play.
+
+SMITH-MORRA AND WING GAMBITS
+
+The Smith-Morra offers a central pawn for development and open files. The Wing Gambit offers
+a side pawn to divert Black's flank pawn. Black can accept but must complete development.
+White must show concrete activity; trap value alone is insufficient.
+
+BOWDLER AND QUIET SYSTEMS
+
+Early bishop development toward the king is natural but may allow Black comfortable central
+play if unsupported. Quiet systems remain playable when they have a plan for the center.
+Against every Anti-Sicilian, Black should identify White's altered structure instead of
+mechanically following Open Sicilian development.

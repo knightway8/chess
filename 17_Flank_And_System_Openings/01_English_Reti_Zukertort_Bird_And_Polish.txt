@@ -1,0 +1,53 @@
+English, Réti, Zukertort, Bird, and Polish openings
+===================================================
+
+ENGLISH OPENING
+
+The English begins with a flank pawn controlling a central square and often develops the
+king bishop on a long diagonal. It can lead to reversed Sicilian structures, symmetrical
+formations, queen-pawn structures, or unique flank centers. White's extra tempo changes
+plans but does not automatically make a reversed defense superior.
+
+In the Symmetrical English, both sides use the same flank pawn and compete through breaks
+and piece placement. King's English systems meet a different central plan and often create
+asymmetry. Botvinnik structures use a broad fixed center and wing attacks. The English Four
+Knights develops rapidly before determining the center.
+
+RÉTI OPENING
+
+The Réti starts with king-knight development and delays central pawn occupation. White
+pressures the center, fianchettoes, and chooses a break based on Black's setup. Black can
+build a center but must support it. The Réti frequently transposes, making structural
+recognition essential.
+
+ZUKERTORT AND NIMZO-LARSEN
+
+These openings develop the queen bishop on a long diagonal, usually combined with flexible
+central control. White aims to pressure the center and postpone commitment. Black can occupy
+space and blunt the bishop, but overexpansion creates targets. The bishop's value depends on
+whether its diagonal opens.
+
+KING'S INDIAN ATTACK
+
+White adopts a compact fianchetto setup resembling a King's Indian structure with colors
+reversed. The plan may include a kingside advance after the center closes. It is a system,
+not a universal attack. Against a different center, White may need a queenside or central
+response.
+
+BIRD OPENING
+
+Bird's Opening advances the king-bishop pawn to control the center and prepare a Dutch-like
+structure with colors reversed. It creates attacking chances while weakening the king and a
+diagonal. Black can challenge the center immediately. White needs development before a wing
+attack.
+
+POLISH OPENING
+
+The Polish advances the queen-knight pawn to gain queenside space and prepare a
+long-diagonal bishop. It can pressure Black's center from the side but spends time away from
+direct development. Black should occupy the center responsibly and avoid forcing a
+refutation that is not present.
+
+The common flank-opening skill is conditional commitment. Use pressure to influence the
+center, then choose occupation or a break. If flank play never challenges the center, the
+opponent may keep the space for free.

@@ -1,0 +1,39 @@
+Passed pawns and blockades
+==========================
+
+A passed pawn has no opposing pawn on its file or either neighboring file capable of
+stopping it through ordinary pawn play. It may still be blocked or captured by pieces. Its
+power comes from the obligation it can impose: an enemy piece may have to watch it while the
+rest of your army acts elsewhere.
+
+An outside passed pawn is far from the main pawn mass. In an ending, it can draw the
+defending king away and let your king invade the other wing. A protected passed pawn is
+guarded by another pawn and can be difficult to blockade. Connected passed pawns support
+each other and become increasingly dangerous as they advance.
+
+Advance a passer when the advance improves its prospects or gains time. Pushing blindly can
+move it onto a square where it is blockaded and attacked. Sometimes the pawn's greatest
+value is as a restraint: its mere ability to advance ties down a rook. Improve your king and
+pieces before revealing the pawn's final route.
+
+The square in front of a passed pawn is often an excellent blockading post. A knight can be
+strong there because pawns cannot drive it away easily and it can attack around the
+blockade. A king is the ideal blockader in many endings if it can arrive safely. Heavy
+pieces may blockade reluctantly because passive duty wastes their range.
+
+Rooks usually belong behind passed pawns, whether the pawn is friendly or hostile, because
+they remain active as the pawn advances. This is a useful guide, not an absolute rule. A
+rook may need to check from the side, attack another weakness, or occupy an active rank.
+Calculate checks and king shelter before obeying placement slogans.
+
+Passed pawns can be tactical weapons. A sacrifice may clear their path, promotion may come
+with check, and one passer can deflect a defender from another. Count moves accurately and
+account for forcing checks. A pawn race is not settled by visual distance alone.
+
+When stopping a passer, consider blockade, attack from behind, king approach, and
+counterplay with your own passer. Giving up a piece may be correct if the remaining ending
+is drawn. Giving it up too early may remove the piece that could have stopped a second pawn.
+
+Exercise: in every pawn ending, identify candidate passers before calculating king routes.
+Then ask which passer is a real promotion threat and which mainly serves as a decoy. The
+distinction shapes where the kings belong.

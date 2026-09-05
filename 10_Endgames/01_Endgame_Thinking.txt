@@ -1,0 +1,25 @@
+How endgame thinking changes
+============================
+
+With fewer pieces, kings become active, passed pawns gain importance, and single tempi
+become visible. Endgames are not automatically simple. Reduced material can make exact
+calculation more important because there are fewer alternative resources after a mistake.
+
+Start by identifying passed-pawn potential and king routes. Then compare piece activity,
+pawn weaknesses, and possible exchanges. A material advantage may be secondary if the
+opposing king penetrates first or a rook becomes tied to a passer.
+
+Create a plan with a transformation in mind: activate the king, improve the rook, fix a
+pawn, create a passer, or enter a known basic ending. Do not make harmless waiting moves
+unless waiting has a purpose. Every pawn move changes future tempi permanently.
+
+When considering an exchange, calculate the pawn ending. A favorable rook ending may become
+a lost king-and-pawn ending after trading rooks. Conversely, exchanging can remove the
+opponent's only counterplay and make a win routine.
+
+Study exact positions on a board alongside these verbal ideas. Endgame results often depend
+on one square or one tempo, which prose without coordinates cannot encode. The role of this
+library is to explain what to calculate and why.
+
+Exercise: in each endgame, state the desired placement of your king and most active piece,
+then identify what prevents them from getting there. Your plan should address that obstacle.

@@ -1,0 +1,41 @@
+Knights, routes, and outposts
+=============================
+
+Knights jump over occupied squares and attack in a fixed bent pattern. They are short-range
+pieces, so their current square and future route matter greatly. A knight near the center
+usually has more legal destinations, but mobility alone is not usefulness. An edge knight
+that blockades a dangerous passer can be excellent.
+
+Plan knight maneuvers backward from a destination. Identify an outpost or defensive square,
+then find a route that does not abandon an urgent duty. A three-move journey is a promise to
+give the opponent three turns. Check whether a pawn break, exchange, or attack will make the
+destination obsolete before the knight arrives.
+
+Stable knights thrive in closed structures. Pawns can protect them while enemy pawns cannot
+chase them away. Long-range pieces may be unable to exchange them without surrendering
+something valuable. In open positions, knights can struggle to influence both wings, though
+a powerful central post can compensate for their limited range.
+
+Knights are strong blockaders because they can stop a pawn while attacking around it. They
+are also dangerous near a king because their attacks cannot be blocked. A knight check may
+create a fork, and removing the knight may require a pawn move that weakens shelter.
+
+The phrase 'a knight on the rim is dim' is a warning about reduced options, not a ban. A rim
+maneuver may attack the bishop pair, support a pawn break, or route toward a stable post.
+Ask where the knight is going and what it accomplishes on arrival. If the only answer is
+'back to the center eventually,' the detour may be wasteful.
+
+Knights have color-changing movement: each move takes them to a square of the opposite
+color. This can help calculate routes and recognize that a knight cannot attack the same
+target after one move if color makes that impossible. In endings, exact move counts matter
+because a knight may need several turns to cross the board.
+
+Against a knight, deny stable posts and create play on both wings. A bishop can change
+direction more quickly. Do not push pawns merely to chase a harmless knight if those
+advances create permanent weaknesses. Sometimes the correct response is to ignore it and
+open the position elsewhere.
+
+Exercise: select your worst knight from a quiet game. Give it a destination, a route, and a
+useful job on arrival. Then identify the opponent's fastest way to invalidate the route. If
+the route survives, you have a plan; if it fails, improve another piece or change the
+structure first.

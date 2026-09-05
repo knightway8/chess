@@ -1,0 +1,40 @@
+The king: shelter first, activity later
+=======================================
+
+In the opening and middlegame, king safety often limits every plan. Open central lines,
+missing shelter pawns, and enemy heavy pieces can turn a small inaccuracy into mate. In an
+ending with fewer attacking pieces, the king becomes a powerful short-range fighter.
+Recognizing the transition is a central chess skill.
+
+Castling usually helps by moving the king away from the center and connecting a rook. It is
+not a guarantee of safety. If the shelter pawns have advanced and the opponent's pieces
+already point toward that wing, castling there can place the king in the attack. Sometimes
+leaving the king temporarily central is safer while the center remains closed.
+
+King safety is relational. Count attackers, defenders, open lines, and possible pawn breaks.
+A king with no nearby pawns may be safe if queens are gone and the enemy pieces lack access.
+A king behind three pawns may be unsafe if a sacrifice can open lines and the defenders are
+far away.
+
+Create escape squares thoughtfully. A shelter pawn advance can prevent back-rank mate while
+weakening a diagonal or providing an attacking hook. If there is no immediate danger, choose
+the pawn move least likely to create a useful target. If danger is immediate, seek a forcing
+defense instead of assuming an escape square can be made in time.
+
+In endings, centralize the king when checks and mating nets no longer make that dangerous.
+The king can attack and defend pawns, support promotion, blockade passers, and restrict its
+counterpart. A king one move closer can change a drawn pawn ending into a win.
+
+Opposition describes king placement where one king can force the other to yield access
+because kings cannot stand adjacent. Distant and diagonal forms extend the idea, but spare
+pawn moves and side routes often decide who benefits. Learn the geometry through legal
+positions and exact verification rather than treating 'take the opposition' as a magic
+instruction.
+
+Do not activate the king into a tactic. A rook or bishop may control its route, and a queen
+can exploit exposed placement with checks. Even in an ending, recalculate after every
+exchange because the remaining piece may still create mating threats.
+
+Exercise: identify the moment in one game when the king should have changed from protected
+object to active piece. Was the queen trade enough, or did rooks and passers still create
+danger? This teaches the transition instead of reducing king activity to a phase label.

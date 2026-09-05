@@ -1,0 +1,40 @@
+How pawn structures transform
+=============================
+
+Pawn structures are not static labels. Every pawn advance and exchange changes open lines,
+potential passers, king routes, and square control. Strong players evaluate the structure
+that will result after a break, not only the one currently visible.
+
+A capture can transform an isolated pawn into a passed pawn, hanging pawns into an isolated
+pawn, or a majority into equality. An advance can fix an enemy weakness while creating an
+outpost behind itself. Because pawns do not retreat, these transformations deserve more care
+than routine piece maneuvers.
+
+Start with candidate captures. If either side can choose how to recapture, compare every
+resulting structure. Recapturing toward the center is often useful, but an outward recapture
+may open a rook file or create a passer. A principle helps you generate candidates; the new
+position decides.
+
+Fixing a pawn means inducing or allowing it to remain on a square where it can be attacked
+and cannot advance safely. A pawn on the color of your bishop may be an easy target. Yet
+fixing enemy pawns can also close lines your pieces need. Coordinate the pawn decision with
+the pieces that will attack afterward.
+
+Reserve tempi are pawn moves saved for later. In king-and-pawn endings, a harmless move on
+one wing can force the opponent to move first in a critical area. Spending every pawn move
+early may remove this resource. Conversely, delaying a necessary pawn advance can allow the
+enemy king to blockade.
+
+Breakthroughs occur when a pawn sacrifice forces a passer through a blocked formation. Their
+logic is based on compulsory captures and the geometry of neighboring pawns. These positions
+require exact calculation. The general idea that a majority should win is insufficient when
+the defender can choose a different capture order.
+
+Before trading pieces into a pawn ending, calculate the transformed pawn structure. A rook
+ending with an extra pawn may be winning while the corresponding pawn ending is drawn or
+lost because the enemy king is better placed. Removing pieces increases the relative power
+of kings and fixed pawn weaknesses.
+
+Exercise: before each pawn move in one analyzed game, write what becomes permanently
+impossible afterward. Then write what becomes newly possible. This balances caution with
+purpose and reveals why a quiet pawn move can be the most consequential move in a position.

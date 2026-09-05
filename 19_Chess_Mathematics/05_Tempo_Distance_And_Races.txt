@@ -1,0 +1,37 @@
+Tempo, distance, and race calculations
+======================================
+
+Chess distance is measured in legal turns, not physical centimeters. A rook may cross an
+open board in one turn, a knight may need several jumps, and a king can move diagonally to
+approach two goals at once. Obstacles and controlled squares change every route.
+
+A tempo is one turn. If a pawn needs four advances to promote and another needs three, the
+shorter route seems faster. Now add whose turn it is, captures, checking promotions, and
+queen checks. The apparent one-tempo advantage may disappear or become decisive.
+
+Use a timeline. Write the first side's intended action, then the second side's best reply,
+alternating until promotion or capture. Never count one side's moves in isolation. If
+promotion gives check, place that forced response on the timeline before continuing the
+other race.
+
+King routes use Chebyshev distance on an empty board: because a king can move diagonally,
+the minimum number of steps between two squares equals the larger of the horizontal and
+vertical separations. This mathematical fact is only a starting point. Enemy control,
+occupied squares, opposition, and check can make the shortest geometric path illegal.
+
+Knight distance behaves differently because of its jump. A knight close by straight-line
+distance may not reach a target immediately, while a seemingly indirect move may be fastest.
+Learn routes by practicing exact positions rather than trying to convert visual distance
+into a simple formula over the board.
+
+Tempo also appears in development. If one side spends three turns moving the queen while the
+other develops three pieces with attacks on it, the second side has gained useful activity.
+The arithmetic matters only if the moves are useful and the position can open. A lead
+measured as 'two tempi' does not automatically convert to material.
+
+Reserve tempi are moves saved to alter whose turn it is. In pawn endings, one spare advance
+can force the opposing king to yield. Count these reserves before fixing the structure.
+
+Exercise: create a verbal race with two passers, then list every assumption needed to
+predict it. Verify on a legal board. Add a checking promotion and observe how one forcing
+tempo changes the result.

@@ -1,0 +1,41 @@
+Preconditions for a sound attack
+================================
+
+An attack needs access, force, and time. Access means lines or entry squares near the
+target. Force means enough pieces can participate. Time means the opponent cannot create a
+stronger threat or close the position before your pieces arrive. Missing one precondition
+turns many attacks into gestures.
+
+King safety is the most obvious target, but an attack can focus on a pawn, a weak square, a
+trapped piece, or a promotion route. Define success before committing. If your pawn storm
+cannot open a line and the opponent can counter in the center, the pawns may simply create
+weaknesses.
+
+Count attackers and defenders, then examine their quality. A pinned defender may be
+unreliable. A knight far away may not arrive in time. A queen and bishop can be dangerous on
+a diagonal, but one exchange may dissolve the battery. Raw numbers need geometric and
+tactical context.
+
+Central stability matters for wing attacks. When the center is closed, players often have
+time to advance wing pawns and transfer pieces. When it can open, an uncastled or exposed
+king may become vulnerable first. Before launching, ask what central break the opponent
+gains and whether you can meet it.
+
+Pawn advances near the king create hooks: pawns the opponent can attack to open files. You
+can create a hook deliberately in the enemy shelter, but your own pawn storm may offer
+counter-hooks. Calculate captures in both directions and identify which side benefits from
+the opened line.
+
+Bring the least active attacker. Moving the queen repeatedly may create threats, but a rook
+or knight joining can make those threats durable. Attackers that arrive with tempo are
+especially useful. Avoid placing every piece on the same line if one exchange can remove the
+whole pressure.
+
+The best defense may be a queen trade, a central break, or a counterattack. Test your plan
+against all three. If the attack survives only passive defense, it is not yet convincing.
+Sometimes the correct choice is to improve, restrict the counterplay, and launch one move
+later.
+
+Exercise: before a sacrifice near the king, write the accessible lines, participating
+attackers, defender resources, and your result if the attack stops. If the final position
+leaves you down material without lasting compensation, the burden of proof is high.

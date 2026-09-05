@@ -1,0 +1,42 @@
+Pawn majorities, minority attacks, and races
+============================================
+
+A pawn majority means having more pawns than the opponent on a section of the board. A
+healthy majority can sometimes create a passed pawn through exchanges. It is potential, not
+a guarantee. Doubled pawns, a blockade, or an active enemy king can prevent the extra pawn
+from producing anything.
+
+To use a majority, advance the pawn whose movement preserves flexibility and support. Avoid
+creating a backward pawn without reason. Calculate how exchanges change the count on
+adjacent files. The goal is usually to force a passer while keeping the opponent from
+blockading the whole formation.
+
+A minority attack advances fewer pawns against a larger enemy pawn group to provoke a fixed
+weakness. This sounds paradoxical because the attacker is outnumbered locally. The purpose
+is structural: exchanges can leave a backward or isolated pawn that becomes a target for
+pieces. A minority attack is not automatically a king attack, even though it uses wing
+pawns.
+
+Timing matters. If the center is unstable or your king is vulnerable, a slow minority
+advance may be irrelevant. The opponent may use the space to launch a faster attack or push
+past to gain territory. Prepare piece placement so that the weakness created by the pawn
+contact can be attacked immediately.
+
+Pawn races require exact counting. Count turns to promotion, whose turn it is, whether
+promotion gives check, and whether a new queen can stop the other pawn. Include king
+captures and diagonal pawn captures that alter the route. A pawn apparently one step behind
+can win if it promotes with tempo.
+
+The rule of the square is a visual method for deciding whether a bare king can catch a lone
+pawn without interference. It is useful, but blocked paths, opposing kings, checks, and
+other pawns can change the result. Apply the method only to the simplified circumstances it
+assumes.
+
+When both wings contain majorities, choose whether to create a passer, hold the opponent's
+majority, or use one side as a distraction. The king's position may decide which majority
+matters. A distant majority can be valuable because it stretches the defender, even when it
+advances slowly.
+
+Exercise: set up a pawn race in a legal board tool and predict the result without moving the
+pieces. Then verify it. Repeat after changing whose turn it is and after giving one pawn a
+checking promotion. Small changes teach why exact tempo counting outranks intuition.

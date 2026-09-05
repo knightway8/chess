@@ -1,0 +1,40 @@
+Converting an initiative into something lasting
+===============================================
+
+An initiative is borrowed time. Your threats make the opponent respond, but if each response
+improves their position and your threats achieve nothing, the initiative will fade.
+Conversion means turning temporary activity into material, structural damage, a favorable
+ending, or a continuing mating attack.
+
+First identify the defender's consolidating move. They may want to complete development,
+trade queens, close a file, or bring a knight to defense. Preventing that move can be more
+important than making another superficial threat. A quiet restriction can preserve the
+attack's energy.
+
+Open another line only if your pieces can use it. Sacrificing a pawn to expose the king can
+be sound when the defender cannot coordinate. Opening every line may also activate an enemy
+rook and give the king an escape. The geometry after the exchange is the real object of
+calculation.
+
+Accept modest gains when they are durable. Winning a clean pawn and entering an active
+ending may be better than continuing a speculative attack. Damaging the enemy pawn shelter
+can remain valuable after queens are exchanged if the weaknesses become targets. Conversion
+is not a failure of ambition; it is how advantages survive.
+
+Keep enough pieces to maintain pressure, but exchange key defenders. A blanket rule against
+exchanges during an attack is too crude. Trading the defender that controls the only entry
+square may decide the game. Trading your best attacker for a passive piece may end the
+attack.
+
+If the attack runs out, stop sacrificing. Reassess material and king safety, activate the
+worst piece, and protect new weaknesses. Many games are lost because a player feels
+obligated to continue an attack whose objective basis has vanished.
+
+The defender seeks a moment when an exchange or pawn break changes the rhythm. If you are
+attacking, calculate those moments first. A move that works against a waiting defense may
+fail to a central counterstrike with tempo.
+
+Exercise: find the moment in an attacking win where the advantage became permanent. Was it
+mate, material, a ruined structure, or a dominant ending? Then find the last moment the
+defender could have consolidated. These two moments explain the attack better than the final
+combination alone.

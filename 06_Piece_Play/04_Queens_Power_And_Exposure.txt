@@ -1,0 +1,41 @@
+Queens, power, and exposure
+===========================
+
+The queen combines rook-like and bishop-like movement, giving it unmatched range. That
+strength makes every attack on the queen a possible gain of time. Early queen movement can
+be justified by a concrete tactic, but casual expeditions often help the opponent develop
+while the queen retreats.
+
+A queen is most effective when other pieces support its entry. Alone near the enemy king, it
+may give checks without a mating net and can become trapped. Coordinated with a bishop,
+knight, or rook, it can exploit two kinds of line at once. Count controlled escape squares
+and defenders rather than assuming queen proximity equals an attack.
+
+Queen trades change the character of a position. They often reduce direct mating danger,
+increase the relative importance of kings, and make structural weaknesses easier to attack.
+A queen exchange can favor the side with an extra pawn, but not if the resulting pawn ending
+loses or the opponent's king becomes overwhelmingly active.
+
+When offered a queen trade, compare the position after the recapture. Which piece
+recaptures, where does it land, which file opens, and whose king improves? Declining can
+preserve attacking chances or avoid structural damage. Accepting can end counterplay. The
+exchange itself has no moral value.
+
+Queens are strong at creating simultaneous threats. A check can also attack a loose piece,
+and a queen may switch wings in one move. Defending against a queen often requires
+coordination rather than chasing it with scattered pawns. Each pawn advance can create new
+entry squares.
+
+In queen endings, perpetual checks are a constant resource. King shelter, checking distance,
+and support for passed pawns matter enormously. Advancing a passer without securing the king
+can expose you to endless checks. A queen may need to shield first and promote later.
+
+Do not count a queen as three minor pieces in every position simply because common values
+are close. Three coordinated pieces can cover many squares and create a mating net, while a
+queen can attack loose targets and give repeated checks. Evaluate king safety, coordination,
+and pawns alongside material.
+
+Exercise: review each queen move in one game. State whether it created a threat, improved
+coordination, answered danger, or merely moved the queen. Then count how many developing
+moves the opponent gained by attacking it. This reveals whether queen activity was real or
+expensive motion.

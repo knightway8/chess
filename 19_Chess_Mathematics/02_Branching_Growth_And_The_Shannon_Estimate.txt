@@ -1,0 +1,46 @@
+Branching growth and the famous huge estimate
+=============================================
+
+A game tree contains choices followed by replies followed by new choices. If the average
+number of legal continuations is b and the search looks d individual turns ahead, a simple
+uniform model has about b raised to the power d leaf paths. This is a model, because real
+branches have different lengths and different numbers of moves.
+
+The exponent explains the explosion. With an average of thirty choices per individual turn,
+looking four turns ahead produces about 810,000 leaves. Six turns produces about 729
+million. Eight turns produces about 656.1 billion. Increasing depth by one multiplies the
+leaf count by about thirty in this simplified model.
+
+Claude Shannon's 1950 paper on programming a computer for chess used an order-of-magnitude
+argument. He described roughly a thousand choices for a complete move by both players and a
+typical game of about forty such complete moves. Multiplying a thousand by itself forty
+times gives ten raised to the power 120. This quantity became known informally as the
+Shannon number.
+
+Ten raised to the power 120 is a one followed by 120 zeros. It is a heuristic estimate of
+game-tree complexity, not an exact count of all legal games, not an exact count of legal
+positions, and not a proof that every game lasts forty moves with a thousand choices each
+time. Different assumptions produce different estimates. The value is useful because it
+communicates scale.
+
+Why does a thousand per complete move roughly correspond to thirty per individual turn?
+Thirty choices for one side followed by about thirty replies gives nine hundred two-turn
+paths. Rounding that to an order of a thousand makes the forty-move estimate convenient.
+Using thirty choices across eighty individual turns gives about 1.48 times ten raised to the
+power 118, within a few orders of magnitude of the famous estimate.
+
+Search programs survive by avoiding uniform exhaustive search. They order promising moves,
+cut off branches that cannot affect the decision, reuse evaluations of repeated positions,
+and extend critical lines selectively. Human calculation also prunes. A player investigates
+forcing replies and rejects a candidate after finding one decisive refutation.
+
+Pruning carries a lesson and a risk. It saves enormous effort, but a move excluded too early
+can be the only defense. Strong calculation combines selective attention with tactical
+discipline. Checks, captures, promotions, and threats receive priority because their
+consequences constrain the tree.
+
+Source note: Shannon's paper, 'Programming a Computer for Playing Chess,' appeared in 1950
+and is available as a scan at
+https://walkofmind.com/programming/chess/Shannon%20-%20Programming%20a%20computer%20for%20playing%20chess.pdf.
+The large number here is presented with his modeling assumptions so it is not mistaken for
+an exact census.

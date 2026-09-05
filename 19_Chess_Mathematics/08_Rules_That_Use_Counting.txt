@@ -1,0 +1,33 @@
+Draw rules that use counting
+============================
+
+Some draw rules depend on repeated positions and on stretches without captures or pawn
+moves. Competitive procedures matter, so this lesson is an explanation rather than a
+substitute for the current event rules and an arbiter.
+
+Under the FIDE Laws effective from January 2023, a player can claim a draw when the same
+position is about to appear for at least the third time through an indicated move, or has
+appeared at least three times with that player to move. The occurrences do not need to be
+consecutive. Position identity includes the player to move and the same possible moves,
+including relevant castling and passing-capture rights.
+
+The same rules make a draw automatic after the position appears at least five times. This is
+distinct from the claim-based threefold rule. A player should not assume that an interface,
+casual club, or other federation uses identical claim procedures.
+
+A player can also make a correct claim based on fifty moves by each player without a pawn
+move or capture, including an intended move that completes that span under the specified
+procedure. An automatic draw occurs after at least seventy-five moves by each player without
+a pawn move or capture, unless the last move checkmates; mate takes precedence in that case.
+
+Notice the unit: 'fifty moves by each player' means one hundred individual turns in the
+completed span. The counter resets after a capture or pawn move. Checks do not themselves
+reset it.
+
+These rules affect endgame strategy. A theoretically winning construction may need progress
+before the automatic limit. A defender may track repetition or the no-capture counter as a
+resource. Accurate scoresheets and arbiter procedure matter in over-the-board play.
+
+Source note: verify current wording and procedures in the official FIDE Laws at
+https://handbook.fide.com/chapter/e012023, especially the drawn-game article. Event
+regulations and online platforms may differ.

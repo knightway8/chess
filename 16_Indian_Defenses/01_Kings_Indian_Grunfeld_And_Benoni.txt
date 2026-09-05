@@ -1,0 +1,53 @@
+King's Indian, Grünfeld, Benoni, and Benko
+==========================================
+
+KING'S INDIAN DEFENSE
+
+Black allows White a broad pawn center, develops the king bishop on a long diagonal,
+castles, and challenges the center with pawn breaks. In closed main lines, White often
+expands on the queenside while Black attacks the king. The pawn chain indicates space, but
+timing and king safety decide the race.
+
+The Classical develops naturally and can lead to locked centers. The Sämisch builds a large
+supported center and may castle on either side, accepting slower development. The Fianchetto
+places White's king bishop on the long diagonal to restrain Black's attack. The Averbakh
+develops the queen bishop actively and limits an immediate kingside expansion. Black must
+choose the correct break; passive piece placement leaves the space disadvantage without
+counterplay.
+
+GRÜNFELD DEFENSE
+
+The Grünfeld invites a large center, then attacks it with the fianchetto bishop, knight
+pressure, and a central pawn break. White may have impressive pawns and active pieces, but
+the center can become a target. Black needs energetic play and accurate calculation because
+conceding space without timely pressure is dangerous.
+
+Exchange structures give White a central pawn mass and Black open lines against it. Quieter
+systems preserve tension. White aims to use the center to gain space or launch an attack;
+Black seeks to force advances or exchanges that expose its base. The opening is a clear
+example of dynamic pressure against occupation.
+
+MODERN BENONI
+
+Black concedes central space and creates an asymmetrical structure with a queenside majority
+and a central break. White has a central majority and a stable space advantage. Black seeks
+piece activity, pressure on the half-open file, and queenside expansion. The backward pawn
+and weak squares are lasting concerns, so activity is essential.
+
+BENKO GAMBIT
+
+Black offers a queenside pawn to open files and diagonals against White's queenside. The
+compensation is long-term pressure rather than a short mating attack. White may accept and
+try to consolidate, return the pawn for development, or decline. Black's active rooks and
+bishop often make the extra pawn difficult to use.
+
+OLD INDIAN AND EAST INDIAN SETUPS
+
+The Old Indian develops the king bishop more modestly behind a pawn and builds a compact
+center. Black seeks a freeing break without the immediate long-diagonal pressure of the
+King's Indian. These positions reward patient maneuvering but still require counterplay
+against White's space.
+
+The shared lesson is that conceding a center creates a debt. Black repays it through timely
+breaks and piece pressure. White must convert space into development and useful plans before
+the center is undermined.

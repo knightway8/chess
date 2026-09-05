@@ -1,0 +1,40 @@
+Coordination, redundancy, and overprotection
+============================================
+
+Pieces are coordinated when their tasks support one another. A bishop protects a rook's
+entry square, a queen supports a pawn break, and a knight covers the king while attacking a
+central target. Coordinated pieces can switch roles without leaving the position unguarded.
+
+Simply defending the same pawn many times is not always coordination. Redundant defenders
+are useful when they gain freedom after an exchange or when the pawn is central to the whole
+position. They are wasteful when every piece becomes passive around a target the opponent
+cannot attack.
+
+Overprotection is the deliberate extra support of an important point, often a central pawn
+or outpost. The supporting pieces may become well placed and ready for action elsewhere. The
+concept works when the protected point organizes the position. It should not be used to
+justify piling pieces behind a weakness without a plan.
+
+Loose coordination often appears after one piece chases material. The queen captures a
+remote pawn, the rook loses protection, and the king's defenders become overloaded. Before
+accepting material, check whether the capturing piece was connecting parts of your army or
+guarding a critical route.
+
+Coordination has a time dimension. Two pieces may point at the same target, but if one can
+be exchanged before the other arrives, the attack is not coordinated enough. Prepare threats
+so defenders cannot solve them one at a time. Likewise, a defense should challenge the
+attacker before all its pieces assemble.
+
+When one piece performs several essential jobs, your position may be brittle. Add a
+defender, move the king, or simplify so those duties are separated. This reduces tactical
+overload. A move that appears to 'do nothing' can be valuable if it releases a rook or queen
+from permanent defensive work.
+
+Good coordination does not require symmetry. One rook can be active while another guards the
+back rank. A knight can block a passer while a bishop attacks the other wing. The question
+is whether the combined jobs address the position's needs and whether any necessary task is
+forgotten.
+
+Exercise: draw a verbal network for one position. For each piece, name what it protects,
+attacks, and enables. Find the piece with too many duties and the piece with no useful duty.
+A strong improving move often redistributes that workload.

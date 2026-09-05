@@ -1,0 +1,39 @@
+Fortresses and the test of progress
+===================================
+
+A fortress is a position in which a material advantage cannot be converted because the
+defender can maintain a stable setup and the attacker has no successful break or entry. It
+is a property of the exact position, not a mood. Saying 'fortress' does not make one exist.
+
+Test a fortress by listing the attacker's possible improvements. Can the king enter? Can a
+pawn break change the structure? Can a piece be transferred to attack a new weakness? Can
+the defender be placed in zugzwang? Can material be sacrificed to destroy the blockade? If
+any route works, the fortress claim fails.
+
+The defender wants a compact arrangement with independent coverage of key entry squares.
+Avoid unnecessary pawn moves that create weaknesses or remove reserve tempi. Repeat the
+stable setup when possible. Activity can still matter: checking from the correct side or
+threatening a pawn may stop the attacker from reorganizing.
+
+Material imbalance often creates fortress chances. A rook may be unable to defeat a bishop
+and pawns if every entry is controlled. A queen can struggle against a protected structure
+when checks never improve the position. These are possibilities, not universal results.
+Placement and remaining pawns decide.
+
+The attacker should be patient but purposeful. Move pieces to their best squares, create a
+second target, and avoid exchanges that simplify into the defender's known setup. If the
+position contains no progress, repeating moves may be an honest recognition of a draw rather
+than a failure of will.
+
+Zugzwang breaks many apparent fortresses. If every legal move weakens the setup, the
+attacker can force entry by passing the turn at the right moment. Spare pawn moves can
+determine who must move. This is why apparently irrelevant pawns matter in endings.
+
+An engine evaluation alone may not explain practical progress. Analyze candidate plans and
+verify whether the score changes under accurate defense. A stable numerical advantage can
+coexist with a difficult conversion; a true fortress may receive misleading evaluations from
+shallow analysis.
+
+Exercise: for a claimed fortress, write the defender's repeating setup and the attacker's
+four most plausible breaking ideas. Try them on a legal board. Keep the word fortress only
+if every relevant idea fails.

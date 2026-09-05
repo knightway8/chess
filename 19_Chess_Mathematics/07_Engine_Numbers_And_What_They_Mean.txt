@@ -1,0 +1,37 @@
+Engine evaluations are measurements with conditions
+===================================================
+
+Chess engines display numerical evaluations, often in pawn-like units. Positive and negative
+signs indicate which side the interface favors, but conventions can differ. A value near one
+does not mean the side is literally guaranteed to win one pawn or has a fixed probability
+independent of the engine and settings.
+
+Modern Stockfish normalizes its displayed evaluation using a model connected to expected
+winning chances in its self-play conditions. Its documentation explains that one pawn unit
+in the normalized scale corresponds to about a fifty-percent win probability for the side to
+move under the model's specified engine-versus-engine time control. That calibration is not
+a universal forecast for two human players.
+
+Depth, search time, hardware, engine version, and position affect the result. A tactical
+score can swing when the engine sees a hidden defense. A stable score across deeper searches
+is more reassuring, but it does not explain the plan. Forced mate announcements have a
+different meaning from ordinary positional values.
+
+The three outcome estimates sometimes shown by engines are based on model conditions. Human
+results can differ because players make different types of mistakes. A position that an
+engine holds with precise defense may be extremely difficult for a person. A technically
+winning position may remain hard to convert.
+
+Use engines to test claims and find missed resources. First analyze without assistance, then
+compare candidates. Ask why the evaluation changed: tactic, king safety, pawn break, or
+transition. Copying the first engine move without explanation produces dependence rather
+than understanding.
+
+Small numerical differences should be handled cautiously. Two moves with close scores may be
+practically equivalent at the search settings. Prefer the move whose resulting plans you
+understand unless the engine reveals a concrete defect. Do not build sweeping principles
+from a hundredth of a pawn.
+
+Source note: Stockfish's current explanation of normalized values and win-draw-loss modeling
+is at https://official-stockfish.github.io/docs/stockfish-wiki/Stockfish-FAQ.html.
+Interfaces may present engine output differently.

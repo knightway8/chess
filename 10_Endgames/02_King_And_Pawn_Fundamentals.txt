@@ -1,0 +1,27 @@
+King and pawn fundamentals
+==========================
+
+King-and-pawn endings teach opposition, corresponding squares, reserve tempi, breakthroughs,
+and promotion races. They require exactness. A one-step difference in king position can
+reverse the result.
+
+The kings cannot stand adjacent, so one king can deny the other's advance. Direct opposition
+is the simplest form, but spare pawn moves and side routes determine who is forced to yield.
+Do not chant 'take the opposition' without calculating the pawn moves that change whose turn
+it is.
+
+An outside passed pawn can draw the enemy king away. A protected passer can deny entry and
+support the king. A distant majority may be more valuable than a nearby extra pawn because
+it creates a second front.
+
+Count a race through promotion and beyond. Determine who promotes first, whether promotion
+gives check, and whether the new piece can stop the other passer. Include captures that
+alter the route. Visual distance is insufficient.
+
+Zugzwang occurs when having to move harms the player. Preserve reserve pawn moves when they
+can pass the turn. Force the enemy king away from a critical defense before pushing the
+pawn.
+
+Exercise: verify every claimed win or draw with a legal board or tablebase when the position
+has few enough pieces. Memorize the mechanism after understanding it, not as a detached
+result.

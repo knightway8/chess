@@ -1,0 +1,56 @@
+London, Colle, Torre, Trompowsky, and Veresov systems
+=====================================================
+
+LONDON SYSTEM
+
+The London develops the queen bishop outside the pawn chain and builds a compact central
+structure. White obtains reliable development and often attacks the king or uses a central
+break. The setup is not independent of Black's choices. Black can challenge the center, seek
+an active bishop, or expand on the queenside.
+
+COLLE SYSTEM
+
+The Colle supports the center with pawns, develops the king bishop behind the chain, and
+prepares a central break. The break is the point of the setup; without it the bishop remains
+restricted. Black seeks space and may develop the queen bishop before the center closes.
+
+TORRE ATTACK
+
+The Torre develops a bishop to pin the king knight and supports a solid center. White may
+combine central pressure with a kingside attack. Black can challenge the bishop and seek
+central activity. The pin has value only when it affects a real tactical or structural
+decision.
+
+TROMPOWSKY ATTACK
+
+The Trompowsky develops the queen bishop aggressively against the king knight, sometimes
+exchanging to damage pawns or avoid Indian-defense theory. White gives up the bishop pair in
+some lines for structure and development. Black can challenge the center and use the
+bishops.
+
+RICHTER-VERESOV ATTACK
+
+The Veresov develops the queen knight behind the queen pawn and brings the bishop out
+actively, preparing a central advance. White seeks rapid development and pressure; the
+knight can obstruct the usual supporting pawn. Black challenges the center and avoids
+passive defense.
+
+RAPPORT-JOBAVA SYSTEM
+
+This system combines the London bishop development with early queen-knight activity,
+creating direct threats and unusual piece pressure. It can surprise opponents but does not
+remove strategic duties. White should understand when the knight placement supports attack
+and when it obstructs the center.
+
+BLACKMAR-DIEMER GAMBIT
+
+White offers a central pawn for development and attacking lines. Black can accept and
+consolidate or decline into other structures. White must use time energetically. As with all
+gambits, separate sound compensation from traps that depend on inaccurate defense.
+
+SYSTEM LESSON
+
+Systems reduce the number of early choices a learner must memorize, but the opponent's pawn
+structure still determines the best plan. Treat the recurring setup as a starting language.
+Learn the main break, the bad piece, and the circumstances that require a different
+arrangement.

@@ -1,0 +1,34 @@
+Plans before memory
+===================
+
+Opening memory is useful when it preserves reasons and tactical details. Memory without
+understanding collapses when the opponent changes the order. Learn each opening through its
+typical pawn structure, main breaks, best and worst pieces, king-safety concerns, and common
+transition.
+
+Start with a small decision tree. Against the opponent's main setup, know one reliable
+development plan. Against an early central challenge, know whether to exchange, advance, or
+defend. Against a flank attack, know the central reaction. Expand the tree from games you
+actually play.
+
+For every memorized move, explain what it prevents and what would happen after the natural
+alternative. If no explanation exists, mark the move for study rather than pretending it is
+known. Some move-order details are tactical and may not compress into a simple principle;
+those require exact board practice.
+
+Study model games for recurring plans. One short win can teach a trap, but a range of games
+shows what happens after sound defense. Include wins, losses, and draws by both colors. The
+losses reveal typical overreach and difficult endings.
+
+Review the first moment you were outside preparation. Did you recognize the structure? Did
+you spend too much time trying to remember an unavailable line? Use that position to grow
+your notes. A repertoire should develop from encountered decisions, not from collecting
+endless variations.
+
+Do not confuse a named variation with a complete plan. Names can separate positions
+differing by one move order. Transpositions can lead different names to the same structure.
+Learn the position you have, including any rights or tactical changes created by the route.
+
+Exercise: choose one opening and write five facts without notation: the central tension,
+your main pawn break, your best piece, your usual problem piece, and the endgame you
+welcome. If you cannot, learn those before adding moves.

@@ -1,0 +1,54 @@
+Scandinavian, Pirc, Modern, Alekhine, and Owen defenses
+=======================================================
+
+SCANDINAVIAN DEFENSE
+
+The Scandinavian challenges White's central pawn immediately. After an exchange, Black often
+develops the queen early and accepts attacks that gain White time. The benefit is a clear
+structure and direct pressure. Black must choose queen placement carefully and complete
+development; White should use tempi without overextending.
+
+PIRC DEFENSE
+
+The Pirc allows White to build a center, develops the king bishop on a long diagonal, and
+later challenges the pawn mass. White can choose a broad attacking formation, quieter
+development, or a positional setup. Black's breaks must be timed before space becomes a
+bind. White's center is an asset only while supported.
+
+MODERN DEFENSE
+
+The Modern delays the king knight and keeps the pawn structure flexible while developing the
+long-diagonal bishop. It can transpose to the Pirc or choose distinct setups. Flexibility
+gives Black options but can concede development. White should occupy the center responsibly
+and watch for attacks against its base.
+
+ALEKHINE DEFENSE
+
+The Alekhine invites White to advance central pawns while the king knight moves more than
+once. Black aims to prove the pawn center overextended and attack it with pawn breaks and
+pieces. White should develop behind the center rather than pushing every pawn. Black must
+avoid being smothered before the challenge arrives.
+
+OWEN DEFENSE
+
+Owen's Defense develops the queen bishop on a long diagonal and attacks the center from the
+side. Black keeps a flexible pawn structure but allows White space. A later central break is
+essential. White should protect the center and develop with tempo where possible.
+
+NIMZOWITSCH DEFENSE
+
+This defense develops the queen knight against the king-pawn opening and invites several
+transpositions. Black pressures the center without declaring a pawn structure. White can
+occupy space or enter more familiar open-game formations. Both sides should examine what the
+unusual order permits.
+
+ST. GEORGE, BORG, AND HIPPOPOTAMUS SETUPS
+
+These rare defenses use flank pawns or a compact back-rank arrangement before challenging
+the center. They can be resilient and unfamiliar, but slow development gives White a chance
+to occupy space. White should build without rushing a refutation. Black needs a coherent
+break and must not remain permanently compressed.
+
+The shared hypermodern lesson is invitation followed by attack. If Black never challenges
+the center, the invitation becomes a concession. If White cannot maintain the center, the
+gained space becomes a set of targets.

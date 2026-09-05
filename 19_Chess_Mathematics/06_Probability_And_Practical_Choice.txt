@@ -1,0 +1,40 @@
+Probability, risk, and practical choice
+=======================================
+
+Chess has no dice in ordinary play, but human decisions involve uncertainty. You may be
+unsure whether a sacrifice is sound, whether the opponent knows an opening trap, or whether
+you can execute a difficult ending with little time. Probability can organize these
+uncertainties without pretending to prove the position.
+
+Expected score combines outcomes with probabilities. If a risky choice gives an estimated
+fifty-percent chance to win, ten-percent chance to draw, and forty-percent chance to lose,
+its expected tournament score is one-half times 0.50 plus one-half of the draw probability,
+giving 0.55. The calculation is only as reliable as the estimates.
+
+Objective evaluation and practical choice can differ. In a must-win final round, a complex
+position with greater variance may be preferable to a sterile draw. When a draw secures
+first place, reducing counterplay may have extra practical value. This does not change which
+moves are best under perfect play; it changes the utility attached to possible results.
+
+Do not confuse frequency with correctness. If an opening scores sixty percent in a small
+database, player strength, color imbalance, selection effects, and repeated games can
+distort the statistic. A line popular among stronger players may look better because of who
+plays it. Large samples reduce random noise but do not remove bias.
+
+Conditional probability matters. The chance of a tactic working against an opponent who has
+already spent time and recognized the theme differs from its overall online success rate.
+Update your practical judgment from relevant evidence, while continuing to calculate the
+position.
+
+Risk management means avoiding outcomes you cannot afford while preserving winning chances.
+A move that is slightly less precise but easy to execute can be practical in time pressure.
+This idea should not excuse a known tactical error. A move that loses by force has low
+practical merit against any opponent who can find the refutation.
+
+Use probabilities humbly. State a range instead of fake precision, identify what could
+change your estimate, and review afterward. The board supplies facts; probability describes
+your uncertainty about them.
+
+Exercise: for one difficult decision, estimate win, draw, and loss chances for two
+candidates, ensuring each set totals one hundred percent. Then analyze the position and note
+which assumption changed most.

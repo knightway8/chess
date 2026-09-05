@@ -1,0 +1,29 @@
+Converting an advantage
+=======================
+
+Conversion means turning an advantage into a result while controlling the opponent's
+counterplay. First identify the nature of the advantage. Extra material suggests exchanges
+of active enemy pieces. More space suggests improving pieces and creating another front. A
+safer king suggests opening lines before the defender consolidates.
+
+Do not hurry when the advantage is stable. Improve your worst piece, restrict the opponent's
+break, and make an escape square before taking a pawn. Do act when the advantage is
+temporary. A development lead may disappear, and an exposed king may find safety. The source
+of the advantage determines its clock.
+
+Choose favorable transformations. An extra pawn may be easiest to use in a rook ending,
+hardest in an opposite-colored bishop ending, or decisive in a pawn ending. These are
+tendencies; exact placement can reverse them. Calculate the destination before trading
+toward it.
+
+Reduce the defender's active ideas. If perpetual check is the only danger, secure the king
+or trade queens. If a passed pawn is the only danger, blockade it before collecting
+material. Leaving one form of counterplay alive can be enough to lose control.
+
+Avoid the desire to prove superiority with the fastest win. A clear path that takes longer
+is still clear. Under time pressure, prefer positions with safe plans and fewer tactical
+reversals, provided the resulting ending is actually favorable.
+
+Exercise: at a moment when you were better, list the opponent's three drawing or swindling
+resources. Did your move remove one, ignore one, or create a new one? Conversion skill grows
+from treating resistance as part of the position.

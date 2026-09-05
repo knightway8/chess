@@ -1,0 +1,40 @@
+Isolated, backward, and hanging pawns
+=====================================
+
+An isolated pawn has no friendly pawn on an adjacent file. It cannot receive pawn
+protection, so pieces must defend it. In return, it may provide space, open files for rooks,
+and support active piece play. Whether it is weak depends on blockades, attackers, and the
+phase of the game.
+
+A central isolated pawn often carries dynamic potential. It can advance to open lines or
+support pieces placed near the center. The side facing it usually wants to blockade first,
+exchange active pieces, and attack later. Rushing to win the pawn before controlling the
+advance can release the defender's activity.
+
+A backward pawn cannot safely advance and trails neighboring pawns, often on a partly open
+file. The square in front of it can become an outpost. The key word is safely. If a pawn can
+advance with adequate support, calling it backward does not create an advantage. Prevent the
+freeing move before investing pieces in an attack.
+
+Hanging pawns are two connected pawns on adjacent files with no friendly pawns beside them.
+Together they control important squares and may advance to gain space or create a passer. If
+blockaded, they can become two targets. The side with hanging pawns wants active pieces and
+a favorable advance; the opponent wants restraint and well-timed pressure.
+
+Structural labels are not verdicts. An isolated pawn can be a strength in a middlegame
+attack and a weakness in a simplified ending. Hanging pawns can dominate the center until
+one is forced to advance and the other becomes backward. Judge what can happen next, not
+only what the diagram would be called.
+
+Piece exchanges change the balance. The defender of a weak pawn often welcomes exchanges of
+attackers, while the attacker may exchange active defenders. Queen exchanges can reduce
+king-side tactics and make a structural weakness easier to exploit. They can also activate
+the defending king and remove your most flexible attacker.
+
+The side with the structural weakness should avoid pure passivity. Prepare the pawn advance,
+attack on another wing, or use open lines before the weakness becomes decisive. A pawn is
+allowed to be weak if the rest of the army gains enough activity from its presence.
+
+Exercise: take one isolated-pawn game and stop before every major exchange. Ask whether the
+exchange favors the pawn's dynamic strength or the opponent's blockade. This reveals why the
+same structure produces both attacking classics and technical endgames.

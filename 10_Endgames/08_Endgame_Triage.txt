@@ -1,0 +1,26 @@
+Endgame triage under time pressure
+==================================
+
+When time is short, check forcing facts first: promotion threats, checks, captures, and
+whether a king can enter. Count pawn races before pursuing slower plans. One missed tempo
+can make every strategic idea irrelevant.
+
+Keep pieces active and connected. A rook giving checks is usually easier to use than one
+defending three pawns passively. A king close to the action reduces calculation. Simplify
+only into an ending whose result and mechanism you understand.
+
+Use known patterns as compression. Opposition, rook-behind-passer, checking distance, and
+bishop-color control reduce the search space. Still verify the assumptions. A blocked route
+or checking promotion can invalidate the pattern.
+
+If winning, remove the opponent's main counterplay and avoid unnecessary pawn moves. If
+defending, create one concrete problem: a passer, checks, a fork threat, or a stalemate
+possibility. The clock increases the value of clear tasks.
+
+Record the position afterward if possible and analyze it slowly. Compare your fast
+priorities with the exact requirements. The goal is to improve which features you notice
+first, not to criticize yourself for lacking unlimited time.
+
+Exercise: give yourself thirty seconds on a legal endgame position and write only the top
+priority. Analyze fully afterward. Track whether your first priority improves across
+sessions.

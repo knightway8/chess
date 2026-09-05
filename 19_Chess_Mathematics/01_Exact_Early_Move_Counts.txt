@@ -1,0 +1,44 @@
+How many moves are possible at the start?
+=========================================
+
+In the initial position, the player moving first has exactly twenty legal choices. Sixteen
+are pawn advances: each of the eight pawns can move either one step or two. Four are knight
+moves: each of the two knights has two destinations. Every other piece is blocked.
+
+After any one of those twenty choices, the second player also has twenty legal choices. That
+gives four hundred legal move sequences after one turn by each side. A sequence is a path
+through play. Two different sequences can sometimes reach the same position later, so path
+count and position count are different quantities.
+
+Continuing exhaustive legal enumeration from the initial position gives 8,902 paths after
+three individual turns, 197,281 after four, 4,865,609 after five, and 119,060,324 after six.
+Computer-chess programmers call this kind of move-tree count a performance test, usually
+shortened to perft. It is used to test whether a move generator handles checks, captures,
+castling rights, promotions, and the passing pawn capture correctly.
+
+These are exact leaf counts for the stated depth, not estimates of how many 'good moves'
+exist. They also do not count the internal nodes above the leaves. At depth four, for
+example, the figure 197,281 counts complete four-turn paths. If someone counts every
+intermediate position visited while building the tree, they will report a different total.
+
+The effective branching factor changes by level. Dividing 8,902 by 400 gives about 22.26
+continuations per path between the second and third turns. Dividing 197,281 by 8,902 gives
+about 22.16 at the next level. Dividing 4,865,609 by 197,281 gives about 24.66. The game
+does not have a fixed number of choices per turn. Checks restrict choices; open positions
+and promotions can increase them.
+
+The growth is multiplicative. If a hypothetical game offered exactly twenty choices on every
+turn, five turns would yield twenty multiplied by itself five times, or 3,200,000 paths.
+Real chess gives 4,865,609 from the start at that depth because the number of replies varies
+and grows as pieces become mobile.
+
+Do not say 'there are 119,060,324 positions after three moves' without qualification. Chess
+players often use the word move for a turn by both players, while programmers often measure
+depth in single-player turns called plies. The exact number above applies to six plies, and
+it counts paths. It can include repeated destination positions reached through different
+orders.
+
+Source note: the figures in this lesson match the published initial-position results at
+https://chessprogramming.org/Perft_Results. They can also be reproduced by a correct legal
+move generator. The distinction between paths, nodes, and unique positions is part of the
+result, not technical trivia.

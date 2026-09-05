@@ -1,0 +1,32 @@
+Building a coherent repertoire
+==============================
+
+A repertoire is a set of prepared choices that leads to positions you understand. It does
+not need to cover every named variation with equal depth. It needs an answer to common
+structures, forcing lines, and the deviations you encounter.
+
+Choose positions that fit your learning goals and available study time. Open games teach
+development and tactics. Closed centers teach maneuvering and pawn breaks. A system can
+reduce early branching, but it does not remove the need to respond to the opponent's setup.
+
+For each opening, keep a one-page verbal map: central idea, normal development, main breaks,
+tactical warnings, favorable exchanges, and undesirable structures. Keep exact move
+sequences in a separate board-capable tool if you want them. This library deliberately stays
+free of notation.
+
+Add illustrative games and recurring endgames. If an opening often produces an isolated
+central pawn, learn that structure. If it produces opposite-wing castling, study pawn races.
+Opening and middlegame study should connect.
+
+Review by retrieval. Close the notes and explain the plan. Solve a decision from the
+position. Spaced repetition of choices is more useful than rereading a long file. Delete
+lines that never occur and deepen branches that repeatedly cause problems.
+
+Maintain options for both colors. With the first move, know how you handle major defensive
+families. With the second move, choose a response to king-pawn, queen-pawn, and flank
+starts. Rare openings usually can be met by sound development and central play, but check
+concrete traps afterward.
+
+Exercise: make a coverage table containing opening family, intended structure, main break,
+and one model game to study. Empty cells show useful next work. A thousand memorized moves
+without this map can still leave a repertoire incoherent.

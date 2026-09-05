@@ -1,0 +1,54 @@
+The Open Sicilian: Najdorf, Dragon, Classical, and Scheveningen
+===============================================================
+
+The Sicilian creates an asymmetrical center from the first exchange. Black trades a flank
+pawn for White's central pawn in many main lines, gaining a half-open file and a central
+pawn majority. White gains space and rapid development. Both sides accept imbalance instead
+of immediate symmetry.
+
+NAJDORF
+
+The Najdorf uses a flexible queenside pawn move to prevent a bishop check and prepare
+expansion. Black delays some commitments while White chooses among direct king attacks,
+positional bishop development, and quieter systems. The central break is essential;
+queenside activity alone can be too slow. White must match an attack with development and
+watch Black's counterplay.
+
+DRAGON
+
+The Dragon develops the king bishop on a long diagonal and pressures the center and
+queenside. White often builds an attack with opposite-wing castling, while Black attacks on
+the open file and diagonal. The race is concrete. Removing the long-diagonal bishop can
+weaken Black's king, but the exchange costs time and may open lines for Black.
+
+ACCELERATED DRAGON
+
+The Accelerated Dragon seeks the central freeing advance in one move by delaying a
+supporting pawn move. White may establish a space bind that restricts the break. Black
+attacks the bind with pieces and pawn levers. The move order changes which attacking systems
+are available, so do not transfer Dragon tactics automatically.
+
+CLASSICAL SICILIAN
+
+The Classical develops both knights naturally and keeps several structures available. White
+can launch a sharp bishop-led attack or choose quieter development. Black seeks central
+counterplay and piece activity. Because the setup is less committed, both players must
+recognize transpositions.
+
+SCHEVENINGEN
+
+The Scheveningen uses a compact central pawn formation controlling key squares while
+preserving two central breaks. White has more space and may attack the king. Black's
+structure is resilient if the freeing breaks arrive. Passive waiting is dangerous;
+counterplay is part of the defense.
+
+SVESHNIKOV AND KALASHNIKOV
+
+These families accept a backward central pawn and weakened squares in exchange for activity,
+space, and dynamic piece play. Black's advanced pawn gains territory but leaves a stable
+outpost. White seeks to use the long-term squares; Black seeks time and breaks before those
+weaknesses become decisive.
+
+Across all Open Sicilians, learn the pawn breaks, open-file ownership, and king placements
+before memorizing forcing lines. Similar-looking attacks can differ because one supporting
+pawn or defender has changed.

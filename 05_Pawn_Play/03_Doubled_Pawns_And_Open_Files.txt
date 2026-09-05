@@ -1,0 +1,39 @@
+Doubled pawns and the files they create
+=======================================
+
+Doubled pawns are friendly pawns on the same file. They often cannot protect each other, and
+the front pawn may obstruct the rear one. This can create weakness and reduce mobility. The
+exchange that produced them may also open a file for a rook, strengthen central control, or
+give a bishop a useful line.
+
+Ask how the pawns were doubled. A capture toward the center may increase central influence.
+A capture away from the center may open a rook file against the enemy king. If the doubled
+pawns control key invasion squares and cannot be attacked conveniently, their cosmetic
+damage may be unimportant.
+
+The worst doubled pawns are fixed, isolated, easily attacked, and unable to create a useful
+break. The best may control complementary squares, support an outpost, and provide an open
+neighboring file. Two pawns with different functions can be worth more than their awkward
+appearance suggests.
+
+The attacker should blockade them and create additional targets. Attacking a single doubled
+pawn may merely tie one defender while making no progress. Exchanges can help if they leave
+a favorable king-and-pawn ending, but calculate carefully: the doubled pawns may undouble
+through a capture or create a passed pawn.
+
+The owner should use the open line and seek an active transformation. One doubled pawn might
+advance as a lever, be exchanged to undouble the structure, or be sacrificed to open an
+entry route. Defending both forever is rarely attractive when the position offers active
+alternatives.
+
+Tripled pawns are rare and usually cumbersome, yet even they can control many squares and
+open lines. The lesson remains the same: identify functions and targets. Unusual structure
+does not suspend tactical calculation.
+
+Do not automatically inflict doubled pawns if the exchange helps the opponent. Trading an
+active bishop for a modest knight may surrender important color control while opening a rook
+file for the opposing side. Structural damage is valuable only relative to what you give up.
+
+Exercise: whenever an exchange could double pawns, write a before-and-after list: open
+files, controlled squares, weak targets, piece quality, and possible undoubling captures.
+This replaces the reflex 'doubled is bad' with an evaluation of the actual transformation.
