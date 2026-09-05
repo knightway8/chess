@@ -1,0 +1,29 @@
+Sources and verification notes
+==============================
+
+The tutorial prose in this collection was written for this library and was not copied from
+chess books or channels. General chess concepts were checked against legal move generation
+and established rules.
+
+OFFICIAL RULES
+https://handbook.fide.com/chapter/e012023
+Used to verify board facts, legal concepts, repetition, and move-count draw rules. Rules can
+change.
+
+OPENING NAME DATA
+https://github.com/lichess-org/chess-openings
+The five source tables are released under the CC0 Public Domain Dedication. The build used
+their English names and classification records; move sequences are not distributed here.
+
+EARLY MOVE-TREE COUNTS
+https://chessprogramming.org/Perft_Results
+The starting-position leaf counts were checked against these published move-generation test
+results.
+
+SHANNON ESTIMATE
+https://walkofmind.com/programming/chess/Shannon%20-%20Programming%20a%20computer%20for%20playing%20chess.pdf
+Claude Shannon’s 1950 paper supplies the assumptions behind the famous game-tree estimate.
+
+ENGINE EVALUATION INTERPRETATION
+https://official-stockfish.github.io/docs/stockfish-wiki/Stockfish-FAQ.html
+Used only to check the explanation of normalized evaluation and win-draw-loss modeling.

@@ -1,0 +1,15 @@
+Free reuse and CC0 dedication
+=============================
+
+To the extent that copyright or related rights exist in the original tutorial prose and
+organization, the creator dedicates those rights to the public under the Creative Commons
+CC0 1.0 Universal Public Domain Dedication. You may copy, modify, redistribute, publish, or
+sell copies without asking permission.
+
+The underlying Lichess opening-name dataset is separately offered by its maintainers under
+CC0 1.0. Opening names, chess rules, mathematical facts, and general game concepts may not
+be copyrightable facts.
+
+CC0 legal text and explanation: https://creativecommons.org/publicdomain/zero/1.0/
+
+No trademark rights, endorsement, or warranty are granted. The material is provided as-is.
