@@ -1,0 +1,45 @@
+Removing defenders, deflection, and interference
+================================================
+
+An important target may be safe only because one defender performs a specific job. If that
+defender can be exchanged, lured away, blocked, or overloaded, the target can become
+vulnerable. Tactical combinations often look spectacular at the finish but begin with a
+simple question: what is keeping this target safe?
+
+Removing a defender is the broad idea. You may capture the defending piece directly or force
+a trade that eliminates it. Deflection draws the defender away from its duty. Decoy draws a
+piece onto a useful square, often into a fork, pin, or mating pattern. The terms overlap in
+some combinations; understanding the mechanism matters more than choosing a perfect label.
+
+Overloading occurs when one piece has more defensive duties than it can successfully
+perform. A rook might guard both a back-rank mating square and a loose queen. If saving one
+target abandons the other, the attacker may create a decisive choice. The defender is not
+overloaded merely because it protects two things. The attacker must be able to exploit the
+conflict in time.
+
+Interference blocks a line between defender and target. A piece may be sacrificed on the
+line to interrupt a rook's protection or a bishop's control. Sometimes the defender can
+capture the interfering piece, but doing so changes its position or opens another line. The
+full combination depends on those consequences, not simply on placing something between two
+pieces.
+
+Clearance is the related attacking idea of vacating a square or line so another piece can
+use it. A rook might move with tempo to clear a diagonal for a bishop. A pawn sacrifice
+might clear an entry square for a knight. Good calculation tracks the space being created as
+carefully as the material being given away.
+
+When considering a sacrifice, identify the defender's exact duty before calculating. 'This
+bishop is important' is too vague. 'This bishop is the only piece preventing the queen from
+entering next to the king' is specific enough to test. Then ask whether the opponent can
+replace the defender, decline the sacrifice, trade queens, or create a stronger threat.
+
+Defending against these ideas often means adding a second independent defender or separating
+duties. If your rook is both shielding the king and protecting a pawn, a modest king escape
+square may release the rook from the first duty. A queen trade may remove the mating threat
+and make the overload disappear. Quiet coordination can neutralize a tactical problem before
+a forcing combination exists.
+
+Exercise: choose a vulnerable target in a game and list every actual defender. For each
+defender, ask whether it can be exchanged, attacked with tempo, pinned, or interrupted. Then
+perform the same examination for your own king and loose pieces. The exercise teaches that
+tactics arise from relationships between pieces, not from isolated piece values.

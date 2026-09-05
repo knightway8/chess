@@ -1,0 +1,44 @@
+Weak squares, outposts, and color complexes
+===========================================
+
+A weak square is a location that is difficult for one side to control, often because its
+pawns can no longer challenge an enemy piece there. The weakness matters only if the
+opponent can use it. A beautiful outpost on an irrelevant wing may be less important than a
+modest central square that blocks a pawn break and attacks a real target.
+
+An outpost is a protected square, usually in or beyond the center, where a piece can operate
+without being driven away conveniently by a pawn. Knights are celebrated outpost pieces
+because a stable knight can attack several targets and cannot be challenged by a rook or
+bishop directly. Bishops, rooks, and queens can also occupy strong posts when the tactical
+conditions permit.
+
+To use an outpost, identify a route and a purpose. Can the knight reach it before the
+opponent exchanges it? From there, does it attack pawns, support a passer, restrict the
+king, or enable an invasion? If the answer is no, occupying the square may be decorative.
+The route can matter more than the destination because each maneuver gives the opponent time
+for counterplay.
+
+A color-complex weakness is a broader shortage of control over one color. Trading a bishop
+can leave squares of its color vulnerable, especially when your own pawns are fixed on those
+squares. Yet the absence of a bishop is not automatically a weakness. If the opponent lacks
+a piece capable of entering, or if your other pieces control the important squares, the
+color complex can be secure.
+
+Pawn moves permanently change square control. Advancing a pawn may gain space and take away
+a square from an enemy knight, while weakening the square it leaves behind. This is not an
+argument against pawn moves. It is a reason to compare the gain with the lasting concession.
+Pieces can often return to defend; pawns cannot move backward to repair the old structure.
+
+The best response to an enemy outpost is not always to exchange the occupant. The exchange
+may improve the opponent's pawn structure or open a file. You might instead ignore a
+harmless piece, remove its supporting pawn, attack elsewhere, or make the piece defend. A
+glorious knight that must guard a weak pawn may be less powerful than it looks.
+
+Imagine a knight firmly placed in the opponent's half but with no safe route forward and no
+targets. Meanwhile, the opponent opens a file on the other wing. The knight's permanence
+does not guarantee relevance. Positional labels describe features; evaluation depends on how
+those features interact with the game's active events.
+
+Exercise: find the pawn moves made by each side in one game and list the squares each move
+stopped controlling. Which newly weak square was actually usable? Which remained
+theoretical? This teaches restraint without teaching fear of pawn moves.

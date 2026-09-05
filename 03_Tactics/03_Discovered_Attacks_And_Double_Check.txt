@@ -1,0 +1,45 @@
+Discovered attacks and double check
+===================================
+
+A discovered attack occurs when one piece moves and reveals an attack by another piece
+behind it. The moving piece may create an additional threat, so a single turn can produce
+two problems. This is why a piece standing in front of a bishop, rook, or queen can be more
+dangerous than it appears: it is a movable door on a line of attack.
+
+The strongest discovered attacks give the moving piece freedom to choose a useful
+destination. If revealing a rook attack on the queen forces the opponent to respond, the
+moving knight may be able to capture a pawn, attack another piece, or improve its position
+with tempo. The hidden line supplies the force; the moving piece supplies the extra benefit.
+
+A discovered check reveals an attack on the king. Because check must be answered, the moving
+piece can sometimes travel to a square that would otherwise be unsafe. That does not make
+every such move sound. The opponent may capture the checking piece, block the check, or move
+the king in a way that also solves the second threat. Calculate the actual responses.
+
+Double check means that two pieces check the king at once. The checked king must move;
+capturing or blocking only one checker does not solve the other check. This reduction in
+defensive choices makes double check a powerful mating tool. The attacker still has to
+account for every legal king escape. Two checks are not the same thing as checkmate.
+
+Look for discovered attacks before exchanging the front piece. A knight that seems awkwardly
+placed in front of your bishop may be storing tactical energy. Exchanging it immediately
+might remove your best attacking possibility. Conversely, when the opponent has such a
+battery, exchanging the rear long-range piece or changing the king's position can remove the
+danger before the door opens.
+
+Defensive awareness begins with asking what a move uncovers. When your opponent moves a
+knight away from an apparently irrelevant square, trace the lines behind its starting point.
+A newly opened bishop diagonal can matter more than the knight's destination. This habit
+also catches discovered defenses: a retreat may reveal a rook that now protects a previously
+loose piece.
+
+Imagine a bishop aligned with the enemy king but blocked by its own knight. If the knight
+can move with check of its own, both pieces attack the king. The important preconditions are
+alignment, a movable blocker, and a useful destination. The position may also contain
+defenders or escape squares that spoil the intended mate. The motif tells you where to
+search, not what the result must be.
+
+Practice by describing each move in two parts: what it does at its destination and what it
+changes at its starting square. This is especially useful after pawn captures, because a
+pawn can leave one file and open another diagonal simultaneously. Discoveries become easier
+to see when you train yourself to notice vacancies as actively as occupied squares.

@@ -1,0 +1,47 @@
+Evaluation, uncertainty, and choosing between plans
+===================================================
+
+An evaluation is a judgment about the position under good play. It is not a description of
+how comfortable you feel or how often similar-looking attacks have worked against your
+friends. Separate objective features from practical difficulty. A position can be
+objectively defensible and still unpleasant to defend; it can be objectively winning and
+still require accuracy you have not yet learned.
+
+Compare lasting and temporary features. Extra material, a stable outpost, and fixed pawn
+weaknesses may persist. A lead in development, an exposed king before castling, and a
+temporary pin may disappear quickly. A side with a temporary advantage often needs energetic
+action. A side with a stable advantage can sometimes improve patiently, provided the
+opponent has no active escape.
+
+Do not count features as though each has one vote. Three small advantages can be outweighed
+by one decisive danger to the king. A weak pawn may be irrelevant if it cannot be attacked.
+A bishop pair may be powerful in an open position and restricted behind locked pawns.
+Evaluation means understanding interactions and importance, not adding a checklist
+mechanically.
+
+When comparing plans, imagine the opponent cooperating as little as possible. A plan to
+attack a backward pawn is weak if the pawn can safely advance. A plan to invade an open file
+is incomplete if every entry square is controlled. A plan to win with an extra pawn must
+account for blockade and counterplay. Ask what the plan requires and whether those
+requirements can be secured.
+
+Use verbal evaluations that explain themselves. 'Slightly better' is less useful than 'My
+safer king and active rooks give me easier play, but the opponent can equalize if they
+complete the central break.' The second description identifies both the advantage and the
+opponent's remedy. It tells you what to do next and what to watch for.
+
+Some decisions remain uncertain. You may be unable to prove whether a sacrifice gives enough
+compensation. Compare the reliable alternative with the speculative one, taking account of
+the clock and your understanding of the resulting positions. Uncertainty does not make the
+sacrifice wrong. It does mean that you should not describe it afterward as forced if you
+played it mainly on judgment.
+
+Avoid outcome bias. If an attack succeeds because the opponent misses an easy defense, the
+success does not prove the sacrifice sound. If a sound plan fails because you later blunder,
+the plan was not necessarily bad. Review the decision at the moment it was made, using the
+information and alternatives available then.
+
+Exercise: choose one game where you won from a worse position and one where you lost from a
+better position. Identify the evaluation before the turning point and the event that changed
+it. This teaches the difference between having an advantage, preserving it, and converting
+it. Those are related skills, but they are not the same skill.

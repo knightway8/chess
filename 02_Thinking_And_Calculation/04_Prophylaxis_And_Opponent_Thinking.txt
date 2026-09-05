@@ -1,0 +1,45 @@
+Prophylaxis and thinking from the other side
+============================================
+
+Prophylaxis is preparation against the opponent's useful ideas. It is broader than
+preventing an immediate threat. A move can stop a freeing pawn break, preserve a bishop
+retreat, deny a knight outpost, or make an intended exchange unattractive. The best
+preventive moves often improve your own position at the same time.
+
+Begin by temporarily adopting the opponent's perspective. Which of their pieces is worst?
+Which exchange would relieve their pressure? Which pawn break would activate their army?
+Where would their queen like to enter? You are not trying to guess their personality. You
+are identifying the resources that the position makes available.
+
+Then ask whether those ideas are actually good. Preventing a harmless plan wastes time. If
+an enemy pawn advance weakens their king and does not create a real threat, allowing it may
+be better than stopping it. Prophylaxis requires evaluation, not fear. The opponent's
+apparent wish and the opponent's best move are not necessarily the same.
+
+Consider a position where your opponent has a cramped bishop and one central pawn break that
+would free it. You could launch an immediate wing attack, but that might give the opponent
+time to open the center. A quiet rook move that increases pressure on the central pawn may
+make the freeing break tactically impossible. Your later attack becomes stronger because the
+defender's main source of activity has been restricted.
+
+Preventive thinking is also useful when winning. Before collecting another pawn, ask what
+could make conversion difficult: perpetual check, a blockade, a passed pawn, or a fortress.
+You may prefer to stop the opponent's only active idea first. This is not excessive caution
+if the advantage is stable and the preventive move costs little. It is a way to make the
+position easier to handle.
+
+The danger is trying to prevent everything. Every move allows some possibilities and removes
+others. If you spend all your time responding to remote threats, you can surrender the
+initiative without cause. Rank the opponent's ideas by urgency and effectiveness. Prevent
+the important one, tolerate the harmless one, and answer the speculative one only if it
+becomes real.
+
+A useful question before any irreversible move is: what does this give the opponent that
+they did not have before? A pawn advance may create an outpost. A bishop exchange may remove
+control of a color complex. A king move may lose castling rights. The move may still be
+best, but recognizing the concession allows you to plan around it.
+
+Practice after each opponent move in a slow game: state their strongest next idea in one
+sentence. After the game, compare your prediction with an analysis of the position. The goal
+is not perfect prediction of the move they actually chose. The goal is noticing the best
+resource they could have chosen, including resources they themselves missed.

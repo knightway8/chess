@@ -1,0 +1,46 @@
+Candidate moves and forcing replies
+===================================
+
+Checks, captures, and threats deserve early attention because they restrict the opponent's
+choices. They do not automatically deserve to be played. A useless check can improve the
+enemy king's position, a capture can open a dangerous file, and a one-move threat can be met
+while the opponent improves a piece. Use forcing moves as a search priority, not a command.
+
+A candidate is worth calculating when it addresses the position's actual needs. In an
+attack, useful candidates may introduce a new attacker or remove a defender. In a cramped
+position, a pawn break or exchange may matter more than a direct threat. In an ending, the
+critical choice may be a king route or a waiting move. Do not let the word 'tactical' narrow
+your imagination to captures.
+
+Generate candidates before becoming emotionally attached to one. If you calculate your
+favorite move deeply and then glance at the alternatives, you are comparing unequal amounts
+of evidence. A brief initial survey can reveal a quiet move that makes the sacrifice
+unnecessary. It can also reveal that the opponent has only one meaningful threat, which
+makes a calm defensive move attractive.
+
+Forcing replies are especially important when testing your own move. Imagine that your rook
+attacks the enemy queen, but the opponent can give a mating check. The queen attack did not
+force the response you expected. The hierarchy of threats depends on consequences. A check
+that wins your queen can be stronger than defending their queen; a passed pawn that promotes
+with check can reverse an apparently settled exchange.
+
+Look for intermediate moves between expected captures. If you assume every capture will be
+immediately recaptured, your analysis will miss many tactics. The opponent may insert a
+check, attack a more valuable piece, eliminate a defender, or promote a pawn. After each
+exchange, pause mentally and ask whether the side to move has a stronger interruption.
+
+Refutations are valuable. Finding that your intended attack fails to a simple retreat is
+progress because it saves you from playing it. Do not treat the discovery as an invitation
+to ignore the retreat and search only for a more beautiful continuation. Either repair the
+defect, choose another candidate, or establish that the retreat has a concrete drawback.
+
+An efficient comparison often uses one decisive reason to reject a move. If a candidate
+loses a rook by force without adequate compensation, there is no need to evaluate its
+elegant pawn structure. Spend the saved time on the candidates that survive. Conversely, if
+a move is playable but strategically different, compare the resulting positions instead of
+declaring one wrong because it does not match your initial plan.
+
+Exercise: review a critical move and list one forcing candidate, one quiet candidate, and
+one move that directly answers the opponent's idea. Explain the best objection to each. Your
+answer is useful even if two categories lead to the same move. The skill is seeing competing
+purposes and testing them fairly.

@@ -1,0 +1,42 @@
+Good pieces, bad pieces, and useful exchanges
+=============================================
+
+A good piece contributes to the current position; a bad piece lacks a useful role or is
+restricted by the structure. These judgments are temporary. A blocked bishop can become
+powerful after one pawn break, and a beautiful knight can become irrelevant after the play
+shifts to the opposite wing.
+
+A bishop restricted by its own pawns is often called bad. That description should lead to a
+plan: move the pawns to another color, arrange the freeing break, exchange the bishop for an
+active enemy piece, or give it a useful defensive role. Calling it bad without finding a
+remedy is diagnosis without treatment.
+
+A knight needs stable destinations. In a closed center it can maneuver around barriers that
+stop bishops. In an open position with targets on both wings, it may struggle against a
+bishop's range. Yet a centralized knight supported by a pawn can dominate even an open board
+if the bishop cannot challenge it. General comparisons must yield to concrete placement.
+
+The bishop pair often gains strength when the position is open or likely to open. One bishop
+covers each color, and together they can influence both wings. Trading one bishop may be
+correct to damage the enemy structure, eliminate a dangerous knight, win time, or survive an
+attack. Preserve the pair for what it can do, not because a rule says two bishops deserve a
+trophy.
+
+Rooks need entry routes and targets. Doubling rooks on a file that leads nowhere may look
+organized but accomplish little. A rook can be active behind a passed pawn, along an open
+rank, or on a file where it can enter the enemy camp. Queens need safe access; an early
+queen expedition may lose time to minor-piece attacks.
+
+The exchange question should be phrased carefully: which of my pieces is least useful, which
+enemy piece is most useful, and what changes after the trade? Trading your bad bishop for
+their good knight can be excellent. It can also open a file against your king or create an
+enemy passed pawn. Include the new structure in the answer.
+
+Sometimes a piece is bad because it performs a necessary job. A passive rook may be the only
+stopper of a passed pawn. Improving it without replacing that duty loses the game.
+Coordination means that each necessary task remains covered as pieces change roles.
+
+Exercise: assign every piece a current job in one of your middlegames. If a piece has no
+job, give it a plausible route. If the route takes several turns, ask what the opponent can
+do meanwhile. This turns piece improvement into a timed plan rather than a collection of
+ideal squares.

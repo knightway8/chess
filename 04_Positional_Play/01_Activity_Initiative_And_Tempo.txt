@@ -1,0 +1,45 @@
+Activity, initiative, and tempo
+===============================
+
+Activity measures how usefully pieces participate. An active piece attacks meaningful
+targets, controls important routes, restricts the enemy, or supports a pawn break. A piece
+is not active merely because it has moved far. A queen deep in enemy territory can be driven
+around while the rest of its army remains undeveloped.
+
+The initiative is the ability to pose threats that require responses. It is temporary unless
+converted into material, structural gains, a lasting attack, or a favorable transition. When
+you have the initiative, improve your position with tempo and prevent the opponent from
+coordinating. When you face it, seek exchanges of attacking pieces, challenge the source of
+the pressure, or return material to end the forcing sequence.
+
+A tempo is one turn of play. Gaining a tempo means achieving something while forcing a
+response; losing one means spending a turn that the position could not afford. Tempo is
+contextual. Moving a developed piece twice can be wasteful in the opening, but essential if
+the second move wins material or places the piece on a dominating square. A pawn move that
+appears free can be a serious loss of time if the center opens before development is
+complete.
+
+Compare activity by examining jobs. Which rook has an open file? Which bishop has targets?
+Which knight can reach a stable post? Which queen can enter without becoming a target? Count
+useful options, not legal moves alone. A bishop may have many legal retreats and no
+constructive task; a knight may have one excellent route that determines the position.
+
+The fastest move is not always a forcing move. Suppose your opponent threatens to bring a
+rook onto an open file. Racing to that file may create a sterile exchange. A pawn break
+elsewhere might open a second front and make their rook placement irrelevant. Activity
+should serve the position's main struggle, not imitate the opponent automatically.
+
+When materially ahead, neutralizing activity often matters more than winning more pawns.
+Trade the opponent's most active piece, block their passer, or give your king shelter before
+collecting. When materially behind, avoid passive exchanges that leave no sources of
+counterplay. Seek active pieces, asymmetry, and targets that require attention.
+
+An initiative can be illusory if every threat is easily answered by a developing move. If
+your queen attacks a pawn and the defender saves it while developing a knight, you may have
+helped the opponent. Ask whether your threat makes the defender compromise. A threat that
+improves the defender is rarely a great achievement.
+
+Exercise: pause at a quiet middlegame and rank all four minor pieces by usefulness. Give a
+concrete reason for each ranking. Then find one move that improves the worst piece without
+creating a tactical defect. This simple discipline converts the vague advice to 'be active'
+into a practical plan.

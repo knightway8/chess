@@ -1,0 +1,45 @@
+Pins, skewers, and pressure through pieces
+==========================================
+
+A pin restricts a piece because moving it would expose something behind it. An absolute pin
+involves the king: the pinned piece cannot legally move in a way that exposes its king to
+attack. A relative pin involves a valuable piece or important target. The pinned piece may
+legally move, and sometimes moving it with a stronger threat is exactly the right response.
+
+Do not assume every pinned piece is completely frozen. A piece pinned along a line may be
+able to move along that same line while continuing to shield the king. It may capture the
+pinning piece if the capture is legal. The exact geometry matters. The practical question is
+which moves are unavailable, not whether the word 'pinned' applies.
+
+A skewer reverses the usual order of targets. The more urgent target is in front, and moving
+it exposes something behind. A rook checking a king on an open line can skewer a rook
+farther along that line. A bishop can attack a queen that shields another valuable piece.
+The front piece may escape, but the piece behind can remain vulnerable.
+
+An x-ray is pressure along a line through an intervening piece. The attack may become direct
+after an exchange or departure. A rook behind an enemy rook can indirectly influence a king
+farther down the file. A bishop behind its own knight can become powerful as soon as the
+knight moves. Learning to see through blockers helps you predict which exchanges will create
+tactics.
+
+Pinned defenders deserve special attention. If a pawn appears to defend a piece but cannot
+legally capture without exposing its king, the defense may be ineffective for that exchange.
+However, king-movement rules treat attacked squares carefully: a constrained enemy piece can
+still make a square unavailable to your king. Do not turn the useful attacking slogan 'the
+defender is pinned' into a universal rule about king safety.
+
+To exploit a pin, increase pressure on the restricted piece or attack the target it cannot
+adequately defend. A pawn advance can be especially effective because it attacks a more
+valuable pinned piece. But first check whether the opponent can break the pin, exchange the
+attacker, or create a forcing counterattack. A pin is a source of possibilities, not an
+automatic material gain.
+
+To escape a pin, consider moving the valuable target behind the pinned piece, interposing
+another defender, challenging the pinning piece, or changing the tactical balance with a
+threat. Sometimes the simplest solution is castling or a king move that removes the absolute
+pin. Sometimes that is too slow, so a concrete defense is necessary.
+
+Exercise: explain the difference between 'this knight cannot move at all' and 'this knight
+cannot leave the line shielding its king.' Then review a game for positions where a
+long-range piece was looking through a blocker. Ask what would happen if the blocker
+disappeared. That question is often the beginning of a combination.

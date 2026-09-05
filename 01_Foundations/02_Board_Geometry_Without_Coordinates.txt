@@ -1,0 +1,49 @@
+Board geometry without coordinates
+==================================
+
+The board has eight rows and eight columns, with alternating light and dark squares. You can
+understand much of its geometry through relationships: adjacent, opposite, behind, in front,
+on the same diagonal, and separated by a file. These descriptions are enough for this
+library's conceptual lessons. Exact tactical positions require exact piece placement, so the
+examples here teach relationships rather than claiming a forced sequence from an unspecified
+board.
+
+A file is a column running between the players. A rank is a row running from side to side. A
+diagonal connects squares of the same color. The kingside is the half where the kings begin;
+the queenside is the half where the queens begin. These names stay fixed when the kings
+move. The center matters because central pieces can often reach either wing quickly, and
+central pawns influence the routes available to those pieces.
+
+Long-range pieces need lines. A bishop needs diagonals, a rook needs files or ranks, and a
+queen can use both kinds of route. One pawn can block several lines at once. Removing that
+pawn can change the board much more than its modest material value suggests. Before any pawn
+exchange, look beyond the captured pawn and ask which bishop, rook, or queen will suddenly
+see farther.
+
+Knights need destinations and routes. They can jump over pieces, but that does not make
+every journey short. A knight can be close to a target in ordinary distance yet need several
+moves to reach a useful attacking square. A central knight often has more options than a
+corner knight. Nevertheless, an edge square can be correct if it wins material, blocks a
+passer, or leads to an excellent outpost. Geometry creates possibilities; the position
+decides their value.
+
+A king can travel diagonally as well as straight. This makes some diagonal routes no slower
+than apparently direct routes. A king may approach an enemy pawn while also moving toward
+its own passer. The useful idea is dual purpose: choose a route that preserves more than one
+possibility. Do not count distance by how far apart two objects look. Count legal king
+moves, then account for squares controlled by the opponent.
+
+Space is not simply the number of pawns advanced. It is room in which your pieces can move
+safely and usefully. An advanced pawn may gain space while depriving your bishop of a
+diagonal. A compact formation can be healthy if the pieces have good routes and a freeing
+pawn break. A large formation can become a target if its pawns cannot support each other.
+
+Imagine two armies separated by locked pawns. Bishops may stare at barriers while knights
+seek routes around them. Now imagine one central pawn exchange opening a file. Rooks that
+seemed irrelevant can suddenly become the most important pieces. The board has not changed
+size; the usable network has changed.
+
+Study exercise: take any quiet position from your own play and name one open line, one
+blocked line, one useful knight destination, and one square your king must avoid. Then
+identify the pawn move most likely to change those relationships. This develops a geometric
+understanding that survives changes in opening names and move orders.

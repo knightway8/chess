@@ -1,0 +1,47 @@
+A decision process you can actually use
+=======================================
+
+A useful thinking routine must be short enough to survive an ordinary game. Begin by asking
+what the opponent's last move changed. It may have created a threat, removed a defender,
+opened a line, weakened a square, or quietly prepared a pawn break. Even a retreat can be
+dangerous if it clears a route for another piece. Look at the whole change, not only the
+moved piece.
+
+Next check urgent matters. Are you in check? Is there a direct mating threat? Is an
+important piece attacked? Is something tactically loose? An urgent threat does not always
+require passive defense: a stronger counter-threat can work. But you must demonstrate why it
+works. Ignoring danger because your own plan feels exciting is not counterplay.
+
+When there is no emergency, make a brief positional inventory. Compare king safety,
+material, piece activity, pawn structure, and available pawn breaks. You do not need a long
+speech over the board. A sentence such as 'My pieces are active, but the center may open
+before my king is safe' already points toward useful candidates. The inventory should
+produce decisions rather than become a ritual list.
+
+Generate a small set of candidates with different purposes. One might be forcing, one
+defensive, and one improving. The point is not to reach an arbitrary number. The point is to
+avoid choosing the first plausible move without comparison. If one move clearly meets an
+emergency and the alternatives fail, more candidates are unnecessary. In a complex position,
+the first three attractive moves may all miss the important resource.
+
+For each serious candidate, look for the opponent's strongest reply. Search especially for
+checks, captures, threats, and changes that undermine your intention. Then continue until
+the immediate tactical tension is resolved enough to evaluate. You cannot compare a finished
+favorable line with an unfinished unfavorable one fairly. Nor should you stop a line just
+before the opponent's obvious recapture.
+
+Before committing, perform a fresh safety check from the position after your intended move.
+What will be undefended? Which line will open? What checks will the opponent gain? Is there
+a simple capture you overlooked? This final scan is not a complete second calculation. It is
+an attempt to catch the error that your preferred story has made invisible.
+
+Time management modifies the routine. With ample time, investigate irreversible decisions
+carefully. With seconds left, reduce the process to threats, forcing replies, and a move
+that keeps your pieces coordinated. Do not spend all your time creating a perfect thinking
+method and then leave no time to execute it.
+
+Practice the routine after a game first. At five moments, write what changed, what was
+urgent, which candidates existed, and which reply you missed. The repeated pattern will
+reveal your real weakness. Some players fail to notice threats; others notice them but
+calculate carelessly; others calculate correctly and evaluate the final position badly.
+Different failures require different training.

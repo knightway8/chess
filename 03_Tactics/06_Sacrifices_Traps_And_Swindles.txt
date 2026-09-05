@@ -1,0 +1,46 @@
+Sacrifices, traps, and practical resistance
+===========================================
+
+A sacrifice deliberately gives up material for a more valuable benefit. A tactical sacrifice
+may recover the material or force mate through a calculable sequence. A positional sacrifice
+may obtain long-term compensation without an immediate recovery. The difference is about the
+nature of the justification, not whether the move looks dramatic.
+
+Before sacrificing, name the compensation. Are you exposing the king, obtaining connected
+passed pawns, eliminating a blockader, dominating a color complex, or gaining several useful
+development moves? Then ask whether the opponent can neutralize that compensation by
+returning some material. A sacrifice that works only if the defender greedily keeps
+everything may be a trap rather than a sound investment.
+
+The strongest traps are moves you would be willing to play even if the opponent avoids the
+trap. They improve your position while giving the opponent a chance to go wrong. A weak trap
+sacrifices the quality of your position for a single hoped-for mistake. Such traps may win
+occasional fast games but teach dependence on cooperation.
+
+Do not judge an opening by its most famous miniature. Short wins are selected precisely
+because someone made a mistake. To assess an opening, examine the opponent's sober defensive
+choices and the resulting middlegames. If you dislike every position after correct defense,
+the trap is not a reliable repertoire foundation.
+
+When worse, practical resistance is legitimate. Create active threats, keep pieces that can
+generate counterplay, and seek positions where the opponent must make decisions. A swindle
+is a resource that changes the result after the stronger side errs. It is not evidence that
+the original position was secretly winning. Honest analysis distinguishes a saving chance
+from a forced draw.
+
+Defensive resources include perpetual-check possibilities, stalemate constructions,
+promotion threats, fortresses, and tactical exchanges that eliminate the opponent's last
+winning pawn. Which resource matters depends on the board. Random checks can help the
+opponent escape to safety; purposeful checks may preserve a repeating route. Random
+sacrifices can shorten the loss; purposeful sacrifices may remove the only winning
+mechanism.
+
+If you are winning, ask what the opponent is trying to make you forget. Their attack on a
+rook may conceal a stalemate idea. Their apparently free pawn may open your king to checks.
+Their last active piece may be worth exchanging even at the cost of a pawn. Conversion
+improves when you understand the defender's hopes rather than dismissing them.
+
+Exercise: take a successful sacrifice and write the best defense you can find, including
+declining the offer and returning material. If the sacrifice still works, explain why. If it
+fails, preserve the useful pattern but label the original move honestly. Learning from an
+unsound combination is possible; learning that hope equals proof is costly.

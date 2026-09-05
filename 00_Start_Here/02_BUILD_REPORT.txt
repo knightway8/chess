@@ -1,0 +1,15 @@
+Build and verification report
+=============================
+
+Build status: COMPLETE
+
+Text files before this report and manifest: 234
+Approximate words before this report and manifest: 65,924
+UTF-8 characters before this report and manifest: 467,405
+Opening source records: 3,810
+Distinct opening source labels: 3,174
+Normalized top-level family catalog files: 141
+
+Quality gates: UTF-8 decode, text-only extensions, coordinate-like move-notation scan,
+replacement-character scan, ASCII-board-row scan, opening record counts, complete file
+index, and SHA-256 manifest.

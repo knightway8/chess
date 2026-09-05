@@ -1,0 +1,47 @@
+Piece values and real value
+===========================
+
+The usual beginner scale assigns a pawn about one unit, a knight or bishop about three, a
+rook about five, and a queen about nine. Different teaching systems and evaluation methods
+use different numbers. Treat the scale as a convenient comparison tool, not a physical law.
+The king has no exchange price because losing the king's safety can end the game.
+
+Material counting answers a narrow question: what resources remain if the activity of those
+resources is roughly comparable? That qualification is enormous. A trapped rook is not doing
+a rook's job. A bishop dominating a long diagonal can be more useful than a rook with no
+entry route. Two coordinated pieces can cover more independent targets than one queen, while
+the queen may exploit checks that the pieces cannot prevent.
+
+Start every exchange calculation with the whole sequence. If your bishop captures a rook and
+is then captured by a pawn, you have usually won the exchange: you traded a minor piece for
+a rook. If your queen captures a defended pawn and is trapped afterward, the first capture
+did not win a pawn in any meaningful sense. Count everything that can be forced, including
+intermediate checks and promotions.
+
+After the count, ask what the surviving pieces can do. A trade that leaves you with the only
+bishop capable of attacking fixed weak pawns may be excellent. A trade that leaves your
+remaining bishop blocked by your own pawns may be disappointing even when the arithmetic is
+equal. The quality of the pieces that remain often matters more than the attractiveness of
+the capture itself.
+
+Pawn value changes with structure and time. A healthy extra pawn can become a passed pawn
+after exchanges. A doubled pawn may help control an important central square or open a
+useful file for a rook. A remote passer can tie down the enemy king even when it never
+promotes. A pawn close to promotion may demand a whole rook to stop it. These are positional
+roles, not contradictions of the counting scale.
+
+Compensation means receiving something useful for material: activity, king exposure, a
+durable outpost, a powerful passer, or a long-term bind. Compensation must be identified,
+not merely asserted. If you sacrifice a pawn for development, ask which pieces gained useful
+time and what threats they can make before the opponent catches up. A vague feeling of
+initiative is not a receipt for your investment.
+
+Consider two choices while ahead a bishop. One wins another pawn but lets the opponent's
+queen enter with checks. The other returns a pawn, trades queens, and leaves a
+straightforward extra-piece ending. The second often makes the material advantage more real.
+Winning more material is not always the best way to use material already won.
+
+Exercise: for three exchanges in a recent game, write two verdicts. First give the material
+balance. Then describe king safety, activity, pawn weaknesses, and the best surviving piece.
+If the two verdicts disagree, investigate why. This is the beginning of evaluating chess
+rather than merely keeping score.

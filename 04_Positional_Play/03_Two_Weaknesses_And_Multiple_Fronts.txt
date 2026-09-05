@@ -1,0 +1,42 @@
+The principle of two weaknesses
+===============================
+
+One weakness can often be defended. A king, rook, or knight can sit in front of a weak pawn
+and hold it. A second weakness forces the defender to divide attention. The principle of two
+weaknesses says that a lasting advantage is often converted by creating another target far
+enough away that a single defensive setup cannot cover both.
+
+The second weakness need not be a pawn. It can be an exposed king, a possible invasion, a
+restricted piece, a threatened pawn break, or a passed pawn. What matters is that defending
+it conflicts with the defense of the first problem. If both weaknesses are covered by the
+same effortless move, you have not truly stretched the position.
+
+Do not rush to attack the first target repeatedly. If every attacking piece is tied to one
+pawn that the opponent can defend, you may have reached the limit of that plan. Switch
+attention, improve your king, gain space on the other wing, or prepare a break. The existing
+weakness can hold the defender in place while you create something elsewhere.
+
+Distance matters because pieces take time to transfer. A rook may defend one wing but be
+unable to stop a passer on the other. A knight is particularly sensitive to routes; forcing
+it to choose between distant tasks can create a decisive tempo. Queens travel quickly and
+may defend several fronts with checks, so queen exchanges can make the two-weakness method
+easier when your king and rook are more active.
+
+The defender should seek active counterplay before the second weakness settles. A pawn
+sacrifice that activates a rook can be better than clinging to every weakness. Trading one
+vulnerable pawn for an active enemy pawn may reduce the number of fronts. A fortress often
+works because the defender has no independent weaknesses and can repeat a compact setup.
+
+When creating a second front, preserve control. Advancing several pawns near your king may
+create a target for the opponent instead of one for you. Prefer improvements that keep your
+own structure sound and make the defender react. Your advantage should reduce risk, not
+merely increase the number of moving parts.
+
+Imagine an ending where the opponent's rook must guard a weak queenside pawn. If your king
+can attack a kingside pawn, the rook may not be able to defend both. But if your king's
+journey allows the opposing king to capture your own pawns, the plan fails. The principle
+suggests a destination; calculation verifies the route.
+
+Exercise: in a position where you have more space, name the first weakness, the defender
+assigned to it, and a possible second target. Then name the opponent's best source of
+counterplay. This final step prevents positional play from becoming one-sided storytelling.

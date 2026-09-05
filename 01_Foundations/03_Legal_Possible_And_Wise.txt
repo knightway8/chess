@@ -1,0 +1,47 @@
+Legal, possible, and wise are different questions
+=================================================
+
+A move can follow a piece's movement pattern and still be illegal because it leaves the king
+in check. A move can be legal and still lose immediately. A move can be safe for one turn
+and still create a lasting weakness. Keep these levels separate. First establish what is
+allowed; next ask what the opponent can force; finally judge the longer-term consequences.
+
+The king is never captured in ordinary chess. Check is a warning that must be answered, and
+checkmate means that the checked side has no legal escape. Stalemate means the player to
+move has no legal move while the king is not in check. This difference explains why a
+completely dominant position can suddenly become a draw. When the opponent has almost no
+moves, every capture deserves an extra stalemate check.
+
+Responding to check usually means moving the king, capturing the checking piece, or blocking
+its line. A knight's check cannot be blocked. When two pieces give check at once, the king
+must move. These facts help organize your search, but you still must check the destination
+and any newly opened line. Capturing a checking piece with your king is legal only if the
+destination is safe.
+
+Ordinary castling moves the king toward a rook and brings that rook across the king. It
+requires the relevant pieces to retain their castling rights, a clear intervening path, and
+a safe king route. Being able to castle is different from wanting to castle. The side with
+fewer advanced pawns may offer better shelter, while the other side may expose the king to
+already mobilized attackers. Examine where the king will stand after the move.
+
+Pawns create special practical problems because they cannot retreat. Their forward movement
+differs from their diagonal capture, and an eligible passing capture exists only immediately
+after the opposing pawn's two-square advance. Promotion allows a queen, rook, bishop, or
+knight, regardless of which pieces were previously captured. The queen is usually strongest,
+but a knight may give a needed fork and a rook or bishop can occasionally avoid stalemate.
+
+The practical lesson is to rehearse exceptional rules before they appear under time
+pressure. Learn the actual requirements for castling, the passing capture, and promotion
+using a board or legal-move interface. This library explains their purpose and consequences,
+but an event's official rules remain the authority for disputes and claim procedures.
+
+An easy self-test is to explain why each of these statements is unreliable: a pinned piece
+does not matter; every check must be answered by moving the king; the strongest promotion is
+always the queen; capturing the last pawn must improve a winning position. A pinned piece
+can still control a king destination under the attack rules. Checks can often be met by
+capture or interposition. Promotion can change stalemate or checking geometry. Removing the
+last pawn can eliminate the opponent's final legal move.
+
+Build the habit of asking the legal question before the strategic one. A plan based on an
+illegal king move is not an ambitious plan; it is a misread position. Accuracy begins with
+respecting the movement and safety constraints that make chess chess.

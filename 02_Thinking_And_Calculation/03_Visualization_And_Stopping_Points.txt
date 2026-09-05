@@ -1,0 +1,47 @@
+Visualization and sensible stopping points
+==========================================
+
+Calculation requires holding an imagined position accurately while pieces move within it.
+The most common failures are ordinary bookkeeping mistakes: a captured piece remains in the
+mental picture, a moved pawn still seems to defend its old square, or a line is imagined
+open when a piece still blocks it. Improving visualization means improving the reliability
+of that picture, not merely trying to see farther.
+
+Use checkpoints. After a forcing sequence, reconstruct the important surviving pieces, the
+king locations, the open lines, and whose turn it is. You do not always need to recite every
+pawn. You do need the pieces that affect the conclusion. If your imagined position becomes
+uncertain, return to the last reliable checkpoint rather than extending a corrupted line.
+
+Moves change more than destinations. A rook move abandons one file and occupies another. A
+knight departure can uncover a bishop. A capture removes a blocker as well as a target. When
+mentally playing a move, update both the arrival square and the vacancy it creates. Many
+discovered attacks are missed because the analyst tracks only where pieces go.
+
+How far should you calculate? Until you can make a useful judgment, not until you reach a
+favorite number of moves. A forcing capture sequence may need several replies before
+material is settled. A quiet improving move may be assessed after checking a few dangerous
+responses. An ending can require long exact calculation because a single tempo decides
+promotion. Depth is a consequence of the position's demands.
+
+A dangerous stopping point is the moment your own threat appears. If you stop immediately
+after placing a piece near the king, you have evaluated an intention rather than its
+consequences. Give the defender a move. Another dangerous stopping point is an apparently
+equal exchange while one side has a powerful intermediate move. Finish the forcing business
+before trusting the final count.
+
+Not every line must end in total calm. Some positions remain complex no matter how long a
+human calculates. In those cases, distinguish what you know from what you estimate. You may
+know that material remains equal and the king escapes the immediate checks, while estimating
+that your active pieces offer adequate compensation for weak pawns. This honest division is
+better than pretending the whole position is solved.
+
+Train with short sequences you can verify. Read or play a few moves in a separate
+board-based study, cover the board, and describe which pieces moved and which lines opened.
+Increase length only when the shorter exercise is accurate. For this text library, use the
+thought experiments to practice updating relationships without treating their incomplete
+descriptions as exact tactical puzzles.
+
+A useful post-game question is whether the mistake came from seeing the wrong position or
+judging the right position badly. If you forgot a defender, work on visualization. If you
+saw the defender but underestimated a blockade, work on evaluation. Training the wrong skill
+can make study feel busy while the same error keeps returning.

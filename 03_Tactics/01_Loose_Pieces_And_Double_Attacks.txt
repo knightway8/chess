@@ -1,0 +1,46 @@
+Loose pieces, forks, and double attacks
+=======================================
+
+A loose piece is a piece that is undefended or insufficiently protected for the tactics in
+the position. It does not have to be under attack already. Its vulnerability matters because
+a future move can attack it while doing something else. When two targets can be attacked at
+once, one defender may not have enough time to save both.
+
+A fork is one familiar double attack: a single piece attacks two or more targets. Knights
+are famous for forks because their attack pattern is easy to overlook, but every kind of
+piece can create a double attack. A pawn can threaten two pieces; a queen can check the king
+while attacking a rook; a king can attack two poorly placed minor pieces in an ending.
+
+The value of a double attack depends on the targets and the replies. If both targets can
+escape with a forcing move, the fork may win nothing. If one target is the king, the
+opponent must address the check, which often makes the second target vulnerable. Even then,
+verify that the forking piece cannot be captured and that the threatened material remains
+available afterward.
+
+Look for alignment before looking for a clever move. Are two valuable pieces within reach of
+a knight? Do an exposed king and an undefended rook share a queen's possible checking line?
+Can a pawn advance attack two pieces that lack good retreat squares? The tactical move often
+becomes visible once you notice the geometric relationship between the targets.
+
+Double attacks also arise through threats of different kinds. One move may threaten mate and
+attack a bishop. Another may threaten promotion and win a pinned piece. The defender cannot
+always compare these threats by material value alone. A mating threat generally outranks a
+threat to win a rook; a promotion with check may interrupt an otherwise winning capture
+sequence.
+
+Defensively, do not respond to the first threat you see without identifying the second.
+Sometimes you can meet both by exchanging the attacking piece, creating a stronger threat,
+or moving one target so that it protects the other. Sometimes the best defense is to accept
+a smaller material loss while preventing a larger one. Panic often turns a manageable fork
+into a decisive loss.
+
+Imagine your queen and an undefended bishop are both far from your king. An enemy queen
+check may force your king to a particular square while also attacking the bishop along
+another line. The mistake occurred before the check: you allowed an exposed king and a loose
+piece to coexist without examining their relationship. This is why a quiet defensive move
+can prevent tactics that have not yet appeared.
+
+Training task: in each game you review, identify the loose pieces before every tactical
+exchange. Do not label a piece safe merely because it has one defender; check whether that
+defender is pinned, overloaded, or easily deflected. Over time, loose pieces become visual
+warning signals, and many 'surprising' tactics stop being surprises.

@@ -1,0 +1,44 @@
+Mating nets and back-rank patterns
+==================================
+
+An attack becomes a mating net when the king's escape routes are controlled or obstructed
+and a decisive check can be delivered. The checking piece is only part of the picture.
+Pawns, minor pieces, and even the defender's own army may control or block the squares that
+make escape impossible. Strong attackers count exits before celebrating checks.
+
+Back-rank weakness is a common example. A king sheltered behind its own pawns can be
+vulnerable to a rook or queen entering along the back rank. The pawns that once provided
+shelter may prevent escape. The defender may need an available interposition, a guarding
+piece, a trade, or a safe escape square. Merely having a rook on the back rank does not
+guarantee safety if it can be deflected or pinned.
+
+Creating an escape square is often useful, but the pawn move must be judged. It can weaken a
+diagonal, become a hook for an attack, or cost a crucial tempo. If the opponent already has
+a forcing combination, a casual pawn move may be too slow. If your position is stable,
+making room for the king can free your heavy pieces for active play.
+
+A smothered mate uses a knight against a king whose own pieces block its escapes. A
+bishop-and-rook pattern may combine diagonal control with a rook's checking line. A queen
+supported by another piece can sometimes deliver mate close to the king. These descriptions
+identify families of geometry. They do not establish mate without the exact position, legal
+checks, and escape-square audit.
+
+The attacker's most useful question is often which flight square remains. If the king has
+one safe exit, controlling that exit may be stronger than giving another check. A quiet move
+can complete the net while a premature check allows escape. This is why attacking play is
+not simply an uninterrupted sequence of checks.
+
+The defender should consider giving up material to open an escape route or remove a key
+attacker. Losing a rook can be preferable to being mated, and an exchange sacrifice may
+eliminate the piece controlling the only exit. Defensive calculation should include king
+movement and material concessions, not just attempts to protect everything.
+
+Watch for stalemate when the attack has stripped the opponent of moves. A queen that
+controls every escape without checking can turn a win into a draw if the opponent has no
+other legal move. When reducing a bare king's space, keep your own king and queen
+coordinated and preserve a legal response until the final check is ready.
+
+Training task: after a mating attack, describe the role of every attacking piece. Which one
+checked? Which controlled an exit? Which removed a defender? Which blocked a line? This
+explanation turns a memorable finish into reusable knowledge. If you remember only the final
+checking move, you miss the construction that made it work.

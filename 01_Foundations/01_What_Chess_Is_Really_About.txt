@@ -1,0 +1,50 @@
+What chess is really about
+==========================
+
+Chess is a contest over what each side can make happen. The pieces are the means, the king
+is the final target, and the position is the evidence. Winning material, occupying the
+center, and creating a passed pawn are useful because they can improve your ability to force
+a favorable result. They are not separate objectives that override everything else. A
+beautiful pawn structure does not help when your king cannot survive the next attack.
+
+Start with three questions. What is happening immediately? Which side would prefer the
+position to remain unchanged? What change would improve your prospects? The first question
+catches threats. The second separates lasting advantages from temporary opportunities. The
+third gives your next move a purpose. Many aimless moves come from answering only the third
+question, usually with a wish such as wanting to attack.
+
+Material gives you extra resources, but resources must function. A rook trapped behind its
+own pawns may contribute less to the current struggle than an active bishop. A pawn can be
+almost irrelevant on one wing and decisive when it is one step from promotion. The familiar
+piece values are useful accounting estimates. They do not replace an assessment of king
+safety, activity, and concrete threats.
+
+Chess has a cooperative appearance and a competitive reality. You can imagine a marvelous
+sequence in which every piece arrives at its ideal destination. Your opponent is allowed to
+interrupt that sequence. Good planning therefore includes the opponent's best attempt to
+make your plan fail. Ask which exchange, pawn advance, or forcing move would be most
+inconvenient for you. If your plan survives that test, it has more substance than a hopeful
+story.
+
+Consider a player who has an extra pawn but an exposed king. Exchanging queens may remove
+the main source of danger and make the extra pawn meaningful. In another position, the same
+exchange may enter a pawn ending where the opponent's king arrives first and wins. The
+instruction to simplify when ahead is useful only after the resulting position has been
+judged. Your advantage determines which simplification you want, not whether every
+simplification is welcome.
+
+A productive beginner goal is to make moves that remain sensible after the opponent finds a
+good reply. Develop a piece while defending a real weakness. Improve a rook while preventing
+an invasion. Create a threat that does not leave something more valuable undefended. These
+are modest decisions, but a game contains many opportunities to make them.
+
+Practice in words: describe one of your games without mentioning its result. Say which side
+had the safer king, more useful pieces, better pawn breaks, and easier decisions. Then
+compare that description with the result. If the worse position won, identify the mistake
+that changed the game. This separates the quality of a position from the story told by the
+final score.
+
+The durable secret is that strong chess is mostly the repeated avoidance of unjustified
+assumptions. Notice what changed. Respect the opponent's resources. Improve the piece or
+feature that matters now. A brilliant move is welcome, but a reliable decision process
+produces far more points than waiting for brilliance.

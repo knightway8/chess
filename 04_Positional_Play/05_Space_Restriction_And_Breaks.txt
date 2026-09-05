@@ -1,0 +1,44 @@
+Space, restriction, and pawn breaks
+===================================
+
+Space gives pieces room to maneuver and can restrict the opponent's choices. It is usually
+created by pawns, because pawns deny squares to enemy pieces. The gain comes with
+responsibility: advanced pawns can become targets, and the squares behind them may weaken.
+Space is valuable when you can maintain it or use it to improve your army.
+
+The cramped side should avoid unnecessary passivity. Look for pawn breaks, useful exchanges,
+and routes that challenge the space advantage. Trading one pair of pieces often creates
+breathing room, but trading every active piece can leave a hopeless ending. Exchange the
+pieces that are restricted or the opponent's pieces that enforce the bind.
+
+A pawn break challenges the existing structure with an advance likely to produce an
+exchange, opening lines or changing pawn chains. Prepare a break by supporting the advancing
+pawn, improving the pieces that will use the open lines, and controlling the resulting
+squares. Playing the break too early may lose a pawn; delaying it may let the opponent
+strengthen the blockade.
+
+The side with more space should decide which wing to attack. The structure may point toward
+the side where the pawn chain advances, but king safety, piece access, and counterplay can
+override that guide. Use your room to transfer pieces while the opponent struggles to do the
+same. Avoid exchanging the very pieces that benefit most from the space unless the resulting
+ending is favorable.
+
+Restriction can itself be an advantage even without a direct attack. A knight denied good
+squares, a bishop trapped behind pawns, and a rook unable to find a file leave the opponent
+effectively playing with fewer resources. Improve your position, then prepare the break that
+converts the restriction. Immediate action is not mandatory when the opponent lacks a
+freeing move.
+
+Ask what changes after a break. Which files open? Which pawn becomes isolated? Which
+diagonal appears? Which king becomes exposed? Which piece loses its outpost? A correct break
+can transform the evaluation; a cosmetically aggressive pawn push can merely give the
+opponent targets.
+
+When there are two possible breaks, compare urgency and readiness. One may attack the king
+but require more preparation. The other may challenge the center now and prevent the
+opponent's plan. Chess rewards plans that fit the clock of the position. A slow, excellent
+idea can lose to an adequate immediate one.
+
+Exercise: mark every plausible pawn break in a closed position using words such as central,
+kingside, or queenside. For each, list one piece that benefits and one weakness it creates.
+Then decide which side can prepare its preferred break first.
