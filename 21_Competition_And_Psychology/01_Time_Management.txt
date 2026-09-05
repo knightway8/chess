@@ -1,0 +1,24 @@
+Time management as a chess skill
+================================
+
+Spend time where the position changes. Irreversible pawn moves, tactical complications, and
+transitions deserve attention. Forced recaptures and familiar developments usually deserve
+less, unless a concrete surprise exists.
+
+Keep a reserve. Reaching a winning position with no time to convert is incomplete time
+management. Estimate how many decisions remain and protect enough time for them.
+
+When the clock is low, simplify the thinking process: check threats, forcing moves, loose
+pieces, and one safe candidate. Do not attempt a long positional speech. Prefer coordinated
+moves that reduce immediate risk.
+
+Avoid spending time trying to remember a line that is no longer on the board. Switch to
+principles and calculate. Memory search can consume minutes without producing a legal
+answer.
+
+After games, note where time was spent and whether the decision justified it. A long think
+that solved a critical position was useful even if the game was later lost. Repeated long
+thinks over routine choices reveal a process problem.
+
+Use the opponent's time to assess the position, but verify what changed after their move. Do
+not lock in a reply before seeing its full effect.

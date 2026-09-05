@@ -1,0 +1,27 @@
+Tactical training that transfers to games
+=========================================
+
+Solve from positions where you do not know a tactic exists. Game-like uncertainty is harder
+than a themed set whose title reveals the motif. Use themed drills to learn patterns, then
+mixed positions to train recognition and calculation.
+
+Before moving, identify checks, captures, threats, loose pieces, and overloaded defenders.
+Calculate the opponent's best response. Do not stop when you see a pleasing first move. A
+correct solution includes the reason alternatives fail.
+
+Track error types. Pattern failure means you did not consider the motif. Visualization
+failure means you lost track of pieces. Calculation failure means you stopped early.
+Evaluation failure means you reached the right position and judged it wrongly. Each calls
+for different practice.
+
+Favor accuracy before speed, then add time limits. Guessing many puzzles can train
+impulsiveness. Spending unlimited time on every easy pattern can also reduce practical
+transfer. Use a deliberate pass followed by a timed pass.
+
+Revisit failed positions after a delay. Solve from memory only if you can explain the
+mechanism; remembering the first move alone is shallow. Change the position slightly and ask
+whether the tactic still works.
+
+Connect puzzles to your games. A motif missed in your own position carries emotional and
+structural context, which can make the lesson durable. Build a small personal set of
+recurring failures.

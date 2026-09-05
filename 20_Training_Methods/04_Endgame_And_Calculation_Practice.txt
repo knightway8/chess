@@ -1,0 +1,24 @@
+Endgame and calculation practice
+================================
+
+Combine exact positions with conceptual study. Learn why opposition, checking distance, or a
+blockade matters, then verify the mechanism on a legal board. Prose can guide attention but
+cannot encode a one-tempo result without exact placement.
+
+Use small position sets repeatedly. Predict win, draw, or loss; calculate the main line;
+then test. Track whether the error was move generation, visualization, or evaluation.
+
+Practice calculation at a depth you can hold accurately. Extend only after the imagined
+positions remain reliable. Include quiet candidates and defensive resources, not only
+forcing attacks.
+
+For rook endings, train activity and checking geometry. For pawn endings, train races and
+reserve tempi. For minor-piece endings, train target color, knight routes, and king access.
+Rotate themes while revisiting failures.
+
+Tablebases can give perfect results for sufficiently small positions, but the result alone
+does not teach a human method. Find the winning or drawing idea and identify moves that
+preserve it.
+
+Finish sessions by explaining one position without moving pieces. If the explanation
+predicts the verified moves, understanding is becoming portable.

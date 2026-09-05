@@ -1,0 +1,25 @@
+Playing stronger and weaker opponents
+=====================================
+
+Play the position, not the rating. Against a stronger player, do not create unsound
+complications merely because a normal game feels intimidating. Give them hard decisions
+through sound active play.
+
+Against a lower-rated player, do not force a win from an equal position. Maintain quality,
+prevent counterplay, and accept that they can find good moves. Rating does not create a
+tactical refutation.
+
+Choose openings you understand. Surprise can be useful, but entering an inferior position to
+avoid theory shifts the burden onto you. Familiar structures reduce cognitive load against
+anyone.
+
+If the opponent plays quickly, keep your own rhythm. Their speed may reflect preparation or
+superficial thinking. Neither requires an instant reply. If they think for a long time, use
+it to assess candidates without committing prematurely.
+
+Tournament standings can influence risk, but define the result you need accurately. A
+must-win situation may justify preserving complexity. A draw-secures-prize situation may
+justify a sound simplification. The position still sets tactical limits.
+
+Review without rating-based excuses. 'They were stronger' does not identify the error; 'I
+exchanged into a lost pawn ending' does.

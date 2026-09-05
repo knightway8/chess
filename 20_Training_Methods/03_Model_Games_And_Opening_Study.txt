@@ -1,0 +1,24 @@
+Learning from model games
+=========================
+
+A model game demonstrates plans in a structure you want to understand. Choose games that
+reach the opening through realistic move orders and continue into the middlegame or ending.
+Short traps teach one error; long games reveal what happens after sound defense.
+
+Play through the game on a board and stop before critical decisions. Predict a move and
+state its purpose. Comparing reasons is more useful than merely checking whether your move
+matches.
+
+Study victories for both sides. If your repertoire note contains only wins by your color, it
+hides the opponent's best counterplay. Draws can show defensive resources and typical
+simplifications.
+
+Extract a small number of reusable facts: main break, best piece, difficult piece, favorable
+exchange, common tactical motif, and typical ending. Add these to the verbal opening map.
+
+Do not imitate moves outside their structural context. A wing pawn advance from one model
+game may be correct because the center was locked. In another move order the center can open
+and punish it.
+
+Revisit the same games. Familiarity lets you notice deeper reasons after the plot is known.
+One deeply understood game can teach more than twenty games clicked through quickly.

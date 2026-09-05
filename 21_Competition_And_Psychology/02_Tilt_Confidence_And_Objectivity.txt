@@ -1,0 +1,25 @@
+Tilt, confidence, and objective decisions
+=========================================
+
+Tilt is a state in which emotion drives decisions after a surprise, mistake, or result.
+Common signs are instant revenge attacks, refusal to defend, and excessive speed. Interrupt
+the pattern by pausing, checking the current threats, and accepting that the previous
+position no longer exists.
+
+Confidence should support calculation, not replace it. An opponent's rating does not make
+their move correct or your tactic impossible. Evaluate the board. Likewise, a weaker
+opponent deserves the same search for best replies.
+
+After a blunder, find the best remaining move. Do not sacrifice material simply to make the
+game feel active. A worse position may have defensive resources; an emotional second mistake
+can remove them.
+
+Use a reset routine between games: record one lesson, leave detailed analysis for later, eat
+or walk if appropriate, and begin the next game from zero. Carrying the last result into the
+next opening distorts decisions.
+
+Avoid self-labels such as 'bad at endings.' Identify a trainable behavior: missed
+opposition, passive rook, or poor race counting. Specific faults can be practiced.
+
+Objectivity includes practical context. Choosing a complicated line when you need a win can
+be rational, but do not call it forced. Honest labels improve later review.

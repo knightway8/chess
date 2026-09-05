@@ -1,0 +1,26 @@
+How to analyze your own games
+=============================
+
+Analyze without an engine first. Record where you felt confused, which candidates you
+considered, and what you calculated. These memories disappear quickly, and they reveal
+thinking problems that a computer score cannot see.
+
+Identify turning points rather than annotating every move equally. Find the first meaningful
+opening deviation, the hardest decision, the first lost opportunity, and the move after
+which the result became forced. Separate a worse position from a lost one.
+
+For each turning point, reconstruct your decision: what changed, what was urgent, what
+candidates existed, and which reply you missed. Then examine plans and tactics on a legal
+board. Only afterward use an engine or stronger reference to test your conclusions.
+
+When the engine disagrees, explain why. Did you miss a capture, misjudge an ending, or
+choose the wrong plan? Save the reason as a training theme. Copying the computer move
+without the reason produces no reusable lesson.
+
+Review wins as seriously as losses. A win can contain an unsound sacrifice or missed
+defense. A loss can contain several excellent decisions before one mistake. Outcome bias
+hides both.
+
+Finish with one change to training. If loose pieces caused three errors, solve tactics
+around undefended pieces. If time trouble caused rushed decisions, practice shorter
+routines. A long list of vague faults creates guilt rather than improvement.
