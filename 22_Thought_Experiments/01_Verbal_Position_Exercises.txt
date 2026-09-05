@@ -1,0 +1,38 @@
+Verbal thought experiments
+==========================
+
+These are relationship exercises, not exact tactical puzzles. No complete board is
+specified, so no forced line is claimed.
+
+ONE: You have an extra pawn, active queen, and exposed king. The opponent's queen can give
+repeated checks. Compare taking another pawn with offering a queen trade. What facts about
+the pawn ending must you know before choosing?
+
+TWO: Your knight occupies a protected central outpost but attacks no target. The opponent
+can open a rook file on the other wing. Decide whether to preserve the knight, reroute it,
+or create counterplay. What makes an outpost relevant?
+
+THREE: Your opponent has one weak pawn defended by every piece. You cannot add another
+attacker. Identify three ways to create a second weakness and the counterplay each might
+permit.
+
+FOUR: A bishop is blocked by your own central pawns. One pawn break frees it but opens a
+line toward your king. List preparatory moves that could make the break safe.
+
+FIVE: You can win a rook with a fork, but the forking move abandons defense of mate. Which
+part of your decision process should catch the error?
+
+SIX: You lead in development and can sacrifice a pawn to open the center. Name the evidence
+that would justify the sacrifice and the defender's best type of response.
+
+SEVEN: A rook ending offers a choice between winning a pawn passively and keeping the rook
+active. Describe how you would compare them without relying only on material.
+
+EIGHT: Your opponent makes an unusual opening move that does not fight for the center.
+Construct a principled response and explain why trying to punish it immediately could fail.
+
+NINE: You can trade your bad bishop for the opponent's strong knight, but the recapture
+creates a passed pawn. List the resulting features before deciding.
+
+TEN: Both sides are racing passers. Your pawn promotes second but with check. Create a
+timeline and explain why the checking tempo could reverse the visual race.

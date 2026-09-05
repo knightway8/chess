@@ -1,0 +1,172 @@
+Chess concepts glossary
+=======================
+
+These definitions are starting points. Their practical meaning depends on the complete
+position.
+
+ACTIVITY
+The ability of a piece or army to perform useful work: attack targets, control routes,
+support breaks, or restrict the opponent.
+
+BACKWARD PAWN
+A pawn that trails neighboring pawns and cannot advance safely, often leaving the square in
+front of it available to an enemy piece.
+
+BATTERY
+Two or more pieces aligned so that their combined pressure operates along the same line or
+toward the same target.
+
+BIND
+A form of restriction that makes an opponent’s freeing moves difficult without necessarily
+winning material immediately.
+
+BLOCKADE
+Stopping a pawn, especially a passed or isolated pawn, with a piece placed in front of it.
+
+BREAK
+A pawn advance intended to challenge another pawn and change the structure or open lines.
+
+CANDIDATE MOVE
+A serious possible move selected for comparison and calculation.
+
+CLEARANCE
+Vacating a line or square so another piece can use it.
+
+COMPENSATION
+Activity, structure, king pressure, passers, or other benefits received in return for
+material.
+
+CONNECTED PASSED PAWNS
+Passed pawns on adjacent files that can support one another as they advance.
+
+CONVERSION
+Turning an advantage into a durable gain or final result while controlling counterplay.
+
+COUNTERPLAY
+Active possibilities that give the disadvantaged or defending side threats of its own.
+
+DECOY
+A tactic that draws a piece to a square where another idea becomes possible.
+
+DEFLECTION
+A tactic that pulls a defender away from its duty.
+
+DEVELOPMENT
+Bringing pieces into useful play with access, safety, and purpose.
+
+DISCOVERED ATTACK
+An attack revealed when a blocking piece moves away from a line piece.
+
+DOUBLED PAWNS
+Friendly pawns occupying the same file.
+
+EXCHANGE
+A trade of material; “the exchange” also commonly means the material difference between a
+rook and a minor piece.
+
+FIANCHETTO
+Developing a bishop on a long diagonal behind a one-step knight-pawn advance.
+
+FILE
+A vertical column of eight squares.
+
+FLIGHT SQUARE
+A legal square available for a king to escape checks or a mating net.
+
+FORK
+A single move or piece attack against two or more targets.
+
+FORTRESS
+A stable defensive setup that the materially stronger side cannot successfully penetrate or
+transform.
+
+GAMBIT
+A voluntary offer of material for time, activity, structure, or an attack.
+
+HALF-OPEN FILE
+A file with no pawn of one side but at least one opposing pawn.
+
+HANGING PAWNS
+Two connected pawns on adjacent files without friendly pawns beside them.
+
+INITIATIVE
+The ability to make threats that force the opponent to respond.
+
+INTERFERENCE
+Blocking a line between a defender and what it protects.
+
+ISOLATED PAWN
+A pawn with no friendly pawn on either adjacent file.
+
+LEVER
+A pawn advance that creates direct pawn contact and the possibility of an exchange.
+
+LOOSE PIECE
+A piece that is undefended or inadequately defended for the tactics in the position.
+
+MAJORITY
+More pawns than the opponent in one region of the board.
+
+MINOR PIECE
+A bishop or knight.
+
+MINORITY ATTACK
+Advancing a smaller pawn group against a larger group to provoke a fixed weakness.
+
+OPEN FILE
+A file containing no pawns.
+
+OPPOSITION
+A king relationship in which the inability of kings to stand adjacent can force one king to
+yield access.
+
+OUTPOST
+A useful, protected square where a piece cannot conveniently be driven away by an enemy
+pawn.
+
+OVERLOADING
+Giving a defender incompatible duties that cannot all be met.
+
+OVERPROTECTION
+Providing extra support to a strategically important point so the supporting pieces remain
+coordinated and flexible.
+
+PASSED PAWN
+A pawn with no opposing pawn on its file or neighboring files able to stop it through normal
+pawn contact.
+
+PIN
+A restriction on a piece whose movement would expose a king or valuable target behind it.
+
+PLY
+One individual turn by one player; two plies make one complete move by both players.
+
+PROPHYLAXIS
+Anticipating and limiting the opponent’s useful plans and resources.
+
+RANK
+A horizontal row of eight squares.
+
+SACRIFICE
+A deliberate material investment for a concrete or positional benefit.
+
+SKEWER
+A line attack in which an urgent front target moves and exposes another target behind it.
+
+SPACE
+Useful room for pieces, usually created through pawn control of territory.
+
+TEMPO
+One turn of play, often discussed as time gained or lost in executing a plan.
+
+TRANSPOSITION
+Reaching the same complete position through a different move order.
+
+UNDERPROMOTION
+Promoting a pawn to a rook, bishop, or knight instead of a queen.
+
+X-RAY
+Pressure exerted along a line through an intervening piece.
+
+ZUGZWANG
+A position in which the obligation to move worsens the player’s position.

@@ -1,0 +1,22 @@
+Practical thinking and review checklists
+========================================
+
+BEFORE YOUR MOVE
+
+What changed? Is there a check, capture, threat, loose piece, or promotion? What is the
+opponent’s strongest idea?
+
+CHOOSING
+
+Name the position’s main need. Generate serious candidates with different purposes. Test
+each against the strongest reply. Continue forcing lines until they can be evaluated.
+
+FINAL SAFETY CHECK
+
+Imagine the intended move played. What becomes undefended? Which line opens? What checks,
+captures, and threats does the opponent gain?
+
+AFTER THE GAME
+
+Separate the first worse position from the first lost position. Explain the error type and
+choose one training response.
