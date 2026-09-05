@@ -1,0 +1,14 @@
+Pseudo Queen's Indian Defense
+=============================
+
+This family is connected to delayed central occupation, pressure on a pawn center, or an
+asymmetrical queen-pawn structure. Identify which side has space, which breaks challenge it,
+and which bishop or knight changes value when the center opens.
+
+The source contains 1 distinct named label in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Pseudo Queen's Indian Defense

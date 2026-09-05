@@ -1,0 +1,33 @@
+Réti Opening
+============
+
+This family begins with flank control or flexible development. Its point is normally to
+influence the center and choose a favorable structure later. Track transpositions and do not
+treat the first move as a complete plan.
+
+The source contains 20 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Réti Opening
+2. Réti Opening: Advance Variation
+3. Réti Opening: Advance Variation, Michel Gambit
+4. Réti Opening: Advance Variation, Navara Gambit
+5. Réti Opening: Anglo-Slav Variation
+6. Réti Opening: Anglo-Slav Variation, Bled Variation
+7. Réti Opening: Anglo-Slav Variation, Bogoljubow Variation
+8. Réti Opening: Anglo-Slav Variation, Bogoljubow Variation, Stonewall Line
+9. Réti Opening: Anglo-Slav Variation, Capablanca Variation
+10. Réti Opening: Anglo-Slav Variation, distinguished by pawn move
+11. Réti Opening: Anglo-Slav Variation, distinguished by pawn move [distinct source label 2]
+12. Réti Opening: Anglo-Slav Variation, Gurevich System
+13. Réti Opening: Anglo-Slav Variation, London Defensive System
+14. Réti Opening: Anglo-Slav Variation, New York System
+15. Réti Opening: Anglo-Slav Variation, Torre System
+16. Réti Opening: Penguin Variation
+17. Réti Opening: Reversed Blumenfeld Gambit
+18. Réti Opening: Réti Accepted
+19. Réti Opening: Réti Gambit, Keres Variation
+20. Réti Opening: Zilbermints Gambit

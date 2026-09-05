@@ -1,0 +1,153 @@
+Queen's Gambit Declined
+=======================
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 138 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Queen's Gambit Declined
+2. Queen's Gambit Declined: Alapin Variation
+3. Queen's Gambit Declined: Albin Countergambit
+4. Queen's Gambit Declined: Albin Countergambit, Balogh Variation
+5. Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation
+6. Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, bishop move Line
+7. Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, bishop move Line
+[distinct source label 2]
+8. Queen's Gambit Declined: Albin Countergambit, Fianchetto Variation, bishop move Line
+[distinct source label 3]
+9. Queen's Gambit Declined: Albin Countergambit, Janowski Variation
+10. Queen's Gambit Declined: Albin Countergambit, Krenosz Variation
+11. Queen's Gambit Declined: Albin Countergambit, Lasker Trap
+12. Queen's Gambit Declined: Albin Countergambit, Modern Line
+13. Queen's Gambit Declined: Albin Countergambit, Normal Line
+14. Queen's Gambit Declined: Albin Countergambit, Spassky Variation
+15. Queen's Gambit Declined: Albin Countergambit, Tartakower Defense
+16. Queen's Gambit Declined: Alekhine Variation
+17. Queen's Gambit Declined: Anti-Tartakower Variation
+18. Queen's Gambit Declined: Anti-Tartakower Variation, Petrosian Variation
+19. Queen's Gambit Declined: Austrian Attack, Salvio Countergambit
+20. Queen's Gambit Declined: Austrian Defense
+21. Queen's Gambit Declined: Austrian Defense, Gusev Countergambit
+22. Queen's Gambit Declined: Austrian Defense, Haberditz Variation
+23. Queen's Gambit Declined: Baltic Defense
+24. Queen's Gambit Declined: Baltic Defense, Argentinian Gambit
+25. Queen's Gambit Declined: Baltic Defense, Pseudo-Chigorin
+26. Queen's Gambit Declined: Baltic Defense, Pseudo-Slav
+27. Queen's Gambit Declined: Baltic Defense, Queen Attack
+28. Queen's Gambit Declined: Baltic Defense, Queen Attack Deferred
+29. Queen's Gambit Declined: Barmen Variation
+30. Queen's Gambit Declined: Been-Koomen Variation
+31. Queen's Gambit Declined: Cambridge Springs Defense
+32. Queen's Gambit Declined: Cambridge Springs Defense, Argentine Variation
+33. Queen's Gambit Declined: Cambridge Springs Defense, Bogoljubow Variation
+34. Queen's Gambit Declined: Cambridge Springs Defense, Capablanca Variation
+35. Queen's Gambit Declined: Cambridge Springs Defense, Rubinstein Variation
+36. Queen's Gambit Declined: Cambridge Springs Defense, Yugoslav Variation
+37. Queen's Gambit Declined: Capablanca Variation
+38. Queen's Gambit Declined: Capablanca Variation, Anti-Cambridge Springs Variation
+39. Queen's Gambit Declined: Charousek Variation
+40. Queen's Gambit Declined: Charousek Variation, Miladinovic Gambit
+41. Queen's Gambit Declined: Chigorin Defense
+42. Queen's Gambit Declined: Chigorin Defense, Exchange Variation
+43. Queen's Gambit Declined: Chigorin Defense, Exchange Variation, Costa's Line
+44. Queen's Gambit Declined: Chigorin Defense, Janowski Variation
+45. Queen's Gambit Declined: Chigorin Defense, Lazard Gambit
+46. Queen's Gambit Declined: Chigorin Defense, Main Line
+47. Queen's Gambit Declined: Chigorin Defense, Main Line, Alekhine Variation
+48. Queen's Gambit Declined: Chigorin Defense, Modern Gambit
+49. Queen's Gambit Declined: Chigorin Defense, Tartakower Gambit
+50. Queen's Gambit Declined: Exchange Variation
+51. Queen's Gambit Declined: Exchange Variation, Carlsen Variation
+52. Queen's Gambit Declined: Exchange Variation, Chameleon Variation
+53. Queen's Gambit Declined: Exchange Variation, Positional Variation
+54. Queen's Gambit Declined: Exchange Variation, Reshevsky Variation
+55. Queen's Gambit Declined: Exchange Variation, Sämisch Variation
+56. Queen's Gambit Declined: Harrwitz Attack
+57. Queen's Gambit Declined: Harrwitz Attack, Fianchetto Defense
+58. Queen's Gambit Declined: Harrwitz Attack, Main Line
+59. Queen's Gambit Declined: Harrwitz Attack, Orthodox Defense
+60. Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense
+61. Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense, Blockade Line
+62. Queen's Gambit Declined: Janowski Variation
+63. Queen's Gambit Declined: Knight Defense, Alekhine Gambit
+64. Queen's Gambit Declined: Lasker Defense
+65. Queen's Gambit Declined: Lasker Defense, Bernstein Variation
+66. Queen's Gambit Declined: Lasker Defense, Bernstein Variation, Mar del Plata Gambit
+67. Queen's Gambit Declined: Lasker Defense, Main Line
+68. Queen's Gambit Declined: Lasker Defense, Russian Variation
+69. Queen's Gambit Declined: Lasker Defense, Teichmann Variation
+70. Queen's Gambit Declined: Manhattan Variation
+71. Queen's Gambit Declined: Marshall Defense
+72. Queen's Gambit Declined: Marshall Defense, Tan Gambit
+73. Queen's Gambit Declined: Miles Variation
+74. Queen's Gambit Declined: Modern Variation
+75. Queen's Gambit Declined: Modern Variation, Heral Variation
+76. Queen's Gambit Declined: Modern Variation, Knight Defense
+77. Queen's Gambit Declined: Modern Variation, Normal Line
+78. Queen's Gambit Declined: Neo-Orthodox Variation
+79. Queen's Gambit Declined: Neo-Orthodox Variation, Main Line
+80. Queen's Gambit Declined: Normal Defense
+81. Queen's Gambit Declined: Orthodox Defense
+82. Queen's Gambit Declined: Orthodox Defense, Alekhine Variation
+83. Queen's Gambit Declined: Orthodox Defense, bishop move Line
+84. Queen's Gambit Declined: Orthodox Defense, Botvinnik Variation
+85. Queen's Gambit Declined: Orthodox Defense, Capablanca System
+86. Queen's Gambit Declined: Orthodox Defense, Capablanca Variation
+87. Queen's Gambit Declined: Orthodox Defense, Classical Variation
+88. Queen's Gambit Declined: Orthodox Defense, Fianchetto Variation
+89. Queen's Gambit Declined: Orthodox Defense, Henneberger Variation
+90. Queen's Gambit Declined: Orthodox Defense, Janowski Variation
+91. Queen's Gambit Declined: Orthodox Defense, Main Line
+92. Queen's Gambit Declined: Orthodox Defense, Pillsbury Variation
+93. Queen's Gambit Declined: Orthodox Defense, Rauzer Variation
+94. Queen's Gambit Declined: Orthodox Defense, Rubinstein Attack
+95. Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation
+96. Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation, Flohr Line
+97. Queen's Gambit Declined: Orthodox Defense, Swiss, Carlsbad Variation
+98. Queen's Gambit Declined: Pillsbury Attack
+99. Queen's Gambit Declined: Pseudo-Tarrasch Variation
+100. Queen's Gambit Declined: Pseudo-Tarrasch Variation, Canal Variation
+101. Queen's Gambit Declined: Pseudo-Tarrasch Variation, Primitive Pillsbury Variation
+102. Queen's Gambit Declined: Queen's Knight Variation
+103. Queen's Gambit Declined: Ragozin Defense
+104. Queen's Gambit Declined: Ragozin Defense, Alekhine Variation
+105. Queen's Gambit Declined: Ragozin Defense, Vienna Variation
+106. Queen's Gambit Declined: Rochlin Variation
+107. Queen's Gambit Declined: Semi-Slav, Abrahams Variation
+108. Queen's Gambit Declined: Semi-Slav, Junge Variation
+109. Queen's Gambit Declined: Semi-Slav, Koomen Variation
+110. Queen's Gambit Declined: Semi-Tarrasch Defense
+111. Queen's Gambit Declined: Semi-Tarrasch Defense, distinguished by pawn move
+112. Queen's Gambit Declined: Semi-Tarrasch Defense, Endgame Variation
+113. Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation
+114. Queen's Gambit Declined: Semi-Tarrasch Defense, Kmoch Variation
+115. Queen's Gambit Declined: Semi-Tarrasch Defense, Krause Variation
+116. Queen's Gambit Declined: Semi-Tarrasch Defense, Levenfish Variation
+117. Queen's Gambit Declined: Semi-Tarrasch Defense, Main Line
+118. Queen's Gambit Declined: Semi-Tarrasch Defense, Pillsbury Variation
+119. Queen's Gambit Declined: Semi-Tarrasch Defense, San Sebastian Variation
+120. Queen's Gambit Declined: Semi-Tarrasch Defense, Symmetrical Variation
+121. Queen's Gambit Declined: Semmering Variation
+122. Queen's Gambit Declined: Spielmann Variation
+123. Queen's Gambit Declined: Stonewall Variation
+124. Queen's Gambit Declined: Tarrasch Defense
+125. Queen's Gambit Declined: Tarrasch Defense, Pseudo-Tarrasch
+126. Queen's Gambit Declined: Tarrasch Defense, Pseudo-Tarrasch Bishop Attack
+127. Queen's Gambit Declined: Tarrasch Defense, Stoltz Variation
+128. Queen's Gambit Declined: Tartakower Defense
+129. Queen's Gambit Declined: Tartakower Defense, Exchange Variation
+130. Queen's Gambit Declined: Tartakower Defense, Makogonov Exchange Variation
+131. Queen's Gambit Declined: Three Knights Variation
+132. Queen's Gambit Declined: Three Knights, Vienna Variation
+133. Queen's Gambit Declined: Traditional Variation
+134. Queen's Gambit Declined: Uhlmann Variation
+135. Queen's Gambit Declined: Vienna Variation
+136. Queen's Gambit Declined: Vienna Variation, Quiet Variation
+137. Queen's Gambit Declined: Westphalian Variation
+138. Queen's Gambit Declined: Zilbermints Gambit

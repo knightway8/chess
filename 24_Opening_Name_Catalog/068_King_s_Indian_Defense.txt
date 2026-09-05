@@ -1,0 +1,122 @@
+King's Indian Defense
+=====================
+
+This family is connected to delayed central occupation, pressure on a pawn center, or an
+asymmetrical queen-pawn structure. Identify which side has space, which breaks challenge it,
+and which bishop or knight changes value when the center opens.
+
+The source contains 109 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. King's Indian Defense
+2. King's Indian Defense: Accelerated Averbakh Variation
+3. King's Indian Defense: Averbakh Variation
+4. King's Indian Defense: Averbakh Variation, Benoni Defense
+5. King's Indian Defense: Averbakh Variation, Benoni Defense, Advance Variation
+6. King's Indian Defense: Averbakh Variation, Benoni Defense, Exchange Variation
+7. King's Indian Defense: Averbakh Variation, Flexible Defense
+8. King's Indian Defense: Averbakh Variation, Geller Defense
+9. King's Indian Defense: Averbakh Variation, knight move Defense
+10. King's Indian Defense: Averbakh Variation, Main Line
+11. King's Indian Defense: Averbakh Variation, Modern Defense
+12. King's Indian Defense: Averbakh Variation, Modern Defense, Burgess Line
+13. King's Indian Defense: Averbakh Variation, Spanish Defense
+14. King's Indian Defense: Exchange Variation
+15. King's Indian Defense: Fianchetto Variation
+16. King's Indian Defense: Fianchetto Variation, Benjamin Defense
+17. King's Indian Defense: Fianchetto Variation, Carlsbad Variation
+18. King's Indian Defense: Fianchetto Variation, Classical Fianchetto
+19. King's Indian Defense: Fianchetto Variation, Classical Main Line
+20. King's Indian Defense: Fianchetto Variation, Classical Variation
+21. King's Indian Defense: Fianchetto Variation, Debrecen Defense
+22. King's Indian Defense: Fianchetto Variation, Delayed Fianchetto
+23. King's Indian Defense: Fianchetto Variation, Double Fianchetto Attack
+24. King's Indian Defense: Fianchetto Variation, Hungarian Variation
+25. King's Indian Defense: Fianchetto Variation, Immediate Fianchetto
+26. King's Indian Defense: Fianchetto Variation, Kavalek Defense
+27. King's Indian Defense: Fianchetto Variation, Larsen Defense
+28. King's Indian Defense: Fianchetto Variation, Lesser Simagin (Spassky)
+29. King's Indian Defense: Fianchetto Variation, Long Variation
+30. King's Indian Defense: Fianchetto Variation, Panno Variation
+31. King's Indian Defense: Fianchetto Variation, Panno Variation, Blockade Line
+32. King's Indian Defense: Fianchetto Variation, Panno Variation, Donner Line
+33. King's Indian Defense: Fianchetto Variation, Panno Variation, Korchnoi Line
+34. King's Indian Defense: Fianchetto Variation, Pterodactyl Variation
+35. King's Indian Defense: Fianchetto Variation, Simagin Variation
+36. King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System
+37. King's Indian Defense: Fianchetto Variation, Yugoslav System
+38. King's Indian Defense: Fianchetto Variation, Yugoslav Variation
+39. King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Advance Line
+40. King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Exchange Line
+41. King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Rare Line
+42. King's Indian Defense: Four Pawns Attack
+43. King's Indian Defense: Four Pawns Attack, Dynamic Attack
+44. King's Indian Defense: Four Pawns Attack, Exchange Variation
+45. King's Indian Defense: Four Pawns Attack, Florentine Gambit
+46. King's Indian Defense: Four Pawns Attack, Fluid Attack
+47. King's Indian Defense: Four Pawns Attack, Modern Defense
+48. King's Indian Defense: Four Pawns Attack, Normal Attack
+49. King's Indian Defense: Karpov System
+50. King's Indian Defense: Kazakh Variation
+51. King's Indian Defense: Kramer Variation
+52. King's Indian Defense: Larsen Variation
+53. King's Indian Defense: Makogonov Variation
+54. King's Indian Defense: Normal Variation
+55. King's Indian Defense: Normal Variation, Deferred Fianchetto
+56. King's Indian Defense: Normal Variation, King's Knight Variation
+57. King's Indian Defense: Normal Variation, Rare Defenses
+58. King's Indian Defense: Normal Variation, Standard Development
+59. King's Indian Defense: Orthodox Variation
+60. King's Indian Defense: Orthodox Variation, Aronin-Taimanov Defense
+61. King's Indian Defense: Orthodox Variation, Bayonet Attack
+62. King's Indian Defense: Orthodox Variation, Bayonet Attack, Sokolov's Line
+63. King's Indian Defense: Orthodox Variation, Bayonet Attack, Yepishin's Line
+64. King's Indian Defense: Orthodox Variation, Classical System
+65. King's Indian Defense: Orthodox Variation, Classical System, Benko Attack
+66. King's Indian Defense: Orthodox Variation, Classical System, Kozul Gambit
+67. King's Indian Defense: Orthodox Variation, Classical System, Neo-Classical Line
+68. King's Indian Defense: Orthodox Variation, Classical System, Traditional Line
+69. King's Indian Defense: Orthodox Variation, Donner Defense
+70. King's Indian Defense: Orthodox Variation, Glek Defense
+71. King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System
+72. King's Indian Defense: Orthodox Variation, Korchnoi Attack
+73. King's Indian Defense: Orthodox Variation, Modern System
+74. King's Indian Defense: Orthodox Variation, Positional Defense
+75. King's Indian Defense: Orthodox Variation, Positional Defense, Closed Line
+76. King's Indian Defense: Orthodox Variation, Positional Defense, Main Line
+77. King's Indian Defense: Orthodox Variation, Ukrainian Defense
+78. King's Indian Defense: Petrosian Variation
+79. King's Indian Defense: Petrosian Variation, Keres Defense
+80. King's Indian Defense: Petrosian Variation, Normal Defense
+81. King's Indian Defense: Petrosian Variation, Stein Defense
+82. King's Indian Defense: Pomar System
+83. King's Indian Defense: Santasiere Variation
+84. King's Indian Defense: Semi-Averbakh System
+85. King's Indian Defense: Semi-Classical Variation
+86. King's Indian Defense: Semi-Classical Variation, Benoni Variation
+87. King's Indian Defense: Semi-Classical Variation, Exchange Variation
+88. King's Indian Defense: Semi-Classical Variation, Hollywood Variation
+89. King's Indian Defense: Semi-Classical Variation, Queenside Storm Line
+90. King's Indian Defense: Six Pawns Attack
+91. King's Indian Defense: Smyslov Variation
+92. King's Indian Defense: Steiner Attack
+93. King's Indian Defense: Sämisch Variation
+94. King's Indian Defense: Sämisch Variation, Bobotsov-Korchnoi-Petrosian Variation
+95. King's Indian Defense: Sämisch Variation, Bronstein Defense
+96. King's Indian Defense: Sämisch Variation, Byrne Defense
+97. King's Indian Defense: Sämisch Variation, Closed Variation
+98. King's Indian Defense: Sämisch Variation, Closed Variation, Main Line
+99. King's Indian Defense: Sämisch Variation, Double Fianchetto
+100. King's Indian Defense: Sämisch Variation, Normal Defense
+101. King's Indian Defense: Sämisch Variation, Orthodox Variation
+102. King's Indian Defense: Sämisch Variation, Orthodox Variation, Bronstein Variation
+103. King's Indian Defense: Sämisch Variation, Panno Formation
+104. King's Indian Defense: Sämisch Variation, Panno Main Line
+105. King's Indian Defense: Sämisch Variation, Ruban Variation
+106. King's Indian Defense: Sämisch Variation, Sämisch Gambit
+107. King's Indian Defense: Sämisch Variation, Sämisch Gambit Accepted
+108. King's Indian Defense: Sämisch Variation, Yates Defense
+109. King's Indian Defense: Zinnowitz Variation

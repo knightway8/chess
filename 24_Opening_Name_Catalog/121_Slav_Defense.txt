@@ -1,0 +1,56 @@
+Slav Defense
+============
+
+This family belongs to queen-pawn structures or systems. Locate the central tension, the
+queen-bishop development problem, and the main freeing break. A familiar setup must still
+adapt to the opponent’s structure.
+
+The source contains 43 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Slav Defense
+2. Slav Defense: Alapin Variation
+3. Slav Defense: Alekhine Variation
+4. Slav Defense: Bonet Gambit
+5. Slav Defense: Breyer Variation
+6. Slav Defense: Chebanenko Variation
+7. Slav Defense: Chebanenko Variation, Advance System
+8. Slav Defense: Czech Variation
+9. Slav Defense: Czech Variation, Bled Attack
+10. Slav Defense: Czech Variation, Carlsbad Variation
+11. Slav Defense: Czech Variation, Carlsbad Variation, Morozevich Variation
+12. Slav Defense: Czech Variation, Classical System
+13. Slav Defense: Czech Variation, Classical System, Main Line
+14. Slav Defense: Czech Variation, Dutch Variation
+15. Slav Defense: Czech Variation, Dutch Variation, Sämisch Variation
+16. Slav Defense: Czech Variation, Krause Attack
+17. Slav Defense: Czech Variation, Krause Attack, Fazekas Gambit
+18. Slav Defense: Czech Variation, Lasker Variation
+19. Slav Defense: Czech Variation, Wiesbaden Variation
+20. Slav Defense: Czech Variation, Wiesbaden Variation, Sharp Line
+21. Slav Defense: Diemer Gambit
+22. Slav Defense: Exchange Variation
+23. Slav Defense: Exchange Variation, Boor Attack
+24. Slav Defense: Exchange Variation, Schallopp Variation
+25. Slav Defense: Exchange Variation, Symmetrical Line
+26. Slav Defense: Exchange Variation, Trifunovic Variation
+27. Slav Defense: Geller Gambit
+28. Slav Defense: Modern Line
+29. Slav Defense: Quiet Variation
+30. Slav Defense: Quiet Variation, Amsterdam Variation
+31. Slav Defense: Quiet Variation, Landau Variation
+32. Slav Defense: Quiet Variation, Pin Defense
+33. Slav Defense: Quiet Variation, Schallopp Defense
+34. Slav Defense: Schlechter Variation
+35. Slav Defense: Slav Gambit, Alekhine Attack
+36. Slav Defense: Smyslov Variation
+37. Slav Defense: Soultanbeieff Variation
+38. Slav Defense: Steiner Variation
+39. Slav Defense: Süchting Variation
+40. Slav Defense: Three Knights Variation
+41. Slav Defense: Two Knights Attack
+42. Slav Defense: Winawer Countergambit
+43. Slav Defense: Winawer Countergambit, Anti-Winawer Gambit

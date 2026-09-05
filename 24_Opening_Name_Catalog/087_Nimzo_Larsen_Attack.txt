@@ -1,0 +1,26 @@
+Nimzo-Larsen Attack
+===================
+
+This family begins with flank control or flexible development. Its point is normally to
+influence the center and choose a favorable structure later. Track transpositions and do not
+treat the first move as a complete plan.
+
+The source contains 13 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Nimzo-Larsen Attack
+2. Nimzo-Larsen Attack: Classical Variation
+3. Nimzo-Larsen Attack: Dutch Variation
+4. Nimzo-Larsen Attack: English Variation
+5. Nimzo-Larsen Attack: Graz Attack
+6. Nimzo-Larsen Attack: Indian Variation
+7. Nimzo-Larsen Attack: Modern Variation
+8. Nimzo-Larsen Attack: Norfolk Gambit
+9. Nimzo-Larsen Attack: Pachman Gambit
+10. Nimzo-Larsen Attack: Polish Variation
+11. Nimzo-Larsen Attack: Ringelbach Gambit
+12. Nimzo-Larsen Attack: Spike Variation
+13. Nimzo-Larsen Attack: Symmetrical Variation

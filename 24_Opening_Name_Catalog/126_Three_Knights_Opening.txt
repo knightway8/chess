@@ -1,0 +1,18 @@
+Three Knights Opening
+=====================
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 5 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Three Knights Opening
+2. Three Knights Opening: Schlechter Variation
+3. Three Knights Opening: Steinitz Defense
+4. Three Knights Opening: Steinitz-Rosenthal Variation
+5. Three Knights Opening: Winawer Defense

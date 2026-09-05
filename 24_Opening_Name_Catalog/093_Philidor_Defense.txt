@@ -1,0 +1,53 @@
+Philidor Defense
+================
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 38 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Philidor Defense
+2. Philidor Defense: Albin-Blackburne Gambit
+3. Philidor Defense: Berger Variation
+4. Philidor Defense: Bird Gambit
+5. Philidor Defense: Boden Variation
+6. Philidor Defense: Exchange Variation
+7. Philidor Defense: Hanham Variation
+8. Philidor Defense: Hanham Variation, Delmar Variation
+9. Philidor Defense: Hanham Variation, Krause Variation
+10. Philidor Defense: Hanham Variation, Schlechter Variation
+11. Philidor Defense: Hanham Variation, Sharp Variation
+12. Philidor Defense: Hanham Variation, Steiner Variation
+13. Philidor Defense: Hanham, Kmoch Variation
+14. Philidor Defense: Larsen Variation
+15. Philidor Defense: Lion Variation
+16. Philidor Defense: Lion Variation, Bishop Sacrifice
+17. Philidor Defense: Lion Variation, Delayed Bishop Sacrifice
+18. Philidor Defense: Lion Variation, Forcing Line
+19. Philidor Defense: Lion Variation, Lion's Claw, distinguished by bishop move and pawn
+move
+20. Philidor Defense: Lion Variation, Lion's Claw, distinguished by bishop move and pawn
+move [distinct source label 2]
+21. Philidor Defense: Lion Variation, Shirov Gambit
+22. Philidor Defense: Lion Variation, Sozin Variation
+23. Philidor Defense: Lopez Countergambit
+24. Philidor Defense: Lopez Countergambit, Jaenisch Variation
+25. Philidor Defense: Morphy Gambit
+26. Philidor Defense: Nimzowitsch Variation
+27. Philidor Defense: Nimzowitsch Variation, Klein Variation
+28. Philidor Defense: Nimzowitsch Variation, Rellstab Variation
+29. Philidor Defense: Nimzowitsch Variation, Sokolsky Variation
+30. Philidor Defense: Nimzowitsch, Larobok Variation
+31. Philidor Defense: Nimzowitsch, Locock Variation
+32. Philidor Defense: Paulsen Attack
+33. Philidor Defense: Philidor Countergambit
+34. Philidor Defense: Philidor Countergambit, Berger Variation
+35. Philidor Defense: Philidor Countergambit, del Rio Attack
+36. Philidor Defense: Philidor Countergambit, Zukertort Variation
+37. Philidor Defense: Philidor Gambit
+38. Philidor Defense: Steinitz Variation

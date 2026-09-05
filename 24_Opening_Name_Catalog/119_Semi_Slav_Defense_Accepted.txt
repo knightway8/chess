@@ -1,0 +1,14 @@
+Semi-Slav Defense Accepted
+==========================
+
+This family belongs to queen-pawn structures or systems. Locate the central tension, the
+queen-bishop development problem, and the main freeing break. A familiar setup must still
+adapt to the opponent’s structure.
+
+The source contains 1 distinct named label in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Semi-Slav Defense Accepted

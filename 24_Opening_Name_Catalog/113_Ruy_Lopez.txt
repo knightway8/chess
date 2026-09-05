@@ -1,0 +1,213 @@
+Ruy Lopez
+=========
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 200 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Ruy Lopez
+2. Ruy Lopez: Alapin Defense
+3. Ruy Lopez: Alapin Defense, Alapin Gambit
+4. Ruy Lopez: Berlin Defense
+5. Ruy Lopez: Berlin Defense, Anti-Berlin Variation
+6. Ruy Lopez: Berlin Defense, Anti-Berlin Variation, Anderssen Variation
+7. Ruy Lopez: Berlin Defense, Anti-Berlin Variation, Duras Variation
+8. Ruy Lopez: Berlin Defense, Anti-Berlin Variation, Kaufmann Variation
+9. Ruy Lopez: Berlin Defense, Anti-Berlin Variation, Mortimer Trap
+10. Ruy Lopez: Berlin Defense, Anti-Berlin Variation, Mortimer Variation
+11. Ruy Lopez: Berlin Defense, Berlin Wall
+12. Ruy Lopez: Berlin Defense, Beverwijk Variation
+13. Ruy Lopez: Berlin Defense, Closed Bernstein Variation
+14. Ruy Lopez: Berlin Defense, Closed Showalter Variation
+15. Ruy Lopez: Berlin Defense, Closed Wolf Variation
+16. Ruy Lopez: Berlin Defense, Cordel Variation
+17. Ruy Lopez: Berlin Defense, Fishing Pole Variation
+18. Ruy Lopez: Berlin Defense, Hedgehog Variation
+19. Ruy Lopez: Berlin Defense, Improved Steinitz Defense
+20. Ruy Lopez: Berlin Defense, l'Hermet Variation
+21. Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense
+22. Ruy Lopez: Berlin Defense, l'Hermet Variation, Westerinen Line
+23. Ruy Lopez: Berlin Defense, Minckwitz Variation
+24. Ruy Lopez: Berlin Defense, Nyholm Attack
+25. Ruy Lopez: Berlin Defense, Pillsbury Variation
+26. Ruy Lopez: Berlin Defense, Rio de Janeiro Variation
+27. Ruy Lopez: Berlin Defense, Rio Gambit Accepted
+28. Ruy Lopez: Berlin Defense, Rosenthal Variation
+29. Ruy Lopez: Berlin Defense, Tarrasch Trap
+30. Ruy Lopez: Berlin Defense, Trifunovic Variation
+31. Ruy Lopez: Berlin Defense, Winawer Attack
+32. Ruy Lopez: Berlin Defense, Zukertort Variation
+33. Ruy Lopez: Bird Variation
+34. Ruy Lopez: Bird Variation, Paulsen Variation
+35. Ruy Lopez: Bird's Defense Deferred
+36. Ruy Lopez: Brentano Gambit
+37. Ruy Lopez: Brix Variation
+38. Ruy Lopez: Bulgarian Variation
+39. Ruy Lopez: Central Countergambit
+40. Ruy Lopez: Classical Defense, Benelux Variation
+41. Ruy Lopez: Classical Defense, Boden Variation
+42. Ruy Lopez: Classical Defense, Zaitsev Variation
+43. Ruy Lopez: Classical Variation
+44. Ruy Lopez: Classical Variation, Central Variation
+45. Ruy Lopez: Classical Variation, Charousek Variation
+46. Ruy Lopez: Classical Variation, Cordel Gambit
+47. Ruy Lopez: Classical Variation, Konikowski Gambit
+48. Ruy Lopez: Classical Variation, Modern Main Line
+49. Ruy Lopez: Classical Variation, Spanish Wing Gambit
+50. Ruy Lopez: Classical Variation, Zukertort Gambit
+51. Ruy Lopez: Closed
+52. Ruy Lopez: Closed Berlin Defense, Chigorin Variation
+53. Ruy Lopez: Closed, Alekhine Gambit
+54. Ruy Lopez: Closed, Anti-Marshall
+55. Ruy Lopez: Closed, Averbakh Variation
+56. Ruy Lopez: Closed, Balla Variation
+57. Ruy Lopez: Closed, Basque Gambit
+58. Ruy Lopez: Closed, Bogoljubow Variation
+59. Ruy Lopez: Closed, Borisenko Variation
+60. Ruy Lopez: Closed, Breyer
+61. Ruy Lopez: Closed, Breyer Defense
+62. Ruy Lopez: Closed, Breyer Defense, Quiet Variation
+63. Ruy Lopez: Closed, Breyer Defense, Zaitsev Hybrid
+64. Ruy Lopez: Closed, Center Attack
+65. Ruy Lopez: Closed, Center Attack, Basque Gambit
+66. Ruy Lopez: Closed, Chigorin Defense
+67. Ruy Lopez: Closed, Chigorin Defense, Gajewski Gambit
+68. Ruy Lopez: Closed, Chigorin Defense, Panov System
+69. Ruy Lopez: Closed, Chigorin, Yugoslav System
+70. Ruy Lopez: Closed, Delayed Exchange
+71. Ruy Lopez: Closed, Flohr System
+72. Ruy Lopez: Closed, Karpov Variation
+73. Ruy Lopez: Closed, Kecskemet Variation
+74. Ruy Lopez: Closed, Keres Defense
+75. Ruy Lopez: Closed, Kholmov Variation
+76. Ruy Lopez: Closed, Leonhardt Variation
+77. Ruy Lopez: Closed, Lutikov Variation
+78. Ruy Lopez: Closed, Martinez Variation
+79. Ruy Lopez: Closed, Morphy Attack
+80. Ruy Lopez: Closed, Pilnik Variation
+81. Ruy Lopez: Closed, Rosen Attack
+82. Ruy Lopez: Closed, Rossolimo Defense
+83. Ruy Lopez: Closed, Smyslov Defense
+84. Ruy Lopez: Closed, Smyslov-Breyer-Zaitsev Hybrid
+85. Ruy Lopez: Closed, Suetin Variation
+86. Ruy Lopez: Closed, Trajkovic Counterattack
+87. Ruy Lopez: Closed, Worrall Attack
+88. Ruy Lopez: Closed, Worrall Attack, Castling Line
+89. Ruy Lopez: Closed, Worrall Attack, Delayed Castling Line
+90. Ruy Lopez: Closed, Yates Variation
+91. Ruy Lopez: Closed, Yates Variation, Short Attack
+92. Ruy Lopez: Closed, Zaitsev System
+93. Ruy Lopez: Cozio Defense
+94. Ruy Lopez: Cozio Defense, Paulsen Variation
+95. Ruy Lopez: Cozio Defense, Tartakower Gambit
+96. Ruy Lopez: Exchange Variation
+97. Ruy Lopez: Exchange Variation, Alapin Gambit
+98. Ruy Lopez: Exchange Variation, Alekhine Variation
+99. Ruy Lopez: Exchange Variation, Bronstein Variation
+100. Ruy Lopez: Exchange Variation, Gligoric Variation
+101. Ruy Lopez: Exchange Variation, Keres Variation
+102. Ruy Lopez: Exchange Variation, King's Bishop Variation
+103. Ruy Lopez: Exchange Variation, Lutikov Variation
+104. Ruy Lopez: Exchange Variation, Normal Variation
+105. Ruy Lopez: Exchange Variation, Romanovsky Variation
+106. Ruy Lopez: Exchange, Alekhine Variation
+107. Ruy Lopez: Fianchetto Defense
+108. Ruy Lopez: Fianchetto Defense, Kevitz Gambit
+109. Ruy Lopez: Halloween Attack
+110. Ruy Lopez: Lucena Variation
+111. Ruy Lopez: Marshall Attack
+112. Ruy Lopez: Marshall Attack, Main Line
+113. Ruy Lopez: Marshall Attack, Main Line, Spassky Variation
+114. Ruy Lopez: Marshall Attack, Modern Main Line
+115. Ruy Lopez: Marshall Attack, Modern Variation
+116. Ruy Lopez: Marshall Attack, Original Marshall Attack
+117. Ruy Lopez: Marshall Attack, rook move Variation
+118. Ruy Lopez: Marshall Attack, Steiner Variation
+119. Ruy Lopez: Morphy Defense
+120. Ruy Lopez: Morphy Defense, Alapin's Defense Deferred
+121. Ruy Lopez: Morphy Defense, Anderssen Variation
+122. Ruy Lopez: Morphy Defense, Arkhangelsk Variation
+123. Ruy Lopez: Morphy Defense, Bayreuth Variation
+124. Ruy Lopez: Morphy Defense, Caro Variation
+125. Ruy Lopez: Morphy Defense, Classical Defense Deferred
+126. Ruy Lopez: Morphy Defense, Cozio Defense
+127. Ruy Lopez: Morphy Defense, Duras Variation
+128. Ruy Lopez: Morphy Defense, Fianchetto Defense Deferred
+129. Ruy Lopez: Morphy Defense, Graz Variation
+130. Ruy Lopez: Morphy Defense, Jaffe Gambit
+131. Ruy Lopez: Morphy Defense, Mackenzie Variation
+132. Ruy Lopez: Morphy Defense, Modern Steinitz Defense
+133. Ruy Lopez: Morphy Defense, Modern Steinitz Defense, Fianchetto Variation
+134. Ruy Lopez: Morphy Defense, Modern Steinitz Defense, Siesta Variation
+135. Ruy Lopez: Morphy Defense, Møller Variation
+136. Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation
+137. Ruy Lopez: Morphy Defense, Norwegian Variation
+138. Ruy Lopez: Morphy Defense, Norwegian Variation, Nightingale Gambit
+139. Ruy Lopez: Morphy Defense, Schliemann Defense Deferred
+140. Ruy Lopez: Morphy Defense, Schliemann Defense Deferred, Jaenisch Gambit Deferred
+141. Ruy Lopez: Morphy Defense, Steinitz Deferred
+142. Ruy Lopez: Morphy Defense, Tarrasch Variation
+143. Ruy Lopez: Morphy Defense, Tartakower Variation
+144. Ruy Lopez: Morphy Defense, Wing Attack
+145. Ruy Lopez: Morphy Defense, Wormald Attack
+146. Ruy Lopez: Noah's Ark Trap
+147. Ruy Lopez: Nürnberg Variation
+148. Ruy Lopez: Open
+149. Ruy Lopez: Open Berlin Defense, l'Hermet Variation
+150. Ruy Lopez: Open Berlin Defense, Showalter Variation
+151. Ruy Lopez: Open, Berger Variation
+152. Ruy Lopez: Open, Berlin Variation
+153. Ruy Lopez: Open, Bernstein Variation
+154. Ruy Lopez: Open, Bernstein Variation, Luther Line
+155. Ruy Lopez: Open, Breslau Variation
+156. Ruy Lopez: Open, Classical Defense
+157. Ruy Lopez: Open, Classical Defense, Main Line
+158. Ruy Lopez: Open, Dilworth Variation
+159. Ruy Lopez: Open, Friess Attack
+160. Ruy Lopez: Open, Harksen Gambit
+161. Ruy Lopez: Open, Howell Attack
+162. Ruy Lopez: Open, Howell Attack, Ekstrom Variation
+163. Ruy Lopez: Open, Italian Variation
+164. Ruy Lopez: Open, Karpov Gambit
+165. Ruy Lopez: Open, Knorre Variation
+166. Ruy Lopez: Open, Main Line
+167. Ruy Lopez: Open, Malkin Variation
+168. Ruy Lopez: Open, Motzko Attack
+169. Ruy Lopez: Open, Motzko Attack, Nenarokov Variation
+170. Ruy Lopez: Open, Richter Variation
+171. Ruy Lopez: Open, Riga Variation
+172. Ruy Lopez: Open, Schlechter Defense
+173. Ruy Lopez: Open, Skipworth Gambit
+174. Ruy Lopez: Open, St. Petersburg Variation
+175. Ruy Lopez: Open, Tarrasch Trap
+176. Ruy Lopez: Open, Zukertort Variation
+177. Ruy Lopez: Pollock Defense
+178. Ruy Lopez: Rabinovich Variation
+179. Ruy Lopez: Retreat Variation
+180. Ruy Lopez: Rotary-Albany Gambit
+181. Ruy Lopez: Schliemann Defense
+182. Ruy Lopez: Schliemann Defense, Classical Variation
+183. Ruy Lopez: Schliemann Defense, Dyckhoff Variation
+184. Ruy Lopez: Schliemann Defense, Exchange Variation
+185. Ruy Lopez: Schliemann Defense, Jaenisch Gambit Accepted
+186. Ruy Lopez: Schliemann Defense, Kostić Defense
+187. Ruy Lopez: Schliemann Defense, Möhring Variation
+188. Ruy Lopez: Schliemann Defense, Schönemann Attack
+189. Ruy Lopez: Schliemann Defense, Tartakower Variation
+190. Ruy Lopez: Spanish Countergambit
+191. Ruy Lopez: Spanish Countergambit, Harding Countergambit, Fricke Gambit
+192. Ruy Lopez: Spanish Countergambit, Harding Gambit
+193. Ruy Lopez: Steinitz Defense
+194. Ruy Lopez: Steinitz Defense Deferred, Boleslavsky Variation
+195. Ruy Lopez: Steinitz Defense Deferred, Lipnitsky Variation
+196. Ruy Lopez: Steinitz Defense, Center Gambit
+197. Ruy Lopez: Steinitz Defense, Nimzowitsch Attack
+198. Ruy Lopez: Steinitz Defense, Semi-Duras Variation
+199. Ruy Lopez: Vinogradov Variation
+200. Ruy Lopez: Wormald Attack, Grünfeld Variation

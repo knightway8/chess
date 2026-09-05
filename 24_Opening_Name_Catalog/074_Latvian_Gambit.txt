@@ -1,0 +1,30 @@
+Latvian Gambit
+==============
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 17 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Latvian Gambit
+2. Latvian Gambit: Behting Variation
+3. Latvian Gambit: Clam Gambit
+4. Latvian Gambit: Corkscrew Countergambit
+5. Latvian Gambit: Corkscrew Gambit
+6. Latvian Gambit: Diepstraten Countergambit
+7. Latvian Gambit: Fraser Defense
+8. Latvian Gambit: Greco Variation
+9. Latvian Gambit: Lobster Gambit
+10. Latvian Gambit: Mason Countergambit
+11. Latvian Gambit: Mayet Attack
+12. Latvian Gambit: Mayet Attack, Morgado Defense
+13. Latvian Gambit: Mayet Attack, Poisoned Pawn Variation
+14. Latvian Gambit: Mayet Attack, Polerio-Svedenborg Variation
+15. Latvian Gambit: Mayet Attack, Strautins Gambit
+16. Latvian Gambit: Mlotkowski Variation
+17. Latvian Gambit: Senechaud Gambit

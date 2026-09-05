@@ -1,0 +1,19 @@
+Torre Attack
+============
+
+This family belongs to queen-pawn structures or systems. Locate the central tension, the
+queen-bishop development problem, and the main freeing break. A familiar setup must still
+adapt to the opponent’s structure.
+
+The source contains 6 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Torre Attack: Classical Defense
+2. Torre Attack: Classical Defense, Nimzowitsch Variation
+3. Torre Attack: Classical Defense, Petrosian Gambit
+4. Torre Attack: Fianchetto Defense
+5. Torre Attack: Fianchetto Defense, Euwe Variation
+6. Torre Attack: Wagner Gambit

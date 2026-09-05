@@ -1,0 +1,21 @@
+Owen Defense
+============
+
+This family is a response to a king-pawn center. Determine whether the center is challenged
+immediately or invited forward, then identify the freeing break and the piece most likely to
+be restricted. Sound defense needs active counterplay.
+
+The source contains 8 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Owen Defense
+2. Owen Defense: Guatemala Defense
+3. Owen Defense: Hekili-Loa Gambit
+4. Owen Defense: Matovinsky Gambit
+5. Owen Defense: Naselwaus Gambit
+6. Owen Defense: Smith Gambit
+7. Owen Defense: Unicorn Variation
+8. Owen Defense: Wind Gambit

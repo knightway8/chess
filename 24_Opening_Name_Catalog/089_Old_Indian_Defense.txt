@@ -1,0 +1,27 @@
+Old Indian Defense
+==================
+
+This family is connected to delayed central occupation, pressure on a pawn center, or an
+asymmetrical queen-pawn structure. Identify which side has space, which breaks challenge it,
+and which bishop or knight changes value when the center opens.
+
+The source contains 13 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Old Indian Defense
+2. Old Indian Defense: Aged Gibbon Gambit
+3. Old Indian Defense: Czech Variation, distinguished by knight move
+4. Old Indian Defense: Czech Variation, distinguished by knight move [distinct source label
+2]
+5. Old Indian Defense: Duz-Khotimirsky Variation
+6. Old Indian Defense: Janowski Variation
+7. Old Indian Defense: Janowski Variation, Fianchetto Variation
+8. Old Indian Defense: Janowski Variation, Grinberg Gambit
+9. Old Indian Defense: Janowski Variation, Main Line
+10. Old Indian Defense: Normal Variation
+11. Old Indian Defense: Tartakower-Indian
+12. Old Indian Defense: Two Knights Variation
+13. Old Indian Defense: Ukrainian Variation

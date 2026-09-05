@@ -1,0 +1,31 @@
+Vienna Gambit
+=============
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 15 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Vienna Gambit, distinguished by Max Lange Defense
+2. Vienna Gambit, distinguished by Max Lange Defense: Cunningham Defense
+3. Vienna Gambit, distinguished by Max Lange Defense: Hamppe-Allgaier Gambit
+4. Vienna Gambit, distinguished by Max Lange Defense: Hamppe-Allgaier Gambit, Alapin
+Variation
+5. Vienna Gambit, distinguished by Max Lange Defense: Hamppe-Allgaier Gambit, Thorold
+Variation
+6. Vienna Gambit, distinguished by Max Lange Defense: Hamppe-Muzio Gambit
+7. Vienna Gambit, distinguished by Max Lange Defense: Knight Variation
+8. Vienna Gambit, distinguished by Max Lange Defense: Pierce Gambit
+9. Vienna Gambit, distinguished by Max Lange Defense: Quelle Gambit
+10. Vienna Gambit, distinguished by Max Lange Defense: Steinitz Gambit
+11. Vienna Gambit, distinguished by Max Lange Defense: Steinitz Gambit, Fraser-Minckwitz
+Defense
+12. Vienna Gambit, distinguished by Max Lange Defense: Steinitz Gambit, Main Line
+13. Vienna Gambit, distinguished by Max Lange Defense: Steinitz Gambit, Paulsen Defense
+14. Vienna Gambit, distinguished by Max Lange Defense: Steinitz Gambit, Sörensen Defense
+15. Vienna Gambit, distinguished by Max Lange Defense: Steinitz Gambit, Zukertort Defense

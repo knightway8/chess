@@ -1,0 +1,63 @@
+King's Gambit Declined
+======================
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 50 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. King's Gambit Declined: Classical Variation
+2. King's Gambit Declined: Classical Variation, Euwe Attack
+3. King's Gambit Declined: Classical Variation, Rotlewi Countergambit
+4. King's Gambit Declined: Classical Variation, Rubinstein Countergambit
+5. King's Gambit Declined: Classical Variation, Walthoffen Attack
+6. King's Gambit Declined: Classical, Hanham Variation
+7. King's Gambit Declined: Classical, Réti Variation
+8. King's Gambit Declined: Classical, Soldatenkov Variation
+9. King's Gambit Declined: Classical, Svenonius Variation
+10. King's Gambit Declined: Falkbeer Countergambit
+11. King's Gambit Declined: Falkbeer Countergambit Accepted
+12. King's Gambit Declined: Falkbeer Countergambit, Alapin Variation
+13. King's Gambit Declined: Falkbeer Countergambit, Anderssen Attack
+14. King's Gambit Declined: Falkbeer Countergambit, Blackburne Attack
+15. King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit
+16. King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit Accepted
+17. King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Keres Variation
+18. King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Main Line
+19. King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Morphy Defense
+20. King's Gambit Declined: Falkbeer Countergambit, Charousek Gambit, Old Line
+21. King's Gambit Declined: Falkbeer Countergambit, Charousek Variation
+22. King's Gambit Declined: Falkbeer Countergambit, Hinrichsen Gambit
+23. King's Gambit Declined: Falkbeer Countergambit, Miles Gambit
+24. King's Gambit Declined: Falkbeer Countergambit, Milner-Barry Variation
+25. King's Gambit Declined: Falkbeer Countergambit, Modern Transfer
+26. King's Gambit Declined: Falkbeer Countergambit, Nimzowitsch-Marshall Countergambit
+27. King's Gambit Declined: Falkbeer Countergambit, Pickler Gambit
+28. King's Gambit Declined: Falkbeer Countergambit, Rubinstein Variation
+29. King's Gambit Declined: Falkbeer Countergambit, Staunton Line
+30. King's Gambit Declined: Falkbeer Countergambit, Tarrasch Variation
+31. King's Gambit Declined: Hobbs-Zilbermints Gambit
+32. King's Gambit Declined: Keene Defense
+33. King's Gambit Declined: Keene's Defense
+34. King's Gambit Declined: Mafia Defense
+35. King's Gambit Declined: Miles Defense
+36. King's Gambit Declined: Norwalde Variation
+37. King's Gambit Declined: Norwalde Variation, Bücker Gambit
+38. King's Gambit Declined: Norwalde Variation, Schubert Variation
+39. King's Gambit Declined: Panteldakis Countergambit
+40. King's Gambit Declined: Panteldakis Countergambit, Greco Variation
+41. King's Gambit Declined: Panteldakis Countergambit, Pawn Sacrifice Line
+42. King's Gambit Declined: Panteldakis Countergambit, Schiller's Defense
+43. King's Gambit Declined: Panteldakis Countergambit, Shirazi Line
+44. King's Gambit Declined: Panteldakis Countergambit, Symmetrical Variation
+45. King's Gambit Declined: Petrov's Defense
+46. King's Gambit Declined: Queen's Knight Defense
+47. King's Gambit Declined: Senechaud Countergambit
+48. King's Gambit Declined: Soller-Zilbermints Gambit
+49. King's Gambit Declined: Zilbermints Double Countergambit
+50. King's Gambit Declined: Zilbermints Double Gambit

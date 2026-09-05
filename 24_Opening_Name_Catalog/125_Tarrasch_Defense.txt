@@ -1,0 +1,39 @@
+Tarrasch Defense
+================
+
+This family belongs to queen-pawn structures or systems. Locate the central tension, the
+queen-bishop development problem, and the main freeing break. A familiar setup must still
+adapt to the opponent’s structure.
+
+The source contains 26 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Tarrasch Defense
+2. Tarrasch Defense: Classical Variation
+3. Tarrasch Defense: Classical Variation, Advance Variation
+4. Tarrasch Defense: Classical Variation, Bogoljubow Variation
+5. Tarrasch Defense: Classical Variation, Carlsbad Variation
+6. Tarrasch Defense: Classical Variation, Chandler Variation
+7. Tarrasch Defense: Classical Variation, Classical Tarrasch Gambit
+8. Tarrasch Defense: Classical Variation, Endgame Variation
+9. Tarrasch Defense: Classical Variation, Main Line
+10. Tarrasch Defense: Classical Variation, Petursson Variation
+11. Tarrasch Defense: Classical Variation, Réti Variation
+12. Tarrasch Defense: Classical Variation, Spassky Variation
+13. Tarrasch Defense: Dubov Tarrasch
+14. Tarrasch Defense: Grünfeld Gambit
+15. Tarrasch Defense: Marshall Gambit
+16. Tarrasch Defense: Prague Variation
+17. Tarrasch Defense: Prague Variation, Main Line
+18. Tarrasch Defense: Rubinstein System
+19. Tarrasch Defense: Schara Gambit
+20. Tarrasch Defense: Swedish Variation
+21. Tarrasch Defense: Swedish Variation, Central Break
+22. Tarrasch Defense: Symmetrical Variation
+23. Tarrasch Defense: Tarrasch Gambit
+24. Tarrasch Defense: Two Knights Variation
+25. Tarrasch Defense: von Hennig Gambit
+26. Tarrasch Defense: Wagner Variation

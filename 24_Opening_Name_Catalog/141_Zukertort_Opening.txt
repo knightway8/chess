@@ -1,0 +1,54 @@
+Zukertort Opening
+=================
+
+This family begins with flank control or flexible development. Its point is normally to
+influence the center and choose a favorable structure later. Track transpositions and do not
+treat the first move as a complete plan.
+
+The source contains 41 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Zukertort Opening
+2. Zukertort Opening: Ampel Variation
+3. Zukertort Opening: Arctic Defense
+4. Zukertort Opening: Arctic Defense, Drunken Knight Variation
+5. Zukertort Opening: Basman Defense
+6. Zukertort Opening: Black Mustang Defense
+7. Zukertort Opening: Double Fianchetto Attack
+8. Zukertort Opening: Drunken Cavalry Variation
+9. Zukertort Opening: Dutch Variation
+10. Zukertort Opening: Herrstrom Gambit
+11. Zukertort Opening: Kingside Fianchetto
+12. Zukertort Opening: Lemberger Gambit
+13. Zukertort Opening: Lisitsyn Gambit
+14. Zukertort Opening: Lisitsyn Gambit Deferred
+15. Zukertort Opening: Myers Polish Attack
+16. Zukertort Opening: Nimzo-Larsen Variation
+17. Zukertort Opening: Old Indian Attack
+18. Zukertort Opening: Pachman Gambit
+19. Zukertort Opening: Pirc Invitation
+20. Zukertort Opening: Polish Defense
+21. Zukertort Opening: Queen's Gambit Invitation
+22. Zukertort Opening: Queenside Fianchetto Variation
+23. Zukertort Opening: Quiet System
+24. Zukertort Opening: Regina-Nu Gambit
+25. Zukertort Opening: Reversed Grünfeld
+26. Zukertort Opening: Reversed Mexican Defense
+27. Zukertort Opening: Ross Gambit
+28. Zukertort Opening: Santasiere's Folly
+29. Zukertort Opening: Shabalov Gambit
+30. Zukertort Opening: Sicilian Invitation
+31. Zukertort Opening: Slav Invitation
+32. Zukertort Opening: Speelsmet Gambit
+33. Zukertort Opening: St. George Defense
+34. Zukertort Opening: Tennison Gambit
+35. Zukertort Opening: Tennison Gambit, Brigg's Trap
+36. Zukertort Opening: The Potato
+37. Zukertort Opening: The Walrus
+38. Zukertort Opening: Vos Gambit
+39. Zukertort Opening: Wade Defense
+40. Zukertort Opening: Wade Defense, Chigorin Plan
+41. Zukertort Opening: Ware Defense

@@ -1,0 +1,16 @@
+King's Knight Opening
+=====================
+
+This is a rare, early-stage, or transpositional opening label. Begin with threats, center,
+development, and king safety. Ask what the unusual order permits or delays; do not assume
+that rarity proves either strength or weakness.
+
+The source contains 3 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. King's Knight Opening
+2. King's Knight Opening: Konstantinopolsky
+3. King's Knight Opening: Normal Variation

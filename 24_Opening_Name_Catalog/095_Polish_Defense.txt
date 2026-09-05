@@ -1,0 +1,15 @@
+Polish Defense
+==============
+
+This family begins with flank control or flexible development. Its point is normally to
+influence the center and choose a favorable structure later. Track transpositions and do not
+treat the first move as a complete plan.
+
+The source contains 2 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Polish Defense
+2. Polish Defense: Spassky Gambit Accepted

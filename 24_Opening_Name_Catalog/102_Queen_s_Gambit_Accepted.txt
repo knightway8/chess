@@ -1,0 +1,60 @@
+Queen's Gambit Accepted
+=======================
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 47 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Queen's Gambit Accepted
+2. Queen's Gambit Accepted: Accelerated Mannheim Variation
+3. Queen's Gambit Accepted: Alekhine Defense
+4. Queen's Gambit Accepted: Alekhine Defense, Alatortsev Variation
+5. Queen's Gambit Accepted: Alekhine Defense, Borisenko-Furman Variation
+6. Queen's Gambit Accepted: Alekhine Defense, Haberditz Variation
+7. Queen's Gambit Accepted: Bogoljubow Defense
+8. Queen's Gambit Accepted: Central Variation, Alekhine System
+9. Queen's Gambit Accepted: Central Variation, Greco Variation
+10. Queen's Gambit Accepted: Central Variation, McDonnell Defense
+11. Queen's Gambit Accepted: Central Variation, McDonnell Defense, Somov Gambit
+12. Queen's Gambit Accepted: Central Variation, Modern Defense
+13. Queen's Gambit Accepted: Central Variation, Rubinstein Defense
+14. Queen's Gambit Accepted: Central Variation, Rubinstein Defense, Yefimov Gambit
+15. Queen's Gambit Accepted: Classical Defense
+16. Queen's Gambit Accepted: Classical Defense, Alekhine System
+17. Queen's Gambit Accepted: Classical Defense, Alekhine System, Main Line
+18. Queen's Gambit Accepted: Classical Defense, Alekhine System, Smyslov Variation
+19. Queen's Gambit Accepted: Classical Defense, Main Line
+20. Queen's Gambit Accepted: Classical Defense, Normal Line
+21. Queen's Gambit Accepted: Classical Defense, Rubinstein Variation
+22. Queen's Gambit Accepted: Classical Defense, Russian Gambit
+23. Queen's Gambit Accepted: Classical Defense, Steinitz Variation, Development Variation
+24. Queen's Gambit Accepted: Classical Defense, Steinitz Variation, Exchange Variation
+25. Queen's Gambit Accepted: Classical, Flohr Variation
+26. Queen's Gambit Accepted: Classical, Furman Variation
+27. Queen's Gambit Accepted: Furman Variation
+28. Queen's Gambit Accepted: Godes Variation
+29. Queen's Gambit Accepted: Gunsberg Defense
+30. Queen's Gambit Accepted: Gunsberg Defense, Prianishenmo Gambit
+31. Queen's Gambit Accepted: Janowski-Larsen Variation
+32. Queen's Gambit Accepted: Linares Variation
+33. Queen's Gambit Accepted: Mannheim Variation
+34. Queen's Gambit Accepted: Normal Variation
+35. Queen's Gambit Accepted: Normal Variation, Traditional System
+36. Queen's Gambit Accepted: Old Variation
+37. Queen's Gambit Accepted: Old Variation, Billinger Gambit
+38. Queen's Gambit Accepted: Old Variation, Christensen Gambit
+39. Queen's Gambit Accepted: Old Variation, Korchnoi Gambit
+40. Queen's Gambit Accepted: Old Variation, Novikov Gambit
+41. Queen's Gambit Accepted: Rosenthal Variation
+42. Queen's Gambit Accepted: Saduleto Variation
+43. Queen's Gambit Accepted: Schwartz Defense
+44. Queen's Gambit Accepted: Showalter Variation
+45. Queen's Gambit Accepted: Slav Gambit
+46. Queen's Gambit Accepted: Smyslov Variation
+47. Queen's Gambit Accepted: Winawer Defense

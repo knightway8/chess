@@ -1,0 +1,36 @@
+Pirc Defense
+============
+
+This family is a response to a king-pawn center. Determine whether the center is challenged
+immediately or invited forward, then identify the freeing break and the piece most likely to
+be restricted. Sound defense needs active counterplay.
+
+The source contains 23 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Pirc Defense
+2. Pirc Defense: 150 Attack
+3. Pirc Defense: 150 Attack, Inner Doll Defense
+4. Pirc Defense: 150 Attack, Sveshnikov-Jansa Attack
+5. Pirc Defense: Austrian Attack
+6. Pirc Defense: Austrian Attack, Dragon Formation
+7. Pirc Defense: Austrian Attack, Kurajica Variation
+8. Pirc Defense: Austrian Attack, Ljubojevic Variation
+9. Pirc Defense: Austrian Attack, Unzicker Attack
+10. Pirc Defense: Austrian Attack, Unzicker Attack, Bronstein Variation
+11. Pirc Defense: Austrian Attack, Weiss Variation
+12. Pirc Defense: Bayonet Attack
+13. Pirc Defense: Byrne Variation
+14. Pirc Defense: Chinese Variation
+15. Pirc Defense: Classical Variation
+16. Pirc Defense: Classical Variation, Quiet System
+17. Pirc Defense: Classical Variation, Quiet System, Chigorin Line
+18. Pirc Defense: Classical Variation, Quiet System, Czech Defense
+19. Pirc Defense: Classical Variation, Quiet System, Parma Defense
+20. Pirc Defense: Classical Variation, Schlechter Variation
+21. Pirc Defense: Kholmov System
+22. Pirc Defense: Roscher Gambit
+23. Pirc Defense: Sveshnikov System

@@ -1,0 +1,24 @@
+Rat Defense
+===========
+
+This is a rare, early-stage, or transpositional opening label. Begin with threats, center,
+development, and king safety. Ask what the unusual order permits or delays; do not assume
+that rarity proves either strength or weakness.
+
+The source contains 11 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Rat Defense: Accelerated Gurgenidze
+2. Rat Defense: Antal Defense
+3. Rat Defense: Balogh Defense
+4. Rat Defense: English Rat
+5. Rat Defense: English Rat, Lisbon Gambit
+6. Rat Defense: English Rat, Pounds Gambit
+7. Rat Defense: Fuller Gambit
+8. Rat Defense: Harmonist
+9. Rat Defense: Petruccioli Attack
+10. Rat Defense: Small Center Defense
+11. Rat Defense: Spike Attack

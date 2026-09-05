@@ -1,0 +1,48 @@
+King's Pawn Game
+================
+
+This is a rare, early-stage, or transpositional opening label. Begin with threats, center,
+development, and king safety. Ask what the unusual order permits or delays; do not assume
+that rarity proves either strength or weakness.
+
+The source contains 35 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. King's Pawn Game
+2. King's Pawn Game: Alapin Opening
+3. King's Pawn Game: Bavarian Gambit
+4. King's Pawn Game: Beyer Gambit
+5. King's Pawn Game: Busch-Gass Gambit
+6. King's Pawn Game: Busch-Gass Gambit, Chiodini Gambit
+7. King's Pawn Game: Clam Variation, King's Gambit Reversed
+8. King's Pawn Game: Clam Variation, Radisch Gambit
+9. King's Pawn Game: Damiano Defense
+10. King's Pawn Game: Damiano Defense, Damiano Gambit
+11. King's Pawn Game: Damiano Defense, Damiano Gambit, Chigorin Gambit
+12. King's Pawn Game: Dresden Opening
+13. King's Pawn Game: Gunderam Defense, Gunderam Gambit
+14. King's Pawn Game: Gunderam Gambit
+15. King's Pawn Game: King's Head Opening
+16. King's Pawn Game: La Bourdonnais Gambit
+17. King's Pawn Game: Leonardis Variation
+18. King's Pawn Game: MacLeod Attack
+19. King's Pawn Game: MacLeod Attack, Lasa Gambit
+20. King's Pawn Game: MacLeod Attack, Norwalde Gambit
+21. King's Pawn Game: Maróczy Defense
+22. King's Pawn Game: McConnell Defense
+23. King's Pawn Game: Mengarini's Opening
+24. King's Pawn Game: Napoleon Attack
+25. King's Pawn Game: Pachman Wing Gambit
+26. King's Pawn Game: Philidor Gambit
+27. King's Pawn Game: Schulze-Müller Gambit
+28. King's Pawn Game: Tayler Opening
+29. King's Pawn Game: Tayler Opening, Basman Gambit
+30. King's Pawn Game: Tayler Opening, Inverted Hanham
+31. King's Pawn Game: Tortoise Opening
+32. King's Pawn Game: Wayward Queen Attack
+33. King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit
+34. King's Pawn Game: Wayward Queen Attack, Mellon Gambit
+35. King's Pawn Game: Weber Gambit

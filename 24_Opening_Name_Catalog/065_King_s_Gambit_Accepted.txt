@@ -1,0 +1,142 @@
+King's Gambit Accepted
+======================
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 128 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. King's Gambit Accepted
+2. King's Gambit Accepted: Abbazia Defense
+3. King's Gambit Accepted: Abbazia Defense, Main Line
+4. King's Gambit Accepted: Allgaier Gambit
+5. King's Gambit Accepted: Allgaier Gambit, Thorold Attack
+6. King's Gambit Accepted: Allgaier Gambit, Urusov Attack
+7. King's Gambit Accepted: Allgaier, Blackburne Gambit
+8. King's Gambit Accepted: Allgaier, Cook Variation
+9. King's Gambit Accepted: Allgaier, Horny Defense
+10. King's Gambit Accepted: Allgaier, Schlechter Defense
+11. King's Gambit Accepted: Allgaier, Urusov Attack
+12. King's Gambit Accepted: Australian Gambit
+13. King's Gambit Accepted: Basman Gambit
+14. King's Gambit Accepted: Becker Defense
+15. King's Gambit Accepted: Bishop's Gambit
+16. King's Gambit Accepted: Bishop's Gambit, Anderssen Defense
+17. King's Gambit Accepted: Bishop's Gambit, Anderssen Variation
+18. King's Gambit Accepted: Bishop's Gambit, Bledow Countergambit
+19. King's Gambit Accepted: Bishop's Gambit, Bledow Variation
+20. King's Gambit Accepted: Bishop's Gambit, Boden Variation
+21. King's Gambit Accepted: Bishop's Gambit, Bogoljubow Defense
+22. King's Gambit Accepted: Bishop's Gambit, Bogoljubow Variation
+23. King's Gambit Accepted: Bishop's Gambit, Boren-Svenonius Variation
+24. King's Gambit Accepted: Bishop's Gambit, Bryan Countergambit
+25. King's Gambit Accepted: Bishop's Gambit, Chigorin's Attack
+26. King's Gambit Accepted: Bishop's Gambit, Classical Defense
+27. King's Gambit Accepted: Bishop's Gambit, Classical Defense, Cozio Attack
+28. King's Gambit Accepted: Bishop's Gambit, Cozio Defense
+29. King's Gambit Accepted: Bishop's Gambit, Cozio Variation
+30. King's Gambit Accepted: Bishop's Gambit, First Jaenisch Variation
+31. King's Gambit Accepted: Bishop's Gambit, Fraser Variation
+32. King's Gambit Accepted: Bishop's Gambit, Gianutio Gambit
+33. King's Gambit Accepted: Bishop's Gambit, Greco Variation
+34. King's Gambit Accepted: Bishop's Gambit, Grimm Attack
+35. King's Gambit Accepted: Bishop's Gambit, Kieseritzky Gambit
+36. King's Gambit Accepted: Bishop's Gambit, Lopez Defense
+37. King's Gambit Accepted: Bishop's Gambit, Lopez Variation
+38. King's Gambit Accepted: Bishop's Gambit, Maurian Defense
+39. King's Gambit Accepted: Bishop's Gambit, McDonnell Attack
+40. King's Gambit Accepted: Bishop's Gambit, Paulsen Attack
+41. King's Gambit Accepted: Bishop's Gambit, Steinitz Defense
+42. King's Gambit Accepted: Blachly Gambit
+43. King's Gambit Accepted: Bonsch-Osmolovsky Variation
+44. King's Gambit Accepted: Breyer Gambit
+45. King's Gambit Accepted: Carrera Gambit
+46. King's Gambit Accepted: Cunningham Defense
+47. King's Gambit Accepted: Cunningham Defense, Bertin Gambit
+48. King's Gambit Accepted: Cunningham Defense, McCormick Defense
+49. King's Gambit Accepted: Dodo Variation
+50. King's Gambit Accepted: Double Muzio Gambit
+51. King's Gambit Accepted: Double Muzio Gambit, Baldwin Gambit
+52. King's Gambit Accepted: Double Muzio Gambit, Bello Gambit
+53. King's Gambit Accepted: Double Muzio Gambit, Paulsen Defense
+54. King's Gambit Accepted: Double Muzio Gambit, Young Gambit
+55. King's Gambit Accepted: Eisenberg Variation
+56. King's Gambit Accepted: Fischer Defense
+57. King's Gambit Accepted: Fischer Defense, Schulder Gambit
+58. King's Gambit Accepted: Fischer Defense, Spanish Variation
+59. King's Gambit Accepted: Gaga Gambit
+60. King's Gambit Accepted: Ghulam-Kassim Gambit
+61. King's Gambit Accepted: Gianutio Countergambit
+62. King's Gambit Accepted: Greco Gambit
+63. King's Gambit Accepted: Hanstein Gambit
+64. King's Gambit Accepted: Kieseritzky Gambit
+65. King's Gambit Accepted: Kieseritzky Gambit, Anderssen Defense
+66. King's Gambit Accepted: Kieseritzky Gambit, Anderssen-Cordel Gambit
+67. King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense
+68. King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense, de Riviere Variation
+69. King's Gambit Accepted: Kieseritzky Gambit, Berlin Defense, Rubinstein Variation
+70. King's Gambit Accepted: Kieseritzky Gambit, Brentano Defense
+71. King's Gambit Accepted: Kieseritzky Gambit, Brentano Defense, Caro Variation
+72. King's Gambit Accepted: Kieseritzky Gambit, Cotter Gambit
+73. King's Gambit Accepted: Kieseritzky Gambit, Kolisch Defense
+74. King's Gambit Accepted: Kieseritzky Gambit, Long Whip
+75. King's Gambit Accepted: Kieseritzky Gambit, Neumann Defense
+76. King's Gambit Accepted: Kieseritzky Gambit, Paulsen Defense
+77. King's Gambit Accepted: Kieseritzky Gambit, Paulsen Defense Deferred
+78. King's Gambit Accepted: Kieseritzky Gambit, Rice Gambit
+79. King's Gambit Accepted: Kieseritzky Gambit, Rosenthal Defense
+80. King's Gambit Accepted: Kieseritzky, Long Whip Defense, Jaenisch Variation
+81. King's Gambit Accepted: Kieseritzky, Polerio Defense
+82. King's Gambit Accepted: Kieseritzky, Rice Gambit
+83. King's Gambit Accepted: Kieseritzky, Salvio Defense, Cozio Variation
+84. King's Gambit Accepted: King's Knight's Gambit
+85. King's Gambit Accepted: Kotov Gambit
+86. King's Gambit Accepted: Lolli Gambit
+87. King's Gambit Accepted: Lolli Gambit, Young Variation
+88. King's Gambit Accepted: Lopez-Gianutio Countergambit, Hein Variation
+89. King's Gambit Accepted: MacLeod Defense
+90. King's Gambit Accepted: Mason-Keres Gambit
+91. King's Gambit Accepted: Mayet Gambit
+92. King's Gambit Accepted: McDonnell Gambit
+93. King's Gambit Accepted: Middleton Countergambit
+94. King's Gambit Accepted: Modern Defense
+95. King's Gambit Accepted: Muzio Gambit Accepted, From's Defense
+96. King's Gambit Accepted: Muzio Gambit, Brentano Defense
+97. King's Gambit Accepted: Muzio Gambit, Holloway Defense
+98. King's Gambit Accepted: Muzio Gambit, Kling and Horwitz Counterattack
+99. King's Gambit Accepted: Muzio Gambit, Sarratt Defense
+100. King's Gambit Accepted: Muzio Gambit, Wild Muzio Gambit
+101. King's Gambit Accepted: Orsini Gambit
+102. King's Gambit Accepted: Paris Gambit
+103. King's Gambit Accepted: Philidor Gambit
+104. King's Gambit Accepted: Philidor Gambit, Schultz Variation
+105. King's Gambit Accepted: Quaade Gambit
+106. King's Gambit Accepted: Rosentreter Gambit
+107. King's Gambit Accepted: Rosentreter Gambit, Bird Gambit
+108. King's Gambit Accepted: Rosentreter Gambit, Sörensen Gambit
+109. King's Gambit Accepted: Rosentreter Gambit, Testa Variation
+110. King's Gambit Accepted: Salvio Gambit
+111. King's Gambit Accepted: Salvio Gambit, Anderssen Counterattack
+112. King's Gambit Accepted: Salvio Gambit, Cochrane Gambit
+113. King's Gambit Accepted: Salvio Gambit, Santa Maria Defense
+114. King's Gambit Accepted: Salvio Gambit, Silberschmidt Defense
+115. King's Gambit Accepted: Salvio Gambit, Viennese Variation
+116. King's Gambit Accepted: Schallopp Defense
+117. King's Gambit Accepted: Schallopp Defense, Tashkent Attack
+118. King's Gambit Accepted: Schurig Gambit, distinguished by bishop move
+119. King's Gambit Accepted: Schurig Gambit, distinguished by bishop move [distinct source
+label 2]
+120. King's Gambit Accepted: Silberschmidt Gambit
+121. King's Gambit Accepted: Stamma Gambit
+122. King's Gambit Accepted: Sörensen Gambit
+123. King's Gambit Accepted: Tartakower Gambit
+124. King's Gambit Accepted: Tartakower Gambit, Weiss Defense
+125. King's Gambit Accepted: Traditional Variation
+126. King's Gambit Accepted: Tumbleweed
+127. King's Gambit Accepted: Villemson Gambit
+128. King's Gambit Accepted: Wagenbach Defense

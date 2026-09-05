@@ -1,0 +1,23 @@
+Neo-Grünfeld Defense
+====================
+
+This family is connected to delayed central occupation, pressure on a pawn center, or an
+asymmetrical queen-pawn structure. Identify which side has space, which breaks challenge it,
+and which bishop or knight changes value when the center opens.
+
+The source contains 10 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Neo-Grünfeld Defense: Classical Variation
+2. Neo-Grünfeld Defense: Classical Variation, Modern Defense
+3. Neo-Grünfeld Defense: Classical Variation, Original Defense
+4. Neo-Grünfeld Defense: Classical Variation, Polgar Variation
+5. Neo-Grünfeld Defense: Delayed Exchange Variation
+6. Neo-Grünfeld Defense: Exchange Variation
+7. Neo-Grünfeld Defense: Goglidze Attack
+8. Neo-Grünfeld Defense: Ultra-Delayed Exchange Variation
+9. Neo-Grünfeld Defense: with knight move
+10. Neo-Grünfeld Defense: with pawn move

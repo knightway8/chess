@@ -1,0 +1,53 @@
+Vienna Game
+===========
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 40 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Vienna Game
+2. Vienna Game: Adams' Gambit
+3. Vienna Game: Anderssen Defense
+4. Vienna Game: Falkbeer Variation
+5. Vienna Game: Frankenstein-Dracula Variation
+6. Vienna Game: Fyfe Gambit
+7. Vienna Game: Giraffe Attack
+8. Vienna Game: Hamppe-Meitner Variation
+9. Vienna Game: Hamppe-Muzio Gambit
+10. Vienna Game: Hamppe-Muzio, Dubois Variation
+11. Vienna Game: Heyde Variation
+12. Vienna Game: Max Lange Defense
+13. Vienna Game: Mengarini Variation
+14. Vienna Game: Mieses Variation
+15. Vienna Game: Mieses Variation, Erben Gambit
+16. Vienna Game: Omaha Gambit
+17. Vienna Game: Paulsen Variation
+18. Vienna Game: Paulsen Variation, Mariotti Gambit
+19. Vienna Game: Paulsen Variation, Pollock Gambit
+20. Vienna Game: Philidor Countergambit
+21. Vienna Game: Pierce Gambit, Rushmere Attack
+22. Vienna Game: Stanley Variation
+23. Vienna Game: Stanley Variation, Alekhine Variation
+24. Vienna Game: Stanley Variation, Bronstein Gambit
+25. Vienna Game: Stanley Variation, Eifel Gambit
+26. Vienna Game: Stanley Variation, Frankenstein-Dracula Variation
+27. Vienna Game: Stanley Variation, Meitner-Mieses Gambit
+28. Vienna Game: Stanley Variation, Monster Declined
+29. Vienna Game: Stanley Variation, Reversed Spanish
+30. Vienna Game: Stanley Variation, Three Knights Variation
+31. Vienna Game: Vienna Gambit
+32. Vienna Game: Vienna Gambit, Bardeleben Variation
+33. Vienna Game: Vienna Gambit, Breyer Variation
+34. Vienna Game: Vienna Gambit, Kaufmann Variation
+35. Vienna Game: Vienna Gambit, Main Line
+36. Vienna Game: Vienna Gambit, Modern Variation
+37. Vienna Game: Vienna Gambit, Paulsen Attack
+38. Vienna Game: Vienna Gambit, Steinitz Variation
+39. Vienna Game: Vienna Gambit, Wurzburger Trap
+40. Vienna Game: Zhuravlev Countergambit

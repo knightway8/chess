@@ -1,0 +1,54 @@
+Nimzowitsch Defense
+===================
+
+This family is a response to a king-pawn center. Determine whether the center is challenged
+immediately or invited forward, then identify the freeing break and the piece most likely to
+be restricted. Sound defense needs active counterplay.
+
+The source contains 41 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Nimzowitsch Defense
+2. Nimzowitsch Defense: Breyer Variation
+3. Nimzowitsch Defense: Colorado Countergambit
+4. Nimzowitsch Defense: Colorado Countergambit Accepted
+5. Nimzowitsch Defense: Declined Variation
+6. Nimzowitsch Defense: El Columpio Defense
+7. Nimzowitsch Defense: El Columpio Defense, El Columpio Gambit
+8. Nimzowitsch Defense: El Columpio Defense, Exchange Variation
+9. Nimzowitsch Defense: El Columpio Defense, Pin Variation
+10. Nimzowitsch Defense: Franco-Nimzowitsch Variation
+11. Nimzowitsch Defense: French Connection
+12. Nimzowitsch Defense: Hornung Gambit
+13. Nimzowitsch Defense: Kennedy Variation
+14. Nimzowitsch Defense: Kennedy Variation, Bielefelder Gambit
+15. Nimzowitsch Defense: Kennedy Variation, de Smet Gambit
+16. Nimzowitsch Defense: Kennedy Variation, Hammer Gambit
+17. Nimzowitsch Defense: Kennedy Variation, Herford Gambit
+18. Nimzowitsch Defense: Kennedy Variation, Keres Attack
+19. Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation
+20. Nimzowitsch Defense: Kennedy Variation, Main Line
+21. Nimzowitsch Defense: Kennedy Variation, Paulsen Attack
+22. Nimzowitsch Defense: Kennedy Variation, Riemann Defense
+23. Nimzowitsch Defense: Mikenas Variation
+24. Nimzowitsch Defense: Neo-Mongoloid Defense
+25. Nimzowitsch Defense: Pirc Connection
+26. Nimzowitsch Defense: Pseudo-Spanish Variation
+27. Nimzowitsch Defense: Scandinavian Variation
+28. Nimzowitsch Defense: Scandinavian Variation, Aachen Gambit
+29. Nimzowitsch Defense: Scandinavian Variation, Advance Variation
+30. Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation
+31. Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Brandics Gambit
+32. Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Erben Gambit
+33. Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Heinola-Deppe Gambit
+34. Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Nimzowitsch Gambit
+35. Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Richter Gambit
+36. Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Vehre Variation
+37. Nimzowitsch Defense: Scandinavian Variation, Exchange Variation
+38. Nimzowitsch Defense: Scandinavian Variation, Exchange Variation, Marshall Gambit
+39. Nimzowitsch Defense: Wheeler Gambit
+40. Nimzowitsch Defense: Williams Variation
+41. Nimzowitsch Defense: Woodchuck Variation

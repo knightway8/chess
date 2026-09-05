@@ -1,0 +1,22 @@
+Trompowsky Attack
+=================
+
+This family belongs to queen-pawn structures or systems. Locate the central tension, the
+queen-bishop development problem, and the main freeing break. A familiar setup must still
+adapt to the opponent’s structure.
+
+The source contains 9 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Trompowsky Attack
+2. Trompowsky Attack: Borg Variation
+3. Trompowsky Attack: Classical Defense
+4. Trompowsky Attack: Classical Defense, Big Center Variation
+5. Trompowsky Attack: Edge Variation
+6. Trompowsky Attack: Edge Variation, Hergert Gambit
+7. Trompowsky Attack: Poisoned Pawn Variation
+8. Trompowsky Attack: Raptor Variation
+9. Trompowsky Attack: Raptor Variation, Hergert Gambit

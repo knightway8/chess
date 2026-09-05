@@ -1,0 +1,62 @@
+Semi-Slav Defense
+=================
+
+This family belongs to queen-pawn structures or systems. Locate the central tension, the
+queen-bishop development problem, and the main freeing break. A familiar setup must still
+adapt to the opponent’s structure.
+
+The source contains 49 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Semi-Slav Defense
+2. Semi-Slav Defense: Accelerated Meran Variation
+3. Semi-Slav Defense: Accelerated Move Order
+4. Semi-Slav Defense: Anti-Moscow Gambit
+5. Semi-Slav Defense: Anti-Noteboom, Stonewall Variation
+6. Semi-Slav Defense: Anti-Noteboom, Stonewall Variation, Portisch Gambit
+7. Semi-Slav Defense: Bogoljubow Variation
+8. Semi-Slav Defense: Botvinnik Variation
+9. Semi-Slav Defense: Botvinnik Variation, Alatortsev System
+10. Semi-Slav Defense: Botvinnik Variation, Ekstrom Variation
+11. Semi-Slav Defense: Botvinnik Variation, Lilienthal Variation
+12. Semi-Slav Defense: Botvinnik Variation, Szabo Variation
+13. Semi-Slav Defense: Chigorin Defense
+14. Semi-Slav Defense: Gunderam Gambit
+15. Semi-Slav Defense: Hastings Variation
+16. Semi-Slav Defense: Main Line
+17. Semi-Slav Defense: Marshall Gambit
+18. Semi-Slav Defense: Marshall Gambit, Forgotten Variation
+19. Semi-Slav Defense: Marshall Gambit, Main Line
+20. Semi-Slav Defense: Marshall Gambit, Tolush Variation
+21. Semi-Slav Defense: Meran Variation
+22. Semi-Slav Defense: Meran Variation, Blumenfeld Variation
+23. Semi-Slav Defense: Meran Variation, Lundin Variation
+24. Semi-Slav Defense: Meran Variation, Old Variation
+25. Semi-Slav Defense: Meran Variation, Pirc Variation
+26. Semi-Slav Defense: Meran Variation, Rabinovich Variation
+27. Semi-Slav Defense: Meran Variation, Rellstab Attack
+28. Semi-Slav Defense: Meran Variation, Reynolds' Variation
+29. Semi-Slav Defense: Meran Variation, Sozin Variation
+30. Semi-Slav Defense: Meran Variation, Stahlberg Variation
+31. Semi-Slav Defense: Meran Variation, Wade Variation
+32. Semi-Slav Defense: Meran Variation, Wade Variation, Kaidanov Gambit
+33. Semi-Slav Defense: Meran Variation, Wade Variation, Larsen Variation
+34. Semi-Slav Defense: Moscow Variation
+35. Semi-Slav Defense: Normal Variation
+36. Semi-Slav Defense: Noteboom Variation
+37. Semi-Slav Defense: Noteboom Variation, Abrahams Variation
+38. Semi-Slav Defense: Noteboom Variation, Anti-Noteboom Gambit
+39. Semi-Slav Defense: Noteboom Variation, Anti-Noteboom Variation
+40. Semi-Slav Defense: Noteboom Variation, Anti-Noteboom Variation, Belyavsky Line
+41. Semi-Slav Defense: Quiet Variation
+42. Semi-Slav Defense: Romih Variation
+43. Semi-Slav Defense: Rubinstein System
+44. Semi-Slav Defense: Semi-Meran Variation
+45. Semi-Slav Defense: Stoltz Variation
+46. Semi-Slav Defense: Stoltz Variation, Center Variation
+47. Semi-Slav Defense: Stoltz Variation, Center Variation, Mikhalchishin Line
+48. Semi-Slav Defense: Stoltz Variation, Shabalov Attack
+49. Semi-Slav Defense: Stonewall Defense

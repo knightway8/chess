@@ -1,0 +1,63 @@
+Queen's Indian Defense
+======================
+
+This family is connected to delayed central occupation, pressure on a pawn center, or an
+asymmetrical queen-pawn structure. Identify which side has space, which breaks challenge it,
+and which bishop or knight changes value when the center opens.
+
+The source contains 50 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Queen's Indian Defense
+2. Queen's Indian Defense, distinguished by pawn move
+3. Queen's Indian Defense, distinguished by pawn move, bishop move Line
+4. Queen's Indian Defense: Anti-Queen's Indian System
+5. Queen's Indian Defense: Averbakh Variation
+6. Queen's Indian Defense: Buerger Variation
+7. Queen's Indian Defense: Capablanca Variation
+8. Queen's Indian Defense: Classical Variation
+9. Queen's Indian Defense: Classical Variation, Polugaevsky Gambit
+10. Queen's Indian Defense: Classical Variation, Taimanov Gambit
+11. Queen's Indian Defense: Classical Variation, Tiviakov Defense
+12. Queen's Indian Defense: Classical Variation, Traditional Variation
+13. Queen's Indian Defense: Classical Variation, Traditional Variation, Main Line
+14. Queen's Indian Defense: Classical Variation, Traditional Variation, Nimzowitsch Line
+15. Queen's Indian Defense: Euwe Variation
+16. Queen's Indian Defense: Fianchetto Variation
+17. Queen's Indian Defense: Fianchetto Variation, Check Variation
+18. Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line
+19. Queen's Indian Defense: Fianchetto Variation, Check Variation, Modern Line
+20. Queen's Indian Defense: Fianchetto Variation, Kramnik Variation
+21. Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation
+22. Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Nimzowitsch Attack
+23. Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Quiet Line
+24. Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Timman's Line
+25. Queen's Indian Defense: Fianchetto Variation, Rubinstein Variation
+26. Queen's Indian Defense: Fianchetto Variation, Sämisch Variation
+27. Queen's Indian Defense: Fianchetto Variation, Traditional Line
+28. Queen's Indian Defense: Kasparov Variation
+29. Queen's Indian Defense: Kasparov Variation, Botvinnik Attack
+30. Queen's Indian Defense: Kasparov-Petrosian Variation
+31. Queen's Indian Defense: Kasparov-Petrosian Variation, Andersson Variation
+32. Queen's Indian Defense: Kasparov-Petrosian Variation, Classical Variation
+33. Queen's Indian Defense: Kasparov-Petrosian Variation, Hedgehog Variation
+34. Queen's Indian Defense: Kasparov-Petrosian Variation, Kasparov Attack
+35. Queen's Indian Defense: Kasparov-Petrosian Variation, Main Line
+36. Queen's Indian Defense: Kasparov-Petrosian Variation, Marco Defense
+37. Queen's Indian Defense: Kasparov-Petrosian Variation, Modern Variation
+38. Queen's Indian Defense: Kasparov-Petrosian Variation, Petrosian Attack
+39. Queen's Indian Defense: Kasparov-Petrosian Variation, Polovodin Gambit
+40. Queen's Indian Defense: Kasparov-Petrosian Variation, Rashkovsky Attack
+41. Queen's Indian Defense: Kasparov-Petrosian Variation, Romanishin Attack
+42. Queen's Indian Defense: Miles Variation
+43. Queen's Indian Defense: Opocensky Variation
+44. Queen's Indian Defense: Petrosian Variation
+45. Queen's Indian Defense: Petrosian Variation, Farago Defense
+46. Queen's Indian Defense: Riumin Variation
+47. Queen's Indian Defense: Spassky System
+48. Queen's Indian Defense: Spassky System3
+49. Queen's Indian Defense: Traditional Variation
+50. Queen's Indian Defense: Yates Variation

@@ -1,0 +1,342 @@
+Sicilian Defense
+================
+
+This family belongs to the asymmetrical Sicilian complex. Use the names below as a map, then
+study the exact center, open files, pawn breaks, and king placements on a legal board.
+Similar labels can hide important move-order differences.
+
+The source contains 327 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Sicilian Defense
+2. Sicilian Defense: Accelerated Dragon
+3. Sicilian Defense: Accelerated Dragon, Exchange Variation
+4. Sicilian Defense: Accelerated Dragon, Maróczy Bind
+5. Sicilian Defense: Accelerated Dragon, Maróczy Bind, Breyer Variation
+6. Sicilian Defense: Accelerated Dragon, Maróczy Bind, Gurgenidze Variation
+7. Sicilian Defense: Accelerated Dragon, Modern bishop move Variation
+8. Sicilian Defense: Accelerated Dragon, Modern Variation
+9. Sicilian Defense: Accelerated Dragon, Simagin Variation
+10. Sicilian Defense: Acton Extension
+11. Sicilian Defense: Alapin Variation
+12. Sicilian Defense: Alapin Variation, Anti-Alapin Gambit
+13. Sicilian Defense: Alapin Variation, Barmen Defense
+14. Sicilian Defense: Alapin Variation, Barmen Defense, Central Exchange
+15. Sicilian Defense: Alapin Variation, Barmen Defense, Endgame Variation
+16. Sicilian Defense: Alapin Variation, Barmen Defense, Milner-Barry Attack
+17. Sicilian Defense: Alapin Variation, Barmen Defense, Modern Line
+18. Sicilian Defense: Alapin Variation, Sherzer Variation
+19. Sicilian Defense: Alapin Variation, Smith-Morra Declined
+20. Sicilian Defense: Alapin Variation, Stoltz Attack
+21. Sicilian Defense: Alapin Variation, Stoltz Attack, Ivanchuk Line
+22. Sicilian Defense: Amazon Attack
+23. Sicilian Defense: Big Clamp Formation
+24. Sicilian Defense: Boleslavsky Variation
+25. Sicilian Defense: Boleslavsky Variation, Louma Variation
+26. Sicilian Defense: Bowdler Attack
+27. Sicilian Defense: Brick Variation
+28. Sicilian Defense: Brussels Gambit
+29. Sicilian Defense: Bücker Variation
+30. Sicilian Defense: Chekhover Variation
+31. Sicilian Defense: Chekhover Variation, Zaitsev Defense
+32. Sicilian Defense: Classical Variation
+33. Sicilian Defense: Classical Variation, Anti-Sozin Variation
+34. Sicilian Defense: Classical Variation, Dragon Transfer
+35. Sicilian Defense: Classical Variation, Fianchetto Variation
+36. Sicilian Defense: Classical Variation, Sozin Attack
+37. Sicilian Defense: Closed
+38. Sicilian Defense: Closed, Anti-Sveshnikov Variation
+39. Sicilian Defense: Closed, Anti-Sveshnikov Variation, distinguished by knight move
+40. Sicilian Defense: Closed, Anti-Sveshnikov Variation, distinguished by pawn move
+41. Sicilian Defense: Closed, Anti-Sveshnikov Variation, Kharlov-Kramnik Line
+42. Sicilian Defense: Closed, Botvinnik Defense, distinguished by Nge2
+43. Sicilian Defense: Closed, Botvinnik Defense, distinguished by pawn move
+44. Sicilian Defense: Closed, Botvinnik Defense, Edge Variation
+45. Sicilian Defense: Closed, Carlsen Variation
+46. Sicilian Defense: Closed, Chameleon Variation
+47. Sicilian Defense: Closed, Fianchetto Variation
+48. Sicilian Defense: Closed, Grob Attack
+49. Sicilian Defense: Closed, Korchnoi Defense
+50. Sicilian Defense: Closed, Portland Attack
+51. Sicilian Defense: Closed, Smyslov Variation
+52. Sicilian Defense: Closed, Traditional
+53. Sicilian Defense: Coles Sicilian Gambit
+54. Sicilian Defense: Czerniak Attack
+55. Sicilian Defense: Czerniak Attack, Queen Fianchetto Variation
+56. Sicilian Defense: Delayed Alapin Variation
+57. Sicilian Defense: Delayed Alapin Variation, Basman-Palatnik Double Gambit
+58. Sicilian Defense: Delayed Alapin Variation, Basman-Palatnik Gambit
+59. Sicilian Defense: Delayed Alapin Variation, distinguished by pawn move
+60. Sicilian Defense: Delayed Alapin Variation, distinguished by pawn move [distinct source
+label 2]
+61. Sicilian Defense: Double-Dutch Gambit
+62. Sicilian Defense: Dragon Variation
+63. Sicilian Defense: Dragon Variation, Accelerated Dragon
+64. Sicilian Defense: Dragon Variation, Classical Variation
+65. Sicilian Defense: Dragon Variation, Classical Variation, Alekhine Line
+66. Sicilian Defense: Dragon Variation, Classical Variation, Amsterdam Variation
+67. Sicilian Defense: Dragon Variation, Classical Variation, Battery Variation
+68. Sicilian Defense: Dragon Variation, Classical Variation, Bernard Defense
+69. Sicilian Defense: Dragon Variation, Classical Variation, Grigoriev Variation
+70. Sicilian Defense: Dragon Variation, Classical Variation, Maróczy Line
+71. Sicilian Defense: Dragon Variation, Classical Variation, Normal Line
+72. Sicilian Defense: Dragon Variation, Classical Variation, Spielmann Variation
+73. Sicilian Defense: Dragon Variation, Classical Variation, Stockholm Attack
+74. Sicilian Defense: Dragon Variation, Classical Variation, Tartakower Line
+75. Sicilian Defense: Dragon Variation, Classical Variation, Zollner Gambit
+76. Sicilian Defense: Dragon Variation, Fianchetto Variation
+77. Sicilian Defense: Dragon Variation, Levenfish Variation
+78. Sicilian Defense: Dragon Variation, Levenfish Variation, Main Line
+79. Sicilian Defense: Dragon Variation, Modern bishop move Variation
+80. Sicilian Defense: Dragon Variation, Yugoslav Attack
+81. Sicilian Defense: Dragon Variation, Yugoslav Attack, Belezky Line
+82. Sicilian Defense: Dragon Variation, Yugoslav Attack, Byrne Variation
+83. Sicilian Defense: Dragon Variation, Yugoslav Attack, Chinese Dragon
+84. Sicilian Defense: Dragon Variation, Yugoslav Attack, Czerniak Variation
+85. Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations
+86. Sicilian Defense: Dragon Variation, Yugoslav Attack, Hungarian Dragon
+87. Sicilian Defense: Dragon Variation, Yugoslav Attack, Main Line
+88. Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line
+89. Sicilian Defense: Dragon Variation, Yugoslav Attack, Old Line
+90. Sicilian Defense: Dragon Variation, Yugoslav Attack, Panov Variation
+91. Sicilian Defense: Dragon Variation, Yugoslav Attack, Soltis Variation
+92. Sicilian Defense: Dragon Variation, Yugoslav Attack, Sosonko Variation
+93. Sicilian Defense: Dragon Variation, Yugoslav Attack, Topalov Variation
+94. Sicilian Defense: Drazic Variation
+95. Sicilian Defense: Euwe Attack, Prins Gambit
+96. Sicilian Defense: Flohr Variation
+97. Sicilian Defense: Four Knights Variation
+98. Sicilian Defense: Four Knights Variation, American Attack
+99. Sicilian Defense: Four Knights Variation, Cobra Variation
+100. Sicilian Defense: Four Knights Variation, Exchange Variation
+101. Sicilian Defense: Four Knights Variation, Sveshnikov Transfer
+102. Sicilian Defense: Franco-Sicilian Variation
+103. Sicilian Defense: Frederico Variation
+104. Sicilian Defense: French Variation
+105. Sicilian Defense: French Variation, Normal
+106. Sicilian Defense: French Variation, Open
+107. Sicilian Defense: French Variation, Westerinen Attack
+108. Sicilian Defense: Gaw-Paw Variation
+109. Sicilian Defense: Gloria Variation
+110. Sicilian Defense: Godiva Variation
+111. Sicilian Defense: Grand Prix Attack
+112. Sicilian Defense: Grand Prix Attack, Schofman Variation
+113. Sicilian Defense: Grob Variation
+114. Sicilian Defense: Halasz Gambit
+115. Sicilian Defense: Heidenfeld Variation
+116. Sicilian Defense: Hyperaccelerated Dragon
+117. Sicilian Defense: Hyperaccelerated Pterodactyl
+118. Sicilian Defense: Hyperaccelerated Pterodactyl, Exchange Variation
+119. Sicilian Defense: Jalalabad Variation
+120. Sicilian Defense: Kalashnikov Variation
+121. Sicilian Defense: Kan Variation
+122. Sicilian Defense: Kan Variation, Gipslis Variation
+123. Sicilian Defense: Kan Variation, Knight Variation
+124. Sicilian Defense: Kan Variation, Maróczy Bind, Bronstein Variation
+125. Sicilian Defense: Kan Variation, Maróczy Bind, Hedgehog Variation
+126. Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation
+127. Sicilian Defense: Kan Variation, Modern Variation
+128. Sicilian Defense: Kan Variation, Polugaevsky Variation
+129. Sicilian Defense: Kan Variation, Swiss Cheese Variation
+130. Sicilian Defense: Kan Variation, Wing Attack
+131. Sicilian Defense: Kan Variation, Wing Attack, Christiansen's Dream
+132. Sicilian Defense: Kan Variation, Wing Attack, Fianchetto Variation
+133. Sicilian Defense: Kan Variation, Wing Attack, Spraggett Attack
+134. Sicilian Defense: Katalimov Variation
+135. Sicilian Defense: Keres Variation
+136. Sicilian Defense: King David's Opening
+137. Sicilian Defense: Kopec System
+138. Sicilian Defense: Kotov Gambit
+139. Sicilian Defense: Kramnik Variation
+140. Sicilian Defense: Kronberger Variation
+141. Sicilian Defense: Kronberger Variation, Nemeth Gambit
+142. Sicilian Defense: Kupreichik Variation
+143. Sicilian Defense: Kveinis Variation
+144. Sicilian Defense: Lasker-Dunne Attack
+145. Sicilian Defense: Lasker-Pelikan Variation
+146. Sicilian Defense: Lasker-Pelikan Variation, Bird Variation
+147. Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation
+148. Sicilian Defense: Lasker-Pelikan Variation, Retreat Variation
+149. Sicilian Defense: Lasker-Pelikan Variation, Schlechter Variation
+150. Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation
+151. Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation
+152. Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Novosibirsk Variation
+153. Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Peresypkin's
+Sacrifice
+154. Sicilian Defense: Löwenthal Variation
+155. Sicilian Defense: Magnus Smith Trap
+156. Sicilian Defense: Marshall Counterattack
+157. Sicilian Defense: McDonnell Attack
+158. Sicilian Defense: McDonnell Attack, Tal Gambit
+159. Sicilian Defense: McDonnell Attack, Toilet Variation
+160. Sicilian Defense: Mengarini Variation
+161. Sicilian Defense: Modern Variations
+162. Sicilian Defense: Modern Variations, Anti-queen move Move Order
+163. Sicilian Defense: Modern Variations, Anti-queen move Move Order Accepted
+164. Sicilian Defense: Modern Variations, Ginsberg Gambit
+165. Sicilian Defense: Modern Variations, Main Line
+166. Sicilian Defense: Modern Variations, Tartakower
+167. Sicilian Defense: Mongoose Variation
+168. Sicilian Defense: Morphy Gambit
+169. Sicilian Defense: Morphy Gambit, Andreaschek Gambit
+170. Sicilian Defense: Moscow Variation
+171. Sicilian Defense: Moscow Variation, Dorfman Gambit
+172. Sicilian Defense: Moscow Variation, Haag Gambit
+173. Sicilian Defense: Moscow Variation, Main Line
+174. Sicilian Defense: Moscow Variation, Moscow Gambit
+175. Sicilian Defense: Moscow Variation, Sokolsky Variation
+176. Sicilian Defense: Myers Attack, distinguished by pawn move
+177. Sicilian Defense: Myers Attack, distinguished by pawn move [distinct source label 2]
+178. Sicilian Defense: Najdorf Variation
+179. Sicilian Defense: Najdorf Variation, Adams Attack
+180. Sicilian Defense: Najdorf Variation, Amsterdam Variation
+181. Sicilian Defense: Najdorf Variation, Browne Variation
+182. Sicilian Defense: Najdorf Variation, Dekker Gambit
+183. Sicilian Defense: Najdorf Variation, English Attack
+184. Sicilian Defense: Najdorf Variation, English Attack, Anti-English
+185. Sicilian Defense: Najdorf Variation, Goteborg Variation
+186. Sicilian Defense: Najdorf Variation, Ivkov Variation
+187. Sicilian Defense: Najdorf Variation, Lipnitsky Attack
+188. Sicilian Defense: Najdorf Variation, Main Line
+189. Sicilian Defense: Najdorf Variation, Neo-Classical Defense
+190. Sicilian Defense: Najdorf Variation, Opocensky Variation
+191. Sicilian Defense: Najdorf Variation, Opocensky Variation, Modern Line
+192. Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line
+193. Sicilian Defense: Najdorf Variation, Petronić Attack
+194. Sicilian Defense: Najdorf Variation, Poisoned Pawn Accepted
+195. Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation
+196. Sicilian Defense: Najdorf Variation, Polugaevsky Variation
+197. Sicilian Defense: Najdorf Variation, Polugaevsky Variation, Simagin Line
+198. Sicilian Defense: Najdorf Variation, Scheveningen Variation
+199. Sicilian Defense: Najdorf Variation, Traditional Line
+200. Sicilian Defense: Najdorf Variation, Yates Variation
+201. Sicilian Defense: Najdorf Variation, Zagreb Variation
+202. Sicilian Defense: Nimzo-American Variation
+203. Sicilian Defense: Nimzowitsch Variation
+204. Sicilian Defense: Nimzowitsch Variation, Advance Variation
+205. Sicilian Defense: Nimzowitsch Variation, Closed Variation
+206. Sicilian Defense: Nimzowitsch Variation, Exchange Variation
+207. Sicilian Defense: Nimzowitsch Variation, Main Line
+208. Sicilian Defense: Nyezhmetdinov-Rossolimo Attack
+209. Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Brooklyn Retreat Defense
+210. Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation
+211. Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Gufeld Gambit
+212. Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Lutikov Gambit
+213. Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation, Totsky Attack
+214. Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Gurgenidze Variation
+215. Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, San Francisco Gambit
+216. Sicilian Defense: O'Kelly Variation
+217. Sicilian Defense: O'Kelly Variation, Aronin System
+218. Sicilian Defense: O'Kelly Variation, Kieseritzky System
+219. Sicilian Defense: O'Kelly Variation, Maróczy Bind
+220. Sicilian Defense: O'Kelly Variation, Maróczy Bind, Geller Line
+221. Sicilian Defense: O'Kelly Variation, Maróczy Bind, Paulsen Line
+222. Sicilian Defense: O'Kelly Variation, Maróczy Bind, Robatsch Line
+223. Sicilian Defense: O'Kelly Variation, Normal System
+224. Sicilian Defense: O'Kelly Variation, Normal System, Cortlever Gambit
+225. Sicilian Defense: O'Kelly Variation, Normal System, Smith-Morra Line
+226. Sicilian Defense: O'Kelly Variation, Normal System, Taimanov Line
+227. Sicilian Defense: O'Kelly Variation, Normal System, Zagorovsky Line
+228. Sicilian Defense: O'Kelly Variation, Quiet System
+229. Sicilian Defense: O'Kelly Variation, Réti System
+230. Sicilian Defense: O'Kelly Variation, Venice System
+231. Sicilian Defense: O'Kelly Variation, Venice System, Barcza Line
+232. Sicilian Defense: O'Kelly Variation, Venice System, Gambit Line
+233. Sicilian Defense: O'Kelly Variation, Venice System, Ljubojevic Line
+234. Sicilian Defense: O'Kelly Variation, Venice System, Steiner Line
+235. Sicilian Defense: O'Kelly Variation, Wing Gambit
+236. Sicilian Defense: O'Kelly Variation, Yerevan System
+237. Sicilian Defense: Old Sicilian
+238. Sicilian Defense: Open
+239. Sicilian Defense: Paulsen-Basman Defense
+240. Sicilian Defense: Pin Variation
+241. Sicilian Defense: Pin Variation, Jaffe Variation
+242. Sicilian Defense: Pin Variation, Koch Variation
+243. Sicilian Defense: Polish Gambit
+244. Sicilian Defense: Portsmouth Gambit
+245. Sicilian Defense: Prins Variation
+246. Sicilian Defense: Prins Variation, Venice Attack
+247. Sicilian Defense: Quinteros Variation
+248. Sicilian Defense: Richter-Rauzer Variation
+249. Sicilian Defense: Richter-Rauzer Variation, Classical Variation
+250. Sicilian Defense: Richter-Rauzer Variation, Classical Variation, Kantscher Line
+251. Sicilian Defense: Richter-Rauzer Variation, Dragon Variation
+252. Sicilian Defense: Richter-Rauzer Variation, Exchange Variation
+253. Sicilian Defense: Richter-Rauzer Variation, Ivanov Variation
+254. Sicilian Defense: Richter-Rauzer Variation, Modern Variation
+255. Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation
+256. Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations
+257. Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Nyezhmetdinov Attack
+258. Sicilian Defense: Richter-Rauzer Variation, Podebrady Variation
+259. Sicilian Defense: Richter-Rauzer Variation, Rauzer Attack
+260. Sicilian Defense: Richter-Rauzer Variation, Traditional Variation
+261. Sicilian Defense: Richter-Rauzer Variation, Vitolins Variation
+262. Sicilian Defense: Scheveningen Variation
+263. Sicilian Defense: Scheveningen Variation, Classical Main Line
+264. Sicilian Defense: Scheveningen Variation, Classical Variation
+265. Sicilian Defense: Scheveningen Variation, Classical Variation, Paulsen Variation
+266. Sicilian Defense: Scheveningen Variation, Delayed Keres Attack
+267. Sicilian Defense: Scheveningen Variation, Delayed Keres Attack, Perenyi Gambit
+268. Sicilian Defense: Scheveningen Variation, English Attack, distinguished by pawn move
+269. Sicilian Defense: Scheveningen Variation, English Attack, distinguished by queen move
+270. Sicilian Defense: Scheveningen Variation, Fianchetto Variation
+271. Sicilian Defense: Scheveningen Variation, Keres Attack
+272. Sicilian Defense: Scheveningen Variation, Matanovic Attack
+273. Sicilian Defense: Scheveningen Variation, Modern Variation
+274. Sicilian Defense: Scheveningen Variation, Tal Variation
+275. Sicilian Defense: Scheveningen Variation, Vitolins Variation
+276. Sicilian Defense: Smith-Morra Gambit
+277. Sicilian Defense: Smith-Morra Gambit Accepted
+278. Sicilian Defense: Smith-Morra Gambit Accepted, Chicago Defense
+279. Sicilian Defense: Smith-Morra Gambit Accepted, Classical Formation
+280. Sicilian Defense: Smith-Morra Gambit Accepted, Danish Variation
+281. Sicilian Defense: Smith-Morra Gambit Accepted, Fianchetto Defense
+282. Sicilian Defense: Smith-Morra Gambit Accepted, Finegold Defense
+283. Sicilian Defense: Smith-Morra Gambit Accepted, Kan Formation
+284. Sicilian Defense: Smith-Morra Gambit Accepted, Larsen Defense
+285. Sicilian Defense: Smith-Morra Gambit Accepted, Morphy Defense
+286. Sicilian Defense: Smith-Morra Gambit Accepted, Morphy Defense Deferred
+287. Sicilian Defense: Smith-Morra Gambit Accepted, Paulsen Formation
+288. Sicilian Defense: Smith-Morra Gambit Accepted, Pin Defense
+289. Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation
+290. Sicilian Defense: Smith-Morra Gambit Accepted, Siberian Variation
+291. Sicilian Defense: Smith-Morra Gambit Accepted, Siberian Variation, Siberian Trap
+292. Sicilian Defense: Smith-Morra Gambit Accepted, Sozin Formation
+293. Sicilian Defense: Smith-Morra Gambit Accepted, Taimanov Formation
+294. Sicilian Defense: Smith-Morra Gambit Declined, Alapin Formation
+295. Sicilian Defense: Smith-Morra Gambit Declined, Center Formation
+296. Sicilian Defense: Smith-Morra Gambit Declined, Dubois Variation
+297. Sicilian Defense: Smith-Morra Gambit Declined, Push Variation
+298. Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation
+299. Sicilian Defense: Smith-Morra Gambit Declined, Wing Formation
+300. Sicilian Defense: Smith-Morra Gambit Deferred
+301. Sicilian Defense: Sozin Attack
+302. Sicilian Defense: Sozin Attack, Fischer Variation
+303. Sicilian Defense: Sozin Attack, Flank Variation
+304. Sicilian Defense: Sozin Attack, Leonhardt Variation
+305. Sicilian Defense: Sozin Attack, Main Line
+306. Sicilian Defense: Sozin Attack, Main Line, Sherbakov Variation
+307. Sicilian Defense: Spielmann Variation
+308. Sicilian Defense: Staunton-Cochrane Variation
+309. Sicilian Defense: Taimanov Variation
+310. Sicilian Defense: Taimanov Variation, Bastrikov Variation
+311. Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack
+312. Sicilian Defense: Taimanov Variation, Bastrikov Variation, Ponomariov Gambit
+313. Sicilian Defense: Taimanov Variation, Gary Gambit
+314. Sicilian Defense: Taimanov Variation, Modern Line
+315. Sicilian Defense: Taimanov Variation, Szén Variation
+316. Sicilian Defense: Velimirovic Attack
+317. Sicilian Defense: Venice Attack
+318. Sicilian Defense: Wing Gambit
+319. Sicilian Defense: Wing Gambit Deferred
+320. Sicilian Defense: Wing Gambit, Abrahams Variation
+321. Sicilian Defense: Wing Gambit, Carlsbad Variation
+322. Sicilian Defense: Wing Gambit, Deferred Variation
+323. Sicilian Defense: Wing Gambit, Marienbad Variation
+324. Sicilian Defense: Wing Gambit, Marshall Variation
+325. Sicilian Defense: Wing Gambit, Nanu Gambit
+326. Sicilian Defense: Wing Gambit, Romanian Defense
+327. Sicilian Defense: Wing Gambit, Santasiere Variation

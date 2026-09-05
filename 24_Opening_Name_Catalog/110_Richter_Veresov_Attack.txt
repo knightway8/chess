@@ -1,0 +1,20 @@
+Richter-Veresov Attack
+======================
+
+This family belongs to queen-pawn structures or systems. Locate the central tension, the
+queen-bishop development problem, and the main freeing break. A familiar setup must still
+adapt to the opponent’s structure.
+
+The source contains 7 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Richter-Veresov Attack
+2. Richter-Veresov Attack: Boyce Defense
+3. Richter-Veresov Attack: Malich Gambit
+4. Richter-Veresov Attack: Richter Variation
+5. Richter-Veresov Attack: Two Knights System
+6. Richter-Veresov Attack: Two Knights System, Grünfeld Defense
+7. Richter-Veresov Attack: Veresov Variation

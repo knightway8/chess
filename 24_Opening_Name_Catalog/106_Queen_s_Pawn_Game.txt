@@ -1,0 +1,64 @@
+Queen's Pawn Game
+=================
+
+This family belongs to queen-pawn structures or systems. Locate the central tension, the
+queen-bishop development problem, and the main freeing break. A familiar setup must still
+adapt to the opponent’s structure.
+
+The source contains 49 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Queen's Pawn Game
+2. Queen's Pawn Game: Accelerated London System
+3. Queen's Pawn Game: Accelerated London System, Steinitz Countergambit
+4. Queen's Pawn Game: Accelerated London System, Steinitz Countergambit Accepted
+5. Queen's Pawn Game: Accelerated London System, Steinitz Countergambit, Morris
+Countergambit
+6. Queen's Pawn Game: Accelerated London System, Steinitz Countergambit, Morris
+Countergambit Accepted
+7. Queen's Pawn Game: Anglo-Slav Opening
+8. Queen's Pawn Game: Anti-Torre
+9. Queen's Pawn Game: Barry Attack
+10. Queen's Pawn Game: Barry Attack, Grünfeld Variation
+11. Queen's Pawn Game: Barry Attack, Tarzan Attack
+12. Queen's Pawn Game: Chandler Gambit
+13. Queen's Pawn Game: Chigorin Variation
+14. Queen's Pawn Game: Chigorin Variation, Alburt Defense
+15. Queen's Pawn Game: Chigorin Variation, Anti-Veresov
+16. Queen's Pawn Game: Chigorin Variation, Fianchetto Defense
+17. Queen's Pawn Game: Chigorin Variation, Irish Gambit
+18. Queen's Pawn Game: Chigorin Variation, Shaviliuk Gambit
+19. Queen's Pawn Game: Chigorin Variation, Shropshire Defense
+20. Queen's Pawn Game: Colle System
+21. Queen's Pawn Game: Colle System, Anti-Colle
+22. Queen's Pawn Game: Colle System, Grünfeld Formation
+23. Queen's Pawn Game: Colle System, Traditional Colle
+24. Queen's Pawn Game: Hübsch Gambit
+25. Queen's Pawn Game: Krause Variation
+26. Queen's Pawn Game: Levitsky Attack
+27. Queen's Pawn Game: Levitsky Attack, Euwe Variation, Modern Line
+28. Queen's Pawn Game: Levitsky Attack, Welling Variation
+29. Queen's Pawn Game: Liedmann Gambit
+30. Queen's Pawn Game: London System
+31. Queen's Pawn Game: London System, distinguished by pawn move
+32. Queen's Pawn Game: London System, Pterodactyl Variation
+33. Queen's Pawn Game: Mason Attack
+34. Queen's Pawn Game: Modern Defense
+35. Queen's Pawn Game: Rossolimo Variation
+36. Queen's Pawn Game: Stonewall Attack
+37. Queen's Pawn Game: Symmetrical Variation
+38. Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan
+39. Queen's Pawn Game: Torre Attack
+40. Queen's Pawn Game: Torre Attack, Breyer Variation
+41. Queen's Pawn Game: Torre Attack, Gossip Variation
+42. Queen's Pawn Game: Torre Attack, Grünfeld Variation
+43. Queen's Pawn Game: Torre Attack, Grünfeld Variation, Main Line
+44. Queen's Pawn Game: Veresov Attack, Classical Defense
+45. Queen's Pawn Game: Veresov Attack, Dutch System
+46. Queen's Pawn Game: Veresov, Richter Attack
+47. Queen's Pawn Game: Zilbermints Countergambit
+48. Queen's Pawn Game: Zukertort Variation
+49. Queen's Pawn Game: Zurich Gambit

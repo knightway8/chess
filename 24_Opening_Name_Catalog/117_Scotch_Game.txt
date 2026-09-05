@@ -1,0 +1,61 @@
+Scotch Game
+===========
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 48 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Scotch Game
+2. Scotch Game: Alekhine Gambit
+3. Scotch Game: Benima Defense
+4. Scotch Game: Blumenfeld Attack
+5. Scotch Game: Braune Variation
+6. Scotch Game: Classical Variation
+7. Scotch Game: Classical Variation, Blackburne Attack
+8. Scotch Game: Classical Variation, Intermezzo Variation
+9. Scotch Game: Classical Variation, Millennium Variation
+10. Scotch Game: Cochrane Variation
+11. Scotch Game: Cochrane-Shumov Defense
+12. Scotch Game: Fraser Variation
+13. Scotch Game: Ghulam-Kassim Variation
+14. Scotch Game: Gottschall Variation
+15. Scotch Game: Göring Gambit
+16. Scotch Game: Göring Gambit, Bardeleben Variation
+17. Scotch Game: Göring Gambit, Double Pawn Sacrifice
+18. Scotch Game: Göring Gambit, Main Line
+19. Scotch Game: Hanneken Variation
+20. Scotch Game: Haxo Gambit
+21. Scotch Game: Horwitz Attack
+22. Scotch Game: Horwitz Attack, Blackburne Variation
+23. Scotch Game: Lolli Variation
+24. Scotch Game: Malaniuk Variation
+25. Scotch Game: Meitner Variation
+26. Scotch Game: Mieses Variation
+27. Scotch Game: Modern Defense
+28. Scotch Game: Napoleon Gambit
+29. Scotch Game: Paulsen Attack
+30. Scotch Game: Paulsen Variation
+31. Scotch Game: Paulsen, Gunsberg Defense
+32. Scotch Game: Potter Variation
+33. Scotch Game: Relfsson Gambit
+34. Scotch Game: Romanishin Variation
+35. Scotch Game: Rosenthal Variation
+36. Scotch Game: Schmidt Variation
+37. Scotch Game: Scotch Gambit
+38. Scotch Game: Scotch Gambit, Advance Variation
+39. Scotch Game: Scotch Gambit, Cochrane-Anderssen Variation
+40. Scotch Game: Scotch Gambit, Dubois Réti Defense
+41. Scotch Game: Scotch Gambit, Göring Gambit Declined
+42. Scotch Game: Scotch Gambit, Kingside Variation
+43. Scotch Game: Scotch Gambit, London Defense
+44. Scotch Game: Scotch Gambit, Sarratt Variation
+45. Scotch Game: Sea-Cadet Mate
+46. Scotch Game: Steinitz Variation
+47. Scotch Game: Tartakower Variation
+48. Scotch Game: Vitzthum Attack

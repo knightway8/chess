@@ -1,0 +1,56 @@
+Petrov's Defense
+================
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 43 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Petrov's Defense
+2. Petrov's Defense: Classical Attack
+3. Petrov's Defense: Classical Attack, Berger Variation
+4. Petrov's Defense: Classical Attack, Chigorin Variation
+5. Petrov's Defense: Classical Attack, Chigorin Variation, Browne Attack
+6. Petrov's Defense: Classical Attack, Chigorin Variation, Main Line
+7. Petrov's Defense: Classical Attack, Closed Variation
+8. Petrov's Defense: Classical Attack, Jaenisch Variation
+9. Petrov's Defense: Classical Attack, Krause Variation
+10. Petrov's Defense: Classical Attack, Marshall Trap
+11. Petrov's Defense: Classical Attack, Marshall Variation
+12. Petrov's Defense: Classical Attack, Marshall Variation, Chinese Gambit
+13. Petrov's Defense: Classical Attack, Maróczy Variation
+14. Petrov's Defense: Classical Attack, Mason Variation
+15. Petrov's Defense: Classical Attack, Mason-Showalter Variation
+16. Petrov's Defense: Classical Attack, Staunton Variation
+17. Petrov's Defense: Classical Attack, Tarrasch Variation
+18. Petrov's Defense: Cochrane Gambit
+19. Petrov's Defense: Cochrane Gambit, Bishop Check Line
+20. Petrov's Defense: Cochrane Gambit, Center Variation
+21. Petrov's Defense: Cozio Attack
+22. Petrov's Defense: Damiano Variation
+23. Petrov's Defense: Damiano Variation, Kholmov Gambit
+24. Petrov's Defense: French Attack
+25. Petrov's Defense: Italian Variation
+26. Petrov's Defense: Karklins-Martinovsky Variation
+27. Petrov's Defense: Kaufmann Attack
+28. Petrov's Defense: Millennium Attack
+29. Petrov's Defense: Modern Attack
+30. Petrov's Defense: Modern Attack, Bardeleben Variation
+31. Petrov's Defense: Modern Attack, Center Attack
+32. Petrov's Defense: Modern Attack, Center Variation
+33. Petrov's Defense: Modern Attack, Murrey Variation
+34. Petrov's Defense: Modern Attack, Steinitz Variation
+35. Petrov's Defense: Modern Attack, Symmetrical Variation
+36. Petrov's Defense: Modern Attack, Tal Gambit
+37. Petrov's Defense: Modern Attack, Trifunovic Variation
+38. Petrov's Defense: Moody Gambit
+39. Petrov's Defense: Nimzowitsch Attack
+40. Petrov's Defense: Paulsen Attack
+41. Petrov's Defense: Stafford Gambit
+42. Petrov's Defense: Stafford Gambit Accepted
+43. Petrov's Defense: Three Knights Game

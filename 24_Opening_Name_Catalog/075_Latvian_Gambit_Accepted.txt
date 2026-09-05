@@ -1,0 +1,22 @@
+Latvian Gambit Accepted
+=======================
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 9 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Latvian Gambit Accepted
+2. Latvian Gambit Accepted: Bilguer Variation
+3. Latvian Gambit Accepted: Bronstein Attack
+4. Latvian Gambit Accepted: Bronstein Gambit
+5. Latvian Gambit Accepted: Foltys Variation
+6. Latvian Gambit Accepted: Foltys-Leonhardt Variation
+7. Latvian Gambit Accepted: Leonhardt Variation
+8. Latvian Gambit Accepted: Main Line
+9. Latvian Gambit Accepted: Nimzowitsch Attack

@@ -1,0 +1,46 @@
+Pterodactyl Defense
+===================
+
+This is a rare, early-stage, or transpositional opening label. Begin with threats, center,
+development, and king safety. Ask what the unusual order permits or delays; do not assume
+that rarity proves either strength or weakness.
+
+The source contains 33 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Pterodactyl Defense
+2. Pterodactyl Defense: Austrian, Austriadactylus Western
+3. Pterodactyl Defense: Austrian, Grand Prix Pterodactyl
+4. Pterodactyl Defense: Austrian, Pteranodon
+5. Pterodactyl Defense: Central, Anhanguera
+6. Pterodactyl Defense: Central, Benoni Beefeater Pterodactyl
+7. Pterodactyl Defense: Central, Benoni Pterodactyl
+8. Pterodactyl Defense: Central, Benoni Quetzalcoatlus
+9. Pterodactyl Defense: Central, Bogolubovia
+10. Pterodactyl Defense: Central, Quetzalcoatlus Gambit
+11. Pterodactyl Defense: Eastern, Anhanguera
+12. Pterodactyl Defense: Eastern, Benoni
+13. Pterodactyl Defense: Eastern, Benoni Pteranodon
+14. Pterodactyl Defense: Eastern, Benoni Pterodactyl
+15. Pterodactyl Defense: Eastern, Pteranodon
+16. Pterodactyl Defense: Eastern, Rhamphorhynchus
+17. Pterodactyl Defense: Fianchetto, King Pterodactyl
+18. Pterodactyl Defense: Fianchetto, Queen Benoni Pterodactyl
+19. Pterodactyl Defense: Fianchetto, Queen Pteranodon
+20. Pterodactyl Defense: Fianchetto, Queen Pterodactyl
+21. Pterodactyl Defense: Fianchetto, Rhamphorhynchus
+22. Pterodactyl Defense: Queen Pterodactyl, Quiet Line
+23. Pterodactyl Defense: Sicilian, Anhanguera
+24. Pterodactyl Defense: Sicilian, Benoni Gambit
+25. Pterodactyl Defense: Sicilian, Pteranodon
+26. Pterodactyl Defense: Sicilian, Quetzalcoatlus
+27. Pterodactyl Defense: Sicilian, Rhamphorhynchus
+28. Pterodactyl Defense: Sicilian, Siroccopteryx
+29. Pterodactyl Defense: Sicilian, Unpin
+30. Pterodactyl Defense: Western, Anhanguera
+31. Pterodactyl Defense: Western, Pterodactyl
+32. Pterodactyl Defense: Western, Rhamphorhynchus
+33. Pterodactyl Defense: Western, Siroccopteryx

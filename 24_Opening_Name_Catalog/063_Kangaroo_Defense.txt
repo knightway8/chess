@@ -1,0 +1,15 @@
+Kangaroo Defense
+================
+
+This is a rare, early-stage, or transpositional opening label. Begin with threats, center,
+development, and king safety. Ask what the unusual order permits or delays; do not assume
+that rarity proves either strength or weakness.
+
+The source contains 2 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Kangaroo Defense
+2. Kangaroo Defense: Keres Defense, Transpositional Variation

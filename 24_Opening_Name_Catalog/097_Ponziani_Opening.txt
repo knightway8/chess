@@ -1,0 +1,26 @@
+Ponziani Opening
+================
+
+This family is connected to open or semi-open king-pawn play. Development, central contact,
+king safety, and tactical timing usually explain more than the label alone. Gambit names
+require an explicit account of compensation rather than faith in a trap.
+
+The source contains 13 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Ponziani Opening
+2. Ponziani Opening: Caro Gambit
+3. Ponziani Opening: Jaenisch Counterattack
+4. Ponziani Opening: Leonhardt Variation
+5. Ponziani Opening: Neumann Gambit
+6. Ponziani Opening: Ponziani Countergambit
+7. Ponziani Opening: Ponziani Countergambit, Schmidt Attack
+8. Ponziani Opening: Romanishin Variation
+9. Ponziani Opening: Réti Variation
+10. Ponziani Opening: Spanish Variation
+11. Ponziani Opening: Spanish Variation, Harrwitz Attack, Nikitin Gambit
+12. Ponziani Opening: Steinitz Variation
+13. Ponziani Opening: Vukovic Gambit

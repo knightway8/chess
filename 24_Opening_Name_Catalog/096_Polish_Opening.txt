@@ -1,0 +1,39 @@
+Polish Opening
+==============
+
+This family begins with flank control or flexible development. Its point is normally to
+influence the center and choose a favorable structure later. Track transpositions and do not
+treat the first move as a complete plan.
+
+The source contains 26 distinct named labels in this family. Move sequences and
+square-coordinate fragments are deliberately omitted. A name identifies a reference point,
+not a complete evaluation or repertoire.
+
+NAMED LINES
+
+1. Polish Opening
+2. Polish Opening, distinguished by pawn move
+3. Polish Opening: Baltic Defense
+4. Polish Opening: Birmingham Gambit
+5. Polish Opening: Bugayev Advance Variation
+6. Polish Opening: Bugayev Attack
+7. Polish Opening: Czech Defense
+8. Polish Opening: Dutch Defense
+9. Polish Opening: German Defense
+10. Polish Opening: Grigorian Variation
+11. Polish Opening: Karniewski Variation
+12. Polish Opening: King's Indian Variation
+13. Polish Opening: King's Indian Variation, Schiffler Attack
+14. Polish Opening: King's Indian Variation, Sokolsky Attack
+15. Polish Opening: Myers Variation
+16. Polish Opening: Outflank Variation
+17. Polish Opening: Outflank Variation, Schuehler Gambit
+18. Polish Opening: Queen's Indian Variation
+19. Polish Opening: Queenside Defense
+20. Polish Opening: Rooks Swap Line
+21. Polish Opening: Schiffler-Sokolsky Variation
+22. Polish Opening: Schuehler Gambit
+23. Polish Opening: Symmetrical Variation
+24. Polish Opening: Tartakower Gambit
+25. Polish Opening: Wolferts Gambit
+26. Polish Opening: Zukertort System
